@@ -1,0 +1,72 @@
+.document-preview {
+}
+.document-viewer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  display: grid;
+  row-gap: 10px;
+  border-radius: 0 0 15px 15px;
+
+  .react-pdf__Document {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 10px 5px;    
+    transition: 0.3s;
+    min-width: 1005px;
+
+    .react-pdf__Page {
+      transition: 0.3s;
+
+      .page-loader {
+        width: 500px;
+        height: 700px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        font-size: 60px;
+        // background: var(--bg);
+
+        @media (min-width: 400px) and (max-width: 500px) 
+          { width: 400px; height: 565px; }
+        @media (min-width: 350px) and (max-width: 399px) 
+          { width: 350px; height: 495px; }
+        @media (min-width: 300px) and (max-width: 349px) 
+          { width: 300px; height: 420px; }
+        @media (max-width: 299px) 
+          { width: 250px; height: 350px; }
+      }
+    }
+    @media (max-width: 1000px) { min-width: 500px; }
+  }
+  .info {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    font-size: var(--fs-3);
+    padding: 0 10px;
+
+    .controls {
+      display: flex;
+      gap: 0 10px;
+
+      button {
+        padding: 10px 20px;
+        border-radius: 30px;
+        transition: 0.3s;
+        background: var(--bg);
+        border: 2px solid var(--neutral-900);
+        color: var(--neutral-900);
+  
+        &:hover {
+          background: var(--neutral-900);
+          color: var(--neutral-100);
+        } 
+        &:active { scale: 0.95; }
+      }
+    }
+  }
+}

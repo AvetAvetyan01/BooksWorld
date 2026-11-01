@@ -1,0 +1,4733 @@
+[
+  {
+    "Author": {
+      "FullName": {
+        "English": "William Shakespeare",
+        "Russian": "Уильям Шекспир",
+        "Armenian": "Ուիլյամ Շեքսպիր"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Drama/Tragedy",
+          "Russian": "Драма/Трагедия",
+          "Armenian": "Դրամա/Ողբերգություն"
+        },
+        "Title": {
+          "English": "Hamlet",
+          "Russian": "Гамлет",
+          "Armenian": "Համլետ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Drama/Tragedy",
+          "Russian": "Драма/Трагедия",
+          "Armenian": "Դրամա/Ողբերգություն"
+        },
+        "Title": {
+          "English": "Macbeth",
+          "Russian": "Макбет",
+          "Armenian": "Մակբեթ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Drama/Tragedy",
+          "Russian": "Драма/Трагедия",
+          "Armenian": "Դրամա/Ողբերգություն"
+        },
+        "Title": {
+          "English": "Romeo and Juliet",
+          "Russian": "Ромео и Джульетта",
+          "Armenian": "Ռոմեո և Ջուլիետ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Drama/Tragedy",
+          "Russian": "Драма/Трагедия",
+          "Armenian": "Դրամա/Ողբերգություն"
+        },
+        "Title": {
+          "English": "Othello",
+          "Russian": "Отелло",
+          "Armenian": "Օթելլո"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Drama/Tragedy",
+          "Russian": "Драма/Трагедия",
+          "Armenian": "Դրամա/Ողբերգություն"
+        },
+        "Title": {
+          "English": "King Lear",
+          "Russian": "Король Лир",
+          "Armenian": "Լիր արքա"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Jane Austen",
+        "Russian": "Джейн Остин",
+        "Armenian": "Ջեյն Օսթին"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Romance",
+          "Russian": "Проза/Романтика",
+          "Armenian": "Արձակ/Սիրավեպ"
+        },
+        "Title": {
+          "English": "Pride and Prejudice",
+          "Russian": "Гордость и предубеждение",
+          "Armenian": "Հպարտություն և նախապաշարմունք"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Romance",
+          "Russian": "Проза/Романтика",
+          "Armenian": "Արձակ/Սիրավեպ"
+        },
+        "Title": {
+          "English": "Emma",
+          "Russian": "Эмма",
+          "Armenian": "Էմմա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Romance",
+          "Russian": "Проза/Романтика",
+          "Armenian": "Արձակ/Սիրավեպ"
+        },
+        "Title": {
+          "English": "Sense and Sensibility",
+          "Russian": "Разум и чувства",
+          "Armenian": "Զգացմունք և զգայունություն"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Romance",
+          "Russian": "Проза/Романтика",
+          "Armenian": "Արձակ/Սիրավեպ"
+        },
+        "Title": {
+          "English": "Persuasion",
+          "Russian": "Доводы рассудка",
+          "Armenian": "Համոզում"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Romance",
+          "Russian": "Проза/Романтика",
+          "Armenian": "Արձակ/Սիրավեպ"
+        },
+        "Title": {
+          "English": "Mansfield Park",
+          "Russian": "Мэнсфилд-парк",
+          "Armenian": "Մենսֆիլդ պարկ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Charles Dickens",
+        "Russian": "Чарльз Диккенс",
+        "Armenian": "Չարլզ Դիքենս"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Oliver Twist",
+          "Russian": "Оливер Твист",
+          "Armenian": "Օլիվեր Թվիստ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Great Expectations",
+          "Russian": "Большие надежды",
+          "Armenian": "Մեծ ակնկալիքներ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "A Tale of Two Cities",
+          "Russian": "Повесть о двух городах",
+          "Armenian": "Պատմություն երկու քաղաքի մասին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "David Copperfield",
+          "Russian": "Дэвид Копперфилд",
+          "Armenian": "Դեյվիդ Քոփերֆիլդ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "A Christmas Carol",
+          "Russian": "Рождественская песнь",
+          "Armenian": "Սուրբծննդյան երգ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Mary Shelley",
+        "Russian": "Мэри Шелли",
+        "Armenian": "Մերի Շելլի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Science Fiction/Gothic",
+          "Russian": "Научная фантастика/Готика",
+          "Armenian": "Գիտական ֆանտաստիկա/Գոթական գրականություն"
+        },
+        "Title": {
+          "English": "Frankenstein",
+          "Russian": "Франкенштейн",
+          "Armenian": "Ֆրանկենշտեյն"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Last Man",
+          "Russian": "Последний человек",
+          "Armenian": "Վերջին մարդը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Mark Twain",
+        "Russian": "Марк Твен",
+        "Armenian": "Մարկ Տվեն"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Adventure/Classic",
+          "Russian": "Приключения/Классика",
+          "Armenian": "Արկածային գրականություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Adventures of Tom Sawyer",
+          "Russian": "Приключения Тома Сойера",
+          "Armenian": "Թոմ Սոյերի արկածները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Classic",
+          "Russian": "Приключения/Классика",
+          "Armenian": "Արկածային գրականություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Adventures of Huckleberry Finn",
+          "Russian": "Приключения Гекльберри Финна",
+          "Armenian": "Հաքլբերի Ֆինի արկածները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Classic",
+          "Russian": "Приключения/Классика",
+          "Armenian": "Արկածային գրականություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Prince and the Pauper",
+          "Russian": "Принц и нищий",
+          "Armenian": "Արքայազնը և աղքատը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Classic",
+          "Russian": "Приключения/Классика",
+          "Armenian": "Արկածային գրականություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "A Connecticut Yankee in King Arthur's Court",
+          "Russian": "Янки из Коннектикута при дворе короля Артура",
+          "Armenian": "Կոնեկտիկուտցի յանկին Արթուր թագավորի արքունիքում"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Herman Melville",
+        "Russian": "Герман Мелвилл",
+        "Armenian": "Հերման Մելվիլ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Adventure/Sea Fiction",
+          "Russian": "Приключения/Морская проза",
+          "Armenian": "Արկածային գրականություն/Ծովային արձակ"
+        },
+        "Title": {
+          "English": "Moby-Dick",
+          "Russian": "Моби Дик",
+          "Armenian": "Մոբի Դիկ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Billy Budd",
+          "Russian": "Билли Бадд",
+          "Armenian": "Բիլլի Բադ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Sea Fiction",
+          "Russian": "Приключения/Морская проза",
+          "Armenian": "Արկածային գրականություն/Ծովային արձակ"
+        },
+        "Title": {
+          "English": "Typee",
+          "Russian": "Тайпи",
+          "Armenian": "Տայփի"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Sea Fiction",
+          "Russian": "Приключения/Морская проза",
+          "Armenian": "Արկածային գրականություն/Ծովային արձակ"
+        },
+        "Title": {
+          "English": "White-Jacket",
+          "Russian": "Белый бушлат",
+          "Armenian": "Սպիտակ բաճկոնը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Nathaniel Hawthorne",
+        "Russian": "Натаниэль Готорн",
+        "Armenian": "Նաթանիել Հոթորն"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Scarlet Letter",
+          "Russian": "Алая буква",
+          "Armenian": "Կարմիր տառը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The House of the Seven Gables",
+          "Russian": "Дом о семи фронтонах",
+          "Armenian": "Յոթ ճակտոններով տունը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Blithedale Romance",
+          "Russian": "Роман о Блайтдейле",
+          "Armenian": "Բլայթդեյլի սիրավեպը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Marble Faun",
+          "Russian": "Мраморный фавн",
+          "Armenian": "Մարմարե ֆավնը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Edgar Allan Poe",
+        "Russian": "Эдгар Аллан По",
+        "Armenian": "Էդգար Ալան Պո"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Mystery/Gothic",
+          "Russian": "Детектив/Готика",
+          "Armenian": "Դետեկտիվ/Գոթական գրականություն"
+        },
+        "Title": {
+          "English": "The Fall of the House of Usher",
+          "Russian": "Падение дома Ашеров",
+          "Armenian": "Աշերների տան անկումը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Mystery/Detective",
+          "Russian": "Детектив/Детектив",
+          "Armenian": "Դետեկտիվ/Դետեկտիվ"
+        },
+        "Title": {
+          "English": "The Murders in the Rue Morgue",
+          "Russian": "Убийство на улице Морг",
+          "Armenian": "Սպանություններ Մորգ փողոցում"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Mystery/Gothic",
+          "Russian": "Детектив/Готика",
+          "Armenian": "Դետեկտիվ/Գոթական գրականություն"
+        },
+        "Title": {
+          "English": "The Narrative of Arthur Gordon Pym",
+          "Russian": "Повесть о приключениях Артура Гордона Пима",
+          "Armenian": "Արթուր Գորդոն Փիմի արկածների պատմությունը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Mystery/Gothic",
+          "Russian": "Детектив/Готика",
+          "Armenian": "Դետեկտիվ/Գոթական գրականություն"
+        },
+        "Title": {
+          "English": "The Raven and Other Poems",
+          "Russian": "Ворон и другие стихотворения",
+          "Armenian": "Ագռավը և այլ բանաստեղծություններ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Walt Whitman",
+        "Russian": "Уолт Уитмен",
+        "Armenian": "Ուոլթ Ուիթմեն"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Leaves of Grass",
+          "Russian": "Листья травы",
+          "Armenian": "Խոտի տերևներ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Drum-Taps",
+          "Russian": "Удары барабана",
+          "Armenian": "Թմբուկի զարկեր"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Emily Dickinson",
+        "Russian": "Эмили Дикинсон",
+        "Armenian": "Էմիլի Դիկինսոն"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Because I Could Not Stop for Death",
+          "Russian": "Потому что я не могла остановиться перед смертью",
+          "Armenian": "Որովհետև չէի կարող կանգ առնել մահվան համար"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "I'm Nobody! Who Are You?",
+          "Russian": "Я никто! А кто ты?",
+          "Armenian": "Ես ոչ ոք եմ։ Իսկ դո՞ւ ով ես"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Louisa May Alcott",
+        "Russian": "Луиза Мэй Олкотт",
+        "Armenian": "Լուիզա Մեյ Օլքոթ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Coming of age",
+          "Russian": "Проза/Роман взросления",
+          "Armenian": "Արձակ/Կայացման վեպ"
+        },
+        "Title": {
+          "English": "Little Women",
+          "Russian": "Маленькие женщины",
+          "Armenian": "Փոքրիկ կանայք"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Coming of age",
+          "Russian": "Проза/Роман взросления",
+          "Armenian": "Արձակ/Կայացման վեպ"
+        },
+        "Title": {
+          "English": "Little Men",
+          "Russian": "Маленькие мужчины",
+          "Armenian": "Փոքրիկ տղամարդիկ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Coming of age",
+          "Russian": "Проза/Роман взросления",
+          "Armenian": "Արձակ/Կայացման վեպ"
+        },
+        "Title": {
+          "English": "Jo's Boys",
+          "Russian": "Мальчики Джо",
+          "Armenian": "Ջոյի տղաները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Coming of age",
+          "Russian": "Проза/Роман взросления",
+          "Armenian": "Արձակ/Կայացման վեպ"
+        },
+        "Title": {
+          "English": "Eight Cousins",
+          "Russian": "Восемь кузенов",
+          "Armenian": "Ութ զարմիկները"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "L. Frank Baum",
+        "Russian": "Лаймен Фрэнк Баум",
+        "Armenian": "Լայման Ֆրենկ Բաում"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fantasy/Children's",
+          "Russian": "Фэнтези/Детская литература",
+          "Armenian": "Ֆենթեզի/Մանկական գրականություն"
+        },
+        "Title": {
+          "English": "The Wonderful Wizard of Oz",
+          "Russian": "Удивительный волшебник из страны Оз",
+          "Armenian": "Օզի հրաշագործը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Children's",
+          "Russian": "Фэнтези/Детская литература",
+          "Armenian": "Ֆենթեզի/Մանկական գրականություն"
+        },
+        "Title": {
+          "English": "The Marvelous Land of Oz",
+          "Russian": "Чудесная страна Оз",
+          "Armenian": "Օզի հրաշալի երկիրը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Children's",
+          "Russian": "Фэнтези/Детская литература",
+          "Armenian": "Ֆենթեզի/Մանկական գրականություն"
+        },
+        "Title": {
+          "English": "Ozma of Oz",
+          "Russian": "Озма из Страны Оз",
+          "Armenian": "Օզմա Օզի երկրից"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Children's",
+          "Russian": "Фэнтези/Детская литература",
+          "Armenian": "Ֆենթեզի/Մանկական գրականություն"
+        },
+        "Title": {
+          "English": "Dorothy and the Wizard in Oz",
+          "Russian": "Дороти и волшебник в стране Оз",
+          "Armenian": "Դորոթին և հրաշագործը Օզի երկրում"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Jack London",
+        "Russian": "Джек Лондон",
+        "Armenian": "Ջեք Լոնդոն"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Adventure/Classic",
+          "Russian": "Приключения/Классика",
+          "Armenian": "Արկածային գրականություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Call of the Wild",
+          "Russian": "Зов предков",
+          "Armenian": "Վայրիի կանչը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Classic",
+          "Russian": "Приключения/Классика",
+          "Armenian": "Արկածային գրականություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "White Fang",
+          "Russian": "Белый Клык",
+          "Armenian": "Սպիտակ Ժանիք"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Classic",
+          "Russian": "Приключения/Классика",
+          "Armenian": "Արկածային գրականություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Martin Eden",
+          "Russian": "Мартин Иден",
+          "Armenian": "Մարտին Իդեն"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Classic",
+          "Russian": "Приключения/Классика",
+          "Armenian": "Արկածային գրականություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Sea-Wolf",
+          "Russian": "Морской волк",
+          "Armenian": "Ծովային գայլը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Upton Sinclair",
+        "Russian": "Аптон Синклер",
+        "Armenian": "Ափթոն Սինքլեր"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Social",
+          "Russian": "Проза/Социальная проза",
+          "Armenian": "Արձակ/Սոցիալական արձակ"
+        },
+        "Title": {
+          "English": "The Jungle",
+          "Russian": "Джунгли",
+          "Armenian": "Ջունգլիները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Political",
+          "Russian": "Проза/Политическая проза",
+          "Armenian": "Արձակ/Քաղաքական արձակ"
+        },
+        "Title": {
+          "English": "Oil!",
+          "Russian": "Нефть!",
+          "Armenian": "Նավթը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Social",
+          "Russian": "Проза/Социальная проза",
+          "Armenian": "Արձակ/Սոցիալական արձակ"
+        },
+        "Title": {
+          "English": "King Coal",
+          "Russian": "Король Уголь",
+          "Armenian": "Ածխի արքան"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Social",
+          "Russian": "Проза/Социальная проза",
+          "Armenian": "Արձակ/Սոցիալական արձակ"
+        },
+        "Title": {
+          "English": "The Metropolis",
+          "Russian": "Метрополис",
+          "Armenian": "Մետրոպոլիս"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "F. Scott Fitzgerald",
+        "Russian": "Фрэнсис Скотт Фицджеральд",
+        "Armenian": "Ֆրենսիս Սքոթ Ֆիցջերալդ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Great Gatsby",
+          "Russian": "Великий Гэтсби",
+          "Armenian": "Մեծն Գեթսբի"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Tender Is the Night",
+          "Russian": "Ночь нежна",
+          "Armenian": "Քնքուշ է գիշերը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "This Side of Paradise",
+          "Russian": "По эту сторону рая",
+          "Armenian": "Դրախտի այս կողմում"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Beautiful and Damned",
+          "Russian": "Прекрасные и проклятые",
+          "Armenian": "Գեղեցիկն ու անիծվածը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Ernest Hemingway",
+        "Russian": "Эрнест Хемингуэй",
+        "Armenian": "Էռնեստ Հեմինգուեյ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Old Man and the Sea",
+          "Russian": "Старик и море",
+          "Armenian": "Ծերունին և ծովը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/War",
+          "Russian": "Проза/Военная проза",
+          "Armenian": "Արձակ/Պատերազմական արձակ"
+        },
+        "Title": {
+          "English": "A Farewell to Arms",
+          "Russian": "Прощай, оружие!",
+          "Armenian": "Հրաժեշտ զենքին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "For Whom the Bell Tolls",
+          "Russian": "По ком звонит колокол",
+          "Armenian": "Ում մահն է գուժում զանգը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Sun Also Rises",
+          "Russian": "И восходит солнце",
+          "Armenian": "Եվ ծագում է արևը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "William Faulkner",
+        "Russian": "Уильям Фолкнер",
+        "Armenian": "Ուիլյամ Ֆոլքներ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "The Sound and the Fury",
+          "Russian": "Шум и ярость",
+          "Armenian": "Աղմուկ և ցասում"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "As I Lay Dying",
+          "Russian": "Когда я умирала",
+          "Armenian": "Մինչև մեռնելս"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "Light in August",
+          "Russian": "Свет в августе",
+          "Armenian": "Լույսը օգոստոսին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "Absalom, Absalom!",
+          "Russian": "Авессалом, Авессалом!",
+          "Armenian": "Աբիսողոմ, Աբիսողոմ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "John Steinbeck",
+        "Russian": "Джон Стейнбек",
+        "Armenian": "Ջոն Սթայնբեք"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Grapes of Wrath",
+          "Russian": "Гроздья гнева",
+          "Armenian": "Ցասման ողկույզները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Of Mice and Men",
+          "Russian": "О мышах и людях",
+          "Armenian": "Մկների և մարդկանց մասին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "East of Eden",
+          "Russian": "К востоку от Эдема",
+          "Armenian": "Եդեմից արևելք"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Tortilla Flat",
+          "Russian": "Квартал Тортилья-Флэт",
+          "Armenian": "Տորտիլյա Ֆլեթ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Toni Morrison",
+        "Russian": "Тони Моррисон",
+        "Armenian": "Թոնի Մորիսոն"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "Beloved",
+          "Russian": "Возлюбленная",
+          "Armenian": "Սիրելին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Song of Solomon",
+          "Russian": "Песнь Соломона",
+          "Armenian": "Սողոմոնի երգը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Bluest Eye",
+          "Russian": "Самый голубой глаз",
+          "Armenian": "Ամենակապույտ աչքը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "A Mercy",
+          "Russian": "Милосердие",
+          "Armenian": "Գթասրտություն"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Harper Lee",
+        "Russian": "Харпер Ли",
+        "Armenian": "Հարփեր Լի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "To Kill a Mockingbird",
+          "Russian": "Убить пересмешника",
+          "Armenian": "Սպանել ծաղրասարյակին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Go Set a Watchman",
+          "Russian": "Пойди поставь сторожа",
+          "Armenian": "Գնա՛, պահապան դիր"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "J. D. Salinger",
+        "Russian": "Джером Дэвид Сэлинджер",
+        "Armenian": "Ջերոմ Դեյվիդ Սելինջեր"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Coming of age",
+          "Russian": "Проза/Роман взросления",
+          "Armenian": "Արձակ/Կայացման վեպ"
+        },
+        "Title": {
+          "English": "The Catcher in the Rye",
+          "Russian": "Над пропастью во ржи",
+          "Armenian": "Տարեկանի արտում՝ անդունդի եզրին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Short Stories",
+          "Russian": "Проза/Рассказы",
+          "Armenian": "Արձակ/Պատմվածքներ"
+        },
+        "Title": {
+          "English": "Franny and Zooey",
+          "Russian": "Фрэнни и Зуи",
+          "Armenian": "Ֆրեննին և Զուին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Coming of age",
+          "Russian": "Проза/Роман взросления",
+          "Armenian": "Արձակ/Կայացման վեպ"
+        },
+        "Title": {
+          "English": "Nine Stories",
+          "Russian": "Девять рассказов",
+          "Armenian": "Ինը պատմվածք"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Coming of age",
+          "Russian": "Проза/Роман взросления",
+          "Armenian": "Արձակ/Կայացման վեպ"
+        },
+        "Title": {
+          "English": "Raise High the Roof Beam, Carpenters",
+          "Russian": "Выше стропила, плотники",
+          "Armenian": "Բարձրացրե՛ք գերանները, հյուսներ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Ray Bradbury",
+        "Russian": "Рэй Брэдбери",
+        "Armenian": "Ռեյ Բրեդբերի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Science Fiction/Dystopian",
+          "Russian": "Научная фантастика/Антиутопия",
+          "Armenian": "Գիտական ֆանտաստիկա/Դիստոպիա"
+        },
+        "Title": {
+          "English": "Fahrenheit 451",
+          "Russian": "451 градус по Фаренгейту",
+          "Armenian": "451 աստիճան ըստ Ֆարենհայթի"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Anthology",
+          "Russian": "Научная фантастика/Антология",
+          "Armenian": "Գիտական ֆանտաստիկա/Անթոլոգիա"
+        },
+        "Title": {
+          "English": "The Martian Chronicles",
+          "Russian": "Марсианские хроники",
+          "Armenian": "Մարսյան քրոնիկոնները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Dystopian",
+          "Russian": "Научная фантастика/Антиутопия",
+          "Armenian": "Գիտական ֆանտաստիկա/Դիստոպիա"
+        },
+        "Title": {
+          "English": "Dandelion Wine",
+          "Russian": "Вино из одуванчиков",
+          "Armenian": "Խատուտիկի գինի"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Dystopian",
+          "Russian": "Научная фантастика/Антиутопия",
+          "Armenian": "Գիտական ֆանտաստիկա/Դիստոպիա"
+        },
+        "Title": {
+          "English": "Something Wicked This Way Comes",
+          "Russian": "Надвигается беда",
+          "Armenian": "Չարիքը մոտենում է"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Ursula K. Le Guin",
+        "Russian": "Урсула Ле Гуин",
+        "Armenian": "Ուրսուլա Լը Գուին"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fantasy/Epic Fantasy",
+          "Russian": "Фэнтези/Эпическое фэнтези",
+          "Armenian": "Ֆենթեզի/Էպիկական ֆենթեզի"
+        },
+        "Title": {
+          "English": "A Wizard of Earthsea",
+          "Russian": "Волшебник Земноморья",
+          "Armenian": "Երկրծովքի հրաշագործը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Utopian",
+          "Russian": "Научная фантастика/Утопия",
+          "Armenian": "Գիտական ֆանտաստիկա/Ուտոպիա"
+        },
+        "Title": {
+          "English": "The Dispossessed",
+          "Russian": "Обездоленные",
+          "Armenian": "Անտունները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Epic Fantasy",
+          "Russian": "Фэнтези/Эпическое фэнтези",
+          "Armenian": "Ֆենթեզի/Էպիկական ֆենթեզի"
+        },
+        "Title": {
+          "English": "The Left Hand of Darkness",
+          "Russian": "Левая рука тьмы",
+          "Armenian": "Խավարի ձախ ձեռքը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Epic Fantasy",
+          "Russian": "Фэнтези/Эпическое фэнтези",
+          "Armenian": "Ֆենթեզի/Էպիկական ֆենթեզի"
+        },
+        "Title": {
+          "English": "The Tombs of Atuan",
+          "Russian": "Гробницы Атуана",
+          "Armenian": "Ատուանի դամբարանները"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Isaac Asimov",
+        "Russian": "Айзек Азимов",
+        "Armenian": "Այզեկ Ազիմով"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Science Fiction/Space Opera",
+          "Russian": "Научная фантастика/Космическая опера",
+          "Armenian": "Գիտական ֆանտաստիկա/Տիեզերական օպերա"
+        },
+        "Title": {
+          "English": "Foundation",
+          "Russian": "Основание",
+          "Armenian": "Հիմնադրամը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Robot Fiction",
+          "Russian": "Научная фантастика/Робототехническая фантастика",
+          "Armenian": "Գիտական ֆանտաստիկա/Ռոբոտների մասին ֆանտաստիկա"
+        },
+        "Title": {
+          "English": "I, Robot",
+          "Russian": "Я, робот",
+          "Armenian": "Ես՝ ռոբոտը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Space Opera",
+          "Russian": "Научная фантастика/Космическая опера",
+          "Armenian": "Գիտական ֆանտաստիկա/Տիեզերական օպերա"
+        },
+        "Title": {
+          "English": "The Caves of Steel",
+          "Russian": "Стальные пещеры",
+          "Armenian": "Պողպատե քարանձավները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Space Opera",
+          "Russian": "Научная фантастика/Космическая опера",
+          "Armenian": "Գիտական ֆանտաստիկա/Տիեզերական օպերա"
+        },
+        "Title": {
+          "English": "The Gods Themselves",
+          "Russian": "Сами боги",
+          "Armenian": "Իրենք՝ աստվածները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Space Opera",
+          "Russian": "Научная фантастика/Космическая опера",
+          "Armenian": "Գիտական ֆանտաստիկա/Տիեզերական օպերա"
+        },
+        "Title": {
+          "English": "Second Foundation",
+          "Russian": "Вторая Фундация",
+          "Armenian": "Երկրորդ Հիմնադրամը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Arthur C. Clarke",
+        "Russian": "Артур Кларк",
+        "Armenian": "Արթուր Քլարք"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Science Fiction/Space",
+          "Russian": "Научная фантастика/Космос",
+          "Armenian": "Գիտական ֆանտաստիկա/Տիեզերք"
+        },
+        "Title": {
+          "English": "2001: A Space Odyssey",
+          "Russian": "2001: Космическая одиссея",
+          "Armenian": "2001․ Տիեզերական ոդիսական"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Classic",
+          "Russian": "Научная фантастика/Классика",
+          "Armenian": "Գիտական ֆանտաստիկա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Childhood's End",
+          "Russian": "Конец детства",
+          "Armenian": "Մանկության ավարտը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Space",
+          "Russian": "Научная фантастика/Космос",
+          "Armenian": "Գիտական ֆանտաստիկա/Տիեզերք"
+        },
+        "Title": {
+          "English": "Rendezvous with Rama",
+          "Russian": "Свидание с Рамой",
+          "Armenian": "Հանդիպում Ռամայի հետ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Space",
+          "Russian": "Научная фантастика/Космос",
+          "Armenian": "Գիտական ֆանտաստիկա/Տիեզերք"
+        },
+        "Title": {
+          "English": "The City and the Stars",
+          "Russian": "Город и звёзды",
+          "Armenian": "Քաղաքն ու աստղերը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Frank Herbert",
+        "Russian": "Фрэнк Герберт",
+        "Armenian": "Ֆրենկ Հերբերտ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Science Fiction/Space Opera",
+          "Russian": "Научная фантастика/Космическая опера",
+          "Armenian": "Գիտական ֆանտաստիկա/Տիեզերական օպերա"
+        },
+        "Title": {
+          "English": "Dune",
+          "Russian": "Дюна",
+          "Armenian": "Դյունա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Space Opera",
+          "Russian": "Научная фантастика/Космическая опера",
+          "Armenian": "Գիտական ֆանտաստիկա/Տիեզերական օպերա"
+        },
+        "Title": {
+          "English": "Dune Messiah",
+          "Russian": "Мессия Дюны",
+          "Armenian": "Դյունայի մեսիան"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Space Opera",
+          "Russian": "Научная фантастика/Космическая опера",
+          "Armenian": "Գիտական ֆանտաստիկա/Տիեզերական օպերա"
+        },
+        "Title": {
+          "English": "Children of Dune",
+          "Russian": "Дети Дюны",
+          "Armenian": "Դյունի երեխաները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Space Opera",
+          "Russian": "Научная фантастика/Космическая опера",
+          "Armenian": "Գիտական ֆանտաստիկա/Տիեզերական օպերա"
+        },
+        "Title": {
+          "English": "God Emperor of Dune",
+          "Russian": "Бог-Император Дюны",
+          "Armenian": "Դյունի Աստված-կայսրը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Philip K. Dick",
+        "Russian": "Филип К. Дик",
+        "Armenian": "Ֆիլիպ Ք. Դիք"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Science Fiction/Dystopian",
+          "Russian": "Научная фантастика/Антиутопия",
+          "Armenian": "Գիտական ֆանտաստիկա/Դիստոպիա"
+        },
+        "Title": {
+          "English": "Do Androids Dream of Electric Sheep?",
+          "Russian": "Мечтают ли андроиды об электроовцах?",
+          "Armenian": "Անդրոիդները երազո՞ւմ են էլեկտրական ոչխարների մասին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Alternate History",
+          "Russian": "Научная фантастика/Альтернативная история",
+          "Armenian": "Գիտական ֆանտաստիկա/Այլընտրանքային պատմություն"
+        },
+        "Title": {
+          "English": "The Man in the High Castle",
+          "Russian": "Человек в высоком замке",
+          "Armenian": "Մարդը բարձր դղյակում"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Dystopian",
+          "Russian": "Научная фантастика/Антиутопия",
+          "Armenian": "Գիտական ֆանտաստիկա/Դիստոպիա"
+        },
+        "Title": {
+          "English": "Ubik",
+          "Russian": "Убик",
+          "Armenian": "Ուբիկ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Dystopian",
+          "Russian": "Научная фантастика/Антиутопия",
+          "Armenian": "Գիտական ֆանտաստիկա/Դիստոպիա"
+        },
+        "Title": {
+          "English": "A Scanner Darkly",
+          "Russian": "Помутнение",
+          "Armenian": "Մթնշաղի սկաներ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Kurt Vonnegut",
+        "Russian": "Курт Воннегут",
+        "Armenian": "Քուրթ Վոննեգութ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Science Fiction/Satire",
+          "Russian": "Научная фантастика/Сатира",
+          "Armenian": "Գիտական ֆանտաստիկա/Երգիծանք"
+        },
+        "Title": {
+          "English": "Slaughterhouse-Five",
+          "Russian": "Бойня номер пять",
+          "Armenian": "Սպանդանոց հինգը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Satire",
+          "Russian": "Проза/Сатира",
+          "Armenian": "Արձակ/Երգիծանք"
+        },
+        "Title": {
+          "English": "Cat's Cradle",
+          "Russian": "Колыбель для кошки",
+          "Armenian": "Օրորոց կատվի համար"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Satire",
+          "Russian": "Научная фантастика/Сатира",
+          "Armenian": "Գիտական ֆանտաստիկա/Երգիծանք"
+        },
+        "Title": {
+          "English": "Breakfast of Champions",
+          "Russian": "Завтрак для чемпионов",
+          "Armenian": "Չեմպիոնների նախաճաշը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Satire",
+          "Russian": "Научная фантастика/Сатира",
+          "Armenian": "Գիտական ֆանտաստիկա/Երգիծանք"
+        },
+        "Title": {
+          "English": "Mother Night",
+          "Russian": "Мать Тьма",
+          "Armenian": "Մայր Գիշերը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Stephen King",
+        "Russian": "Стивен Кинг",
+        "Armenian": "Սթիվեն Քինգ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Horror/Supernatural",
+          "Russian": "Ужасы/Сверхъестественное",
+          "Armenian": "Սարսափ/Գերբնական"
+        },
+        "Title": {
+          "English": "The Shining",
+          "Russian": "Сияние",
+          "Armenian": "Փայլը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Horror/Supernatural",
+          "Russian": "Ужасы/Сверхъестественное",
+          "Armenian": "Սարսափ/Գերբնական"
+        },
+        "Title": {
+          "English": "Pet Sematary",
+          "Russian": "Кладбище домашних животных",
+          "Armenian": "Ընտանի կենդանիների գերեզմանոցը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Horror/Supernatural",
+          "Russian": "Ужасы/Сверхъестественное",
+          "Armenian": "Սարսափ/Գերբնական"
+        },
+        "Title": {
+          "English": "It",
+          "Russian": "Оно",
+          "Armenian": "Այն"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Horror/Supernatural",
+          "Russian": "Ужасы/Сверхъестественное",
+          "Armenian": "Սարսափ/Գերբնական"
+        },
+        "Title": {
+          "English": "The Stand",
+          "Russian": "Противостояние",
+          "Armenian": "Դիմակայություն"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Horror/Supernatural",
+          "Russian": "Ужасы/Сверхъестественное",
+          "Armenian": "Սարսափ/Գերբնական"
+        },
+        "Title": {
+          "English": "Carrie",
+          "Russian": "Кэрри",
+          "Armenian": "Քերի"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Agatha Christie",
+        "Russian": "Агата Кристи",
+        "Armenian": "Ագաթա Քրիստի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Mystery/Detective",
+          "Russian": "Детектив/Детектив",
+          "Armenian": "Դետեկտիվ/Դետեկտիվ"
+        },
+        "Title": {
+          "English": "Murder on the Orient Express",
+          "Russian": "Убийство в Восточном экспрессе",
+          "Armenian": "Սպանություն Արևելյան ճեպընթացում"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Mystery/Detective",
+          "Russian": "Детектив/Детектив",
+          "Armenian": "Դետեկտիվ/Դետեկտիվ"
+        },
+        "Title": {
+          "English": "And Then There Were None",
+          "Russian": "И никого не стало",
+          "Armenian": "Եվ ոչ ոք չմնաց"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Mystery/Detective",
+          "Russian": "Детектив/Детектив",
+          "Armenian": "Դետեկտիվ/Դետեկտիվ"
+        },
+        "Title": {
+          "English": "Death on the Nile",
+          "Russian": "Смерть на Ниле",
+          "Armenian": "Մահ Նեղոսի վրա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Mystery/Detective",
+          "Russian": "Детектив/Детектив",
+          "Armenian": "Դետեկտիվ/Դետեկտիվ"
+        },
+        "Title": {
+          "English": "The Murder of Roger Ackroyd",
+          "Russian": "Убийство Роджера Экройда",
+          "Armenian": "Ռոջեր Էքրոյդի սպանությունը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Mystery/Detective",
+          "Russian": "Детектив/Детектив",
+          "Armenian": "Դետեկտիվ/Դետեկտիվ"
+        },
+        "Title": {
+          "English": "The ABC Murders",
+          "Russian": "Убийства по алфавиту",
+          "Armenian": "Այբբենական սպանությունները"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Arthur Conan Doyle",
+        "Russian": "Артур Конан Дойл",
+        "Armenian": "Արթուր Քոնան Դոյլ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Mystery/Detective",
+          "Russian": "Детектив/Детектив",
+          "Armenian": "Դետեկտիվ/Դետեկտիվ"
+        },
+        "Title": {
+          "English": "The Hound of the Baskervilles",
+          "Russian": "Собака Баскервилей",
+          "Armenian": "Բասկերվիլների շունը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Mystery/Detective",
+          "Russian": "Детектив/Детектив",
+          "Armenian": "Դետեկտիվ/Դետեկտիվ"
+        },
+        "Title": {
+          "English": "A Study in Scarlet",
+          "Russian": "Этюд в багровых тонах",
+          "Armenian": "Ուսումնասիրություն կարմիրի մեջ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Mystery/Detective",
+          "Russian": "Детектив/Детектив",
+          "Armenian": "Դետեկտիվ/Դետեկտիվ"
+        },
+        "Title": {
+          "English": "The Adventures of Sherlock Holmes",
+          "Russian": "Приключения Шерлока Холмса",
+          "Armenian": "Շերլոկ Հոլմսի արկածները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Mystery/Detective",
+          "Russian": "Детектив/Детектив",
+          "Armenian": "Դետեկտիվ/Դետեկտիվ"
+        },
+        "Title": {
+          "English": "The Sign of the Four",
+          "Russian": "Знак четырёх",
+          "Armenian": "Չորսի նշանը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "H. G. Wells",
+        "Russian": "Герберт Уэллс",
+        "Armenian": "Հերբերտ Ուելս"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Science Fiction/Classic",
+          "Russian": "Научная фантастика/Классика",
+          "Armenian": "Գիտական ֆանտաստիկա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Time Machine",
+          "Russian": "Машина времени",
+          "Armenian": "Ժամանակի մեքենան"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Classic",
+          "Russian": "Научная фантастика/Классика",
+          "Armenian": "Գիտական ֆանտաստիկա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The War of the Worlds",
+          "Russian": "Война миров",
+          "Armenian": "Աշխարհների պատերազմը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Classic",
+          "Russian": "Научная фантастика/Классика",
+          "Armenian": "Գիտական ֆանտաստիկա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Invisible Man",
+          "Russian": "Человек-невидимка",
+          "Armenian": "Անտեսանելի մարդը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Science Fiction/Classic",
+          "Russian": "Научная фантастика/Классика",
+          "Armenian": "Գիտական ֆանտաստիկա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The First Men in the Moon",
+          "Russian": "Первые люди на Луне",
+          "Armenian": "Առաջին մարդիկ Լուսնի վրա"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "J. R. R. Tolkien",
+        "Russian": "Джон Рональд Руэл Толкин",
+        "Armenian": "Ջոն Ռոնալդ Ռուել Թոլքին"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fantasy/Epic Fantasy",
+          "Russian": "Фэнтези/Эпическое фэнтези",
+          "Armenian": "Ֆենթեզի/Էպիկական ֆենթեզի"
+        },
+        "Title": {
+          "English": "The Hobbit",
+          "Russian": "Хоббит",
+          "Armenian": "Հոբիթը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Epic Fantasy",
+          "Russian": "Фэнтези/Эпическое фэнтези",
+          "Armenian": "Ֆենթեզի/Էպիկական ֆենթեզի"
+        },
+        "Title": {
+          "English": "The Fellowship of the Ring",
+          "Russian": "Братство Кольца",
+          "Armenian": "Մատանու եղբայրությունը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Epic Fantasy",
+          "Russian": "Фэнтези/Эпическое фэнтези",
+          "Armenian": "Ֆենթեզի/Էպիկական ֆենթեզի"
+        },
+        "Title": {
+          "English": "The Two Towers",
+          "Russian": "Две крепости",
+          "Armenian": "Երկու աշտարակները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Epic Fantasy",
+          "Russian": "Фэнтези/Эпическое фэнтези",
+          "Armenian": "Ֆենթեզի/Էպիկական ֆենթեզի"
+        },
+        "Title": {
+          "English": "The Return of the King",
+          "Russian": "Возвращение короля",
+          "Armenian": "Թագավորի վերադարձը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Epic Fantasy",
+          "Russian": "Фэнтези/Эпическое фэнтези",
+          "Armenian": "Ֆենթեզի/Էպիկական ֆենթեզի"
+        },
+        "Title": {
+          "English": "The Silmarillion",
+          "Russian": "Сильмариллион",
+          "Armenian": "Սիլմարիլիոն"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "C. S. Lewis",
+        "Russian": "Клайв Стейплз Льюис",
+        "Armenian": "Քլայվ Սթեյփլզ Լյուիս"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fantasy/Children's",
+          "Russian": "Фэнтези/Детская литература",
+          "Armenian": "Ֆենթեզի/Մանկական գրականություն"
+        },
+        "Title": {
+          "English": "The Lion, the Witch and the Wardrobe",
+          "Russian": "Лев, колдунья и платяной шкаф",
+          "Armenian": "Առյուծը, կախարդը և պահարանը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Science Fiction",
+          "Russian": "Фэнтези/Научная фантастика",
+          "Armenian": "Ֆենթեզի/Գիտական ֆանտաստիկա"
+        },
+        "Title": {
+          "English": "Out of the Silent Planet",
+          "Russian": "За пределы безмолвной планеты",
+          "Armenian": "Լուռ մոլորակից այն կողմ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Children's",
+          "Russian": "Фэнтези/Детская литература",
+          "Armenian": "Ֆենթեզի/Մանկական գրականություն"
+        },
+        "Title": {
+          "English": "The Magician's Nephew",
+          "Russian": "Племянник чародея",
+          "Armenian": "Կախարդի զարմիկը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy/Children's",
+          "Russian": "Фэнтези/Детская литература",
+          "Armenian": "Ֆենթեզի/Մանկական գրականություն"
+        },
+        "Title": {
+          "English": "The Screwtape Letters",
+          "Russian": "Письма Баламута",
+          "Armenian": "Բալամուտի նամակները"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "George Orwell",
+        "Russian": "Джордж Оруэлл",
+        "Armenian": "Ջորջ Օրուել"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Dystopian",
+          "Russian": "Проза/Антиутопия",
+          "Armenian": "Արձակ/Դիստոպիա"
+        },
+        "Title": {
+          "English": "Nineteen Eighty-Four",
+          "Russian": "1984",
+          "Armenian": "1984"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Political Satire",
+          "Russian": "Проза/Политическая сатира",
+          "Armenian": "Արձակ/Քաղաքական երգիծանք"
+        },
+        "Title": {
+          "English": "Animal Farm",
+          "Russian": "Скотный двор",
+          "Armenian": "Անասնաֆերմա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Dystopian",
+          "Russian": "Проза/Антиутопия",
+          "Armenian": "Արձակ/Դիստոպիա"
+        },
+        "Title": {
+          "English": "Burmese Days",
+          "Russian": "Бирманские будни",
+          "Armenian": "Բիրմայական օրեր"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Dystopian",
+          "Russian": "Проза/Антиутопия",
+          "Armenian": "Արձակ/Դիստոպիա"
+        },
+        "Title": {
+          "English": "Homage to Catalonia",
+          "Russian": "Памяти Каталонии",
+          "Armenian": "Հարգանքի տուրք Կատալոնիային"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Aldous Huxley",
+        "Russian": "Олдос Хаксли",
+        "Armenian": "Օլդոս Հաքսլի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Dystopian",
+          "Russian": "Проза/Антиутопия",
+          "Armenian": "Արձակ/Դիստոպիա"
+        },
+        "Title": {
+          "English": "Brave New World",
+          "Russian": "О дивный новый мир",
+          "Armenian": "Սքանչելի նոր աշխարհ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Satire",
+          "Russian": "Проза/Сатира",
+          "Armenian": "Արձակ/Երգիծանք"
+        },
+        "Title": {
+          "English": "Point Counter Point",
+          "Russian": "Контрапункт",
+          "Armenian": "Կոնտրապունկտ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Dystopian",
+          "Russian": "Проза/Антиутопия",
+          "Armenian": "Արձակ/Դիստոպիա"
+        },
+        "Title": {
+          "English": "Island",
+          "Russian": "Остров",
+          "Armenian": "Կղզին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Dystopian",
+          "Russian": "Проза/Антиутопия",
+          "Armenian": "Արձակ/Դիստոպիա"
+        },
+        "Title": {
+          "English": "The Doors of Perception",
+          "Russian": "Двери восприятия",
+          "Armenian": "Ընկալման դռները"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Virginia Woolf",
+        "Russian": "Вирджиния Вулф",
+        "Armenian": "Վիրջինիա Վուլֆ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "Mrs Dalloway",
+          "Russian": "Миссис Дэллоуэй",
+          "Armenian": "Միսիս Դելոուեյ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "To the Lighthouse",
+          "Russian": "На маяк",
+          "Armenian": "Դեպի փարոսը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "Orlando",
+          "Russian": "Орландо",
+          "Armenian": "Օռլանդո"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "The Waves",
+          "Russian": "Волны",
+          "Armenian": "Ալիքները"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "E. M. Forster",
+        "Russian": "Эдвард Морган Форстер",
+        "Armenian": "Էդվարդ Մորգան Ֆորսթեր"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "A Room with a View",
+          "Russian": "Комната с видом",
+          "Armenian": "Սենյակ՝ տեսարանով"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "A Passage to India",
+          "Russian": "Поездка в Индию",
+          "Armenian": "Ուղևորություն դեպի Հնդկաստան"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Howards End",
+          "Russian": "Говардс-Энд",
+          "Armenian": "Հաուարդս Էնդ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Maurice",
+          "Russian": "Морис",
+          "Armenian": "Մորիս"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "D. H. Lawrence",
+        "Russian": "Дэвид Герберт Лоуренс",
+        "Armenian": "Դեյվիդ Հերբերտ Լոուրենս"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Sons and Lovers",
+          "Russian": "Сыновья и любовники",
+          "Armenian": "Որդիներ և սիրեկաններ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Women in Love",
+          "Russian": "Влюблённые женщины",
+          "Armenian": "Սիրահարված կանայք"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Rainbow",
+          "Russian": "Радуга",
+          "Armenian": "Ծիածանը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Lady Chatterley's Lover",
+          "Russian": "Любовник леди Чаттерлей",
+          "Armenian": "Լեդի Չաթերլիի սիրեկանը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "George Eliot",
+        "Russian": "Джордж Элиот",
+        "Armenian": "Ջորջ Էլիոթ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Middlemarch",
+          "Russian": "Миддлмарч",
+          "Armenian": "Միդլմարչ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Mill on the Floss",
+          "Russian": "Мельница на Флоссе",
+          "Armenian": "Ջրաղացը Ֆլոսսի վրա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Silas Marner",
+          "Russian": "Сайлас Марнер",
+          "Armenian": "Սայլաս Մարները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Daniel Deronda",
+          "Russian": "Даниэль Деронда",
+          "Armenian": "Դանիել Դերոնդա"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Thomas Hardy",
+        "Russian": "Томас Харди",
+        "Armenian": "Թոմաս Հարդի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Tess of the d'Urbervilles",
+          "Russian": "Тэсс из рода д'Эрбервиллей",
+          "Armenian": "Թեսը՝ դ'Էրբերվիլների տոհմից"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Far from the Madding Crowd",
+          "Russian": "Вдали от обезумевшей толпы",
+          "Armenian": "Հեռու խելագարված ամբոխից"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Mayor of Casterbridge",
+          "Russian": "Мэр Кэстербриджа",
+          "Armenian": "Քասթերբրիջի քաղաքապետը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Jude the Obscure",
+          "Russian": "Джуд незаметный",
+          "Armenian": "Ջուդ Անհայտը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Oscar Wilde",
+        "Russian": "Оскар Уайльд",
+        "Armenian": "Օսկար Ուայլդ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Gothic",
+          "Russian": "Проза/Готика",
+          "Armenian": "Արձակ/Գոթական գրականություն"
+        },
+        "Title": {
+          "English": "The Picture of Dorian Gray",
+          "Russian": "Портрет Дориана Грея",
+          "Armenian": "Դորիան Գրեյի դիմանկարը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Drama/Comedy",
+          "Russian": "Драма/Комедия",
+          "Armenian": "Դրամա/Կատակերգություն"
+        },
+        "Title": {
+          "English": "The Importance of Being Earnest",
+          "Russian": "Как важно быть серьёзным",
+          "Armenian": "Որքան կարևոր է լուրջ լինելը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Gothic",
+          "Russian": "Проза/Готика",
+          "Armenian": "Արձակ/Գոթական գրականություն"
+        },
+        "Title": {
+          "English": "Salome",
+          "Russian": "Саломея",
+          "Armenian": "Սալոմե"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Gothic",
+          "Russian": "Проза/Готика",
+          "Armenian": "Արձակ/Գոթական գրականություն"
+        },
+        "Title": {
+          "English": "De Profundis",
+          "Russian": "Из глубин",
+          "Armenian": "Խորքերից"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Bram Stoker",
+        "Russian": "Брэм Стокер",
+        "Armenian": "Բրեմ Սթոքեր"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Horror/Gothic",
+          "Russian": "Ужасы/Готика",
+          "Armenian": "Սարսափ/Գոթական գրականություն"
+        },
+        "Title": {
+          "English": "Dracula",
+          "Russian": "Дракула",
+          "Armenian": "Դրակուլա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Horror/Gothic",
+          "Russian": "Ужасы/Готика",
+          "Armenian": "Սարսափ/Գոթական գրականություն"
+        },
+        "Title": {
+          "English": "The Jewel of Seven Stars",
+          "Russian": "Сокровище семи звёзд",
+          "Armenian": "Յոթ աստղերի գոհարը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "H. P. Lovecraft",
+        "Russian": "Говард Филлипс Лавкрафт",
+        "Armenian": "Հովարդ Ֆիլիպս Լավքրաֆթ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Horror/Cosmic Horror",
+          "Russian": "Ужасы/Космический ужас",
+          "Armenian": "Սարսափ/Տիեզերական սարսափ"
+        },
+        "Title": {
+          "English": "The Call of Cthulhu",
+          "Russian": "Зов Ктулху",
+          "Armenian": "Քթուլհուի կանչը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Horror/Cosmic Horror",
+          "Russian": "Ужасы/Космический ужас",
+          "Armenian": "Սարսափ/Տիեզերական սարսափ"
+        },
+        "Title": {
+          "English": "At the Mountains of Madness",
+          "Russian": "Хребты безумия",
+          "Armenian": "Խելագարության լեռներում"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Horror/Cosmic Horror",
+          "Russian": "Ужасы/Космический ужас",
+          "Armenian": "Սարսափ/Տիեզերական սարսափ"
+        },
+        "Title": {
+          "English": "The Shadow over Innsmouth",
+          "Russian": "Тень над Иннсмутом",
+          "Armenian": "Ստվերը Ինսմութի վրա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Horror/Cosmic Horror",
+          "Russian": "Ужасы/Космический ужас",
+          "Armenian": "Սարսափ/Տիեզերական սարսափ"
+        },
+        "Title": {
+          "English": "The Dunwich Horror",
+          "Russian": "Ужас Данвича",
+          "Armenian": "Դանվիչի սարսափը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Jules Verne",
+        "Russian": "Жюль Верн",
+        "Armenian": "Ժյուլ Վեռն"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Adventure/Science Fiction",
+          "Russian": "Приключения/Научная фантастика",
+          "Armenian": "Արկածային գրականություն/Գիտական ֆանտաստիկա"
+        },
+        "Title": {
+          "English": "Twenty Thousand Leagues Under the Seas",
+          "Russian": "Двадцать тысяч лье под водой",
+          "Armenian": "Քսան հազար լյո ջրի տակ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Science Fiction",
+          "Russian": "Приключения/Научная фантастика",
+          "Armenian": "Արկածային գրականություն/Գիտական ֆանտաստիկա"
+        },
+        "Title": {
+          "English": "Around the World in Eighty Days",
+          "Russian": "Вокруг света за восемьдесят дней",
+          "Armenian": "Աշխարհի շուրջը ութսուն օրում"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Science Fiction",
+          "Russian": "Приключения/Научная фантастика",
+          "Armenian": "Արկածային գրականություն/Գիտական ֆանտաստիկա"
+        },
+        "Title": {
+          "English": "Journey to the Center of the Earth",
+          "Russian": "Путешествие к центру Земли",
+          "Armenian": "Ճանապարհորդություն դեպի Երկրի կենտրոնը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Science Fiction",
+          "Russian": "Приключения/Научная фантастика",
+          "Armenian": "Արկածային գրականություն/Գիտական ֆանտաստիկա"
+        },
+        "Title": {
+          "English": "The Mysterious Island",
+          "Russian": "Таинственный остров",
+          "Armenian": "Խորհրդավոր կղզին"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Alexandre Dumas",
+        "Russian": "Александр Дюма",
+        "Armenian": "Ալեքսանդր Դյումա"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Adventure/Historical",
+          "Russian": "Приключения/Исторический роман",
+          "Armenian": "Արկածային գրականություն/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Three Musketeers",
+          "Russian": "Три мушкетёра",
+          "Armenian": "Երեք հրացանակիրները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Historical",
+          "Russian": "Приключения/Исторический роман",
+          "Armenian": "Արկածային գրականություն/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Count of Monte Cristo",
+          "Russian": "Граф Монте-Кристо",
+          "Armenian": "Կոմս Մոնտե Քրիստոն"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Historical",
+          "Russian": "Приключения/Исторический роман",
+          "Armenian": "Արկածային գրականություն/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "Twenty Years After",
+          "Russian": "Двадцать лет спустя",
+          "Armenian": "Քսան տարի անց"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Adventure/Historical",
+          "Russian": "Приключения/Исторический роман",
+          "Armenian": "Արկածային գրականություն/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Man in the Iron Mask",
+          "Russian": "Виконт де Бражелон, или Десять лет спустя",
+          "Armenian": "Երկաթե դիմակով մարդը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Victor Hugo",
+        "Russian": "Виктор Гюго",
+        "Armenian": "Վիկտոր Հյուգո"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Miserable Ones",
+          "Russian": "Отверженные",
+          "Armenian": "Թշվառները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Hunchback of Notre-Dame",
+          "Russian": "Собор Парижской Богоматери",
+          "Armenian": "Փարիզի Աստվածամոր տաճարը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Toilers of the Sea",
+          "Russian": "Труженики моря",
+          "Armenian": "Ծովի աշխատավորները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Last Day of a Condemned Man",
+          "Russian": "Последний день приговорённого к смерти",
+          "Armenian": "Մահվան դատապարտվածի վերջին օրը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Emile Zola",
+        "Russian": "Эмиль Золя",
+        "Armenian": "Էմիլ Զոլա"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Realist",
+          "Russian": "Проза/Реализм",
+          "Armenian": "Արձակ/Ռեալիստական գրականություն"
+        },
+        "Title": {
+          "English": "Germinal",
+          "Russian": "Жерминаль",
+          "Armenian": "Ժերմինալ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Ladies' Paradise",
+          "Russian": "Дамское счастье",
+          "Armenian": "Տիկնանց դրախտը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Realist",
+          "Russian": "Проза/Реализм",
+          "Armenian": "Արձակ/Ռեալիստական գրականություն"
+        },
+        "Title": {
+          "English": "Nana",
+          "Russian": "Нана",
+          "Armenian": "Նանա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Realist",
+          "Russian": "Проза/Реализм",
+          "Armenian": "Արձակ/Ռեալիստական գրականություն"
+        },
+        "Title": {
+          "English": "The Belly of Paris",
+          "Russian": "Чрево Парижа",
+          "Armenian": "Փարիզի որովայնը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Stendhal",
+        "Russian": "Стендаль",
+        "Armenian": "Ստենդալ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Red and the Black",
+          "Russian": "Красное и чёрное",
+          "Armenian": "Կարմիրն ու սևը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Charterhouse of Parma",
+          "Russian": "Пармская обитель",
+          "Armenian": "Պարմի մենաստանը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Albert Camus",
+        "Russian": "Альбер Камю",
+        "Armenian": "Ալբեր Քամյու"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Existentialist",
+          "Russian": "Проза/Экзистенциальная проза",
+          "Armenian": "Արձակ/Էքզիստենցիալ արձակ"
+        },
+        "Title": {
+          "English": "The Stranger",
+          "Russian": "Посторонний",
+          "Armenian": "Օտարը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Existentialist",
+          "Russian": "Проза/Экзистенциальная проза",
+          "Armenian": "Արձակ/Էքզիստենցիալ արձակ"
+        },
+        "Title": {
+          "English": "The Plague",
+          "Russian": "Чума",
+          "Armenian": "Ժանտախտը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Existentialist",
+          "Russian": "Проза/Экзистенциальная проза",
+          "Armenian": "Արձակ/Էքզիստենցիալ արձակ"
+        },
+        "Title": {
+          "English": "The Fall",
+          "Russian": "Падение",
+          "Armenian": "Անկումը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Existentialist",
+          "Russian": "Проза/Экзистенциальная проза",
+          "Armenian": "Արձակ/Էքզիստենցիալ արձակ"
+        },
+        "Title": {
+          "English": "The Myth of Sisyphus",
+          "Russian": "Миф о Сизифе",
+          "Armenian": "Սիզիփոսի առասպելը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Jean-Paul Sartre",
+        "Russian": "Жан-Поль Сартр",
+        "Armenian": "Ժան-Պոլ Սարտր"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Existentialist",
+          "Russian": "Проза/Экзистенциальная проза",
+          "Armenian": "Արձակ/Էքզիստենցիալ արձակ"
+        },
+        "Title": {
+          "English": "Nausea",
+          "Russian": "Тошнота",
+          "Armenian": "Սրտխառնուք"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Drama/Existentialist",
+          "Russian": "Драма/Экзистенциальная драма",
+          "Armenian": "Դրամա/Էքզիստենցիալ դրամա"
+        },
+        "Title": {
+          "English": "No Exit",
+          "Russian": "За закрытыми дверями",
+          "Armenian": "Փակ դռների հետևում"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Existentialist",
+          "Russian": "Проза/Экзистенциальная проза",
+          "Armenian": "Արձակ/Էքզիստենցիալ արձակ"
+        },
+        "Title": {
+          "English": "The Words",
+          "Russian": "Слова",
+          "Armenian": "Բառերը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Dante Alighieri",
+        "Russian": "Данте Алигьери",
+        "Armenian": "Դանթե Ալիգիերի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Poetry/Epic",
+          "Russian": "Поэзия/Эпос",
+          "Armenian": "Պոեզիա/Էպոս"
+        },
+        "Title": {
+          "English": "Inferno",
+          "Russian": "Ад",
+          "Armenian": "Դժոխք"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Poetry/Epic",
+          "Russian": "Поэзия/Эпос",
+          "Armenian": "Պոեզիա/Էպոս"
+        },
+        "Title": {
+          "English": "Purgatorio",
+          "Russian": "Чистилище",
+          "Armenian": "Քավարան"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Poetry/Epic",
+          "Russian": "Поэзия/Эпос",
+          "Armenian": "Պոեզիա/Էպոս"
+        },
+        "Title": {
+          "English": "Paradiso",
+          "Russian": "Рай",
+          "Armenian": "Դրախտ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Poetry/Epic",
+          "Russian": "Поэзия/Эпос",
+          "Armenian": "Պոեզիա/Էպոս"
+        },
+        "Title": {
+          "English": "The New Life",
+          "Russian": "Новая жизнь",
+          "Armenian": "Նոր կյանք"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Franz Kafka",
+        "Russian": "Франц Кафка",
+        "Armenian": "Ֆրանց Կաֆկա"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "The Trial",
+          "Russian": "Процесс",
+          "Armenian": "Դատավարությունը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "The Metamorphosis",
+          "Russian": "Превращение",
+          "Armenian": "Կերպարանափոխությունը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "The Castle",
+          "Russian": "Замок",
+          "Armenian": "Դղյակը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "Amerika",
+          "Russian": "Америка",
+          "Armenian": "Ամերիկան"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Thomas Mann",
+        "Russian": "Томас Манн",
+        "Armenian": "Թոմաս Ման"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Magic Mountain",
+          "Russian": "Волшебная гора",
+          "Armenian": "Կախարդական լեռը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Buddenbrooks",
+          "Russian": "Будденброки",
+          "Armenian": "Բուդենբրոկները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Death in Venice",
+          "Russian": "Смерть в Венеции",
+          "Armenian": "Մահը Վենետիկում"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Doctor Faustus",
+          "Russian": "Доктор Фаустус",
+          "Armenian": "Դոկտոր Ֆաուստուս"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Hermann Broch",
+        "Russian": "Герман Брох",
+        "Armenian": "Հերման Բրոխ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "The Sleepwalkers",
+          "Russian": "Лунатики",
+          "Armenian": "Լուսնոտները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Modernist",
+          "Russian": "Проза/Модернистская проза",
+          "Armenian": "Արձակ/Մոդեռնիստական արձակ"
+        },
+        "Title": {
+          "English": "The Death of Virgil",
+          "Russian": "Смерть Вергилия",
+          "Armenian": "Վերգիլիոսի մահը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Friedrich Nietzsche",
+        "Russian": "Фридрих Ницше",
+        "Armenian": "Ֆրիդրիխ Նիցշե"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Philosophy/Classic",
+          "Russian": "Философия/Классика",
+          "Armenian": "Փիլիսոփայություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Thus Spoke Zarathustra",
+          "Russian": "Так говорил Заратустра",
+          "Armenian": "Այսպես խոսեց Զրադաշտը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Philosophy/Classic",
+          "Russian": "Философия/Классика",
+          "Armenian": "Փիլիսոփայություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Beyond Good and Evil",
+          "Russian": "По ту сторону добра и зла",
+          "Armenian": "Բարուց և չարից անդին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Philosophy/Classic",
+          "Russian": "Философия/Классика",
+          "Armenian": "Փիլիսոփայություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Gay Science",
+          "Russian": "Весёлая наука",
+          "Armenian": "Ուրախ գիտությունը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Philosophy/Classic",
+          "Russian": "Философия/Классика",
+          "Armenian": "Փիլիսոփայություն/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "On the Genealogy of Morality",
+          "Russian": "К генеалогии морали",
+          "Armenian": "Բարոյականության ծագումնաբանության մասին"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Johann Wolfgang von Goethe",
+        "Russian": "Иоганн Вольфганг фон Гёте",
+        "Armenian": "Յոհան Վոլֆգանգ ֆոն Գյոթե"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Faust",
+          "Russian": "Фауст",
+          "Armenian": "Ֆաուստ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Sorrows of Young Werther",
+          "Russian": "Страдания юного Вертера",
+          "Armenian": "Երիտասարդ Վերթերի տառապանքները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Wilhelm Meister's Apprenticeship",
+          "Russian": "Годы учения Вильгельма Мейстера",
+          "Armenian": "Վիլհելմ Մայստերի ուսման տարիները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Elective Affinities",
+          "Russian": "Избирательное сродство",
+          "Armenian": "Ընտրովի հարազատություններ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Erich Maria Remarque",
+        "Russian": "Эрих Мария Ремарк",
+        "Armenian": "Էրիխ Մարիա Ռեմարկ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/War",
+          "Russian": "Проза/Военная проза",
+          "Armenian": "Արձակ/Պատերազմական արձակ"
+        },
+        "Title": {
+          "English": "All Quiet on the Western Front",
+          "Russian": "На Западном фронте без перемен",
+          "Armenian": "Արևմտյան ճակատում փոփոխություն չկա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/War",
+          "Russian": "Проза/Военная проза",
+          "Armenian": "Արձակ/Պատերազմական արձակ"
+        },
+        "Title": {
+          "English": "Three Comrades",
+          "Russian": "Три товарища",
+          "Armenian": "Երեք ընկերները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/War",
+          "Russian": "Проза/Военная проза",
+          "Armenian": "Արձակ/Պատերազմական արձակ"
+        },
+        "Title": {
+          "English": "Arch of Triumph",
+          "Russian": "Триумфальная арка",
+          "Armenian": "Հաղթակամար"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/War",
+          "Russian": "Проза/Военная проза",
+          "Armenian": "Արձակ/Պատերազմական արձակ"
+        },
+        "Title": {
+          "English": "The Road Back",
+          "Russian": "Возвращение",
+          "Armenian": "Վերադարձի ճանապարհը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Fyodor Dostoevsky",
+        "Russian": "Фёдор Достоевский",
+        "Armenian": "Ֆյոդոր Դոստոևսկի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Philosophical",
+          "Russian": "Проза/Философская проза",
+          "Armenian": "Արձակ/Փիլիսոփայական արձակ"
+        },
+        "Title": {
+          "English": "Crime and Punishment",
+          "Russian": "Преступление и наказание",
+          "Armenian": "Ոճիր և պատիժ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Brothers Karamazov",
+          "Russian": "Братья Карамазовы",
+          "Armenian": "Կարամազով եղբայրները"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Philosophical",
+          "Russian": "Проза/Философская проза",
+          "Armenian": "Արձակ/Փիլիսոփայական արձակ"
+        },
+        "Title": {
+          "English": "The Idiot",
+          "Russian": "Идиот",
+          "Armenian": "Ապուշը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Philosophical",
+          "Russian": "Проза/Философская проза",
+          "Armenian": "Արձակ/Փիլիսոփայական արձակ"
+        },
+        "Title": {
+          "English": "The Gambler",
+          "Russian": "Игрок",
+          "Armenian": "Խաղամոլը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Philosophical",
+          "Russian": "Проза/Философская проза",
+          "Armenian": "Արձակ/Փիլիսոփայական արձակ"
+        },
+        "Title": {
+          "English": "The Possessed",
+          "Russian": "Бесы",
+          "Armenian": "Դևերը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Leo Tolstoy",
+        "Russian": "Лев Толстой",
+        "Armenian": "Լև Տոլստոյ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "War and Peace",
+          "Russian": "Война и мир",
+          "Armenian": "Պատերազմ և խաղաղություն"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Anna Karenina",
+          "Russian": "Анна Каренина",
+          "Armenian": "Աննա Կարենինա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Death of Ivan Ilyich",
+          "Russian": "Смерть Ивана Ильича",
+          "Armenian": "Իվան Իլյիչի մահը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "Resurrection",
+          "Russian": "Воскресение",
+          "Armenian": "Հարություն"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Anton Chekhov",
+        "Russian": "Антон Чехов",
+        "Armenian": "Անտոն Չեխով"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Drama/Classic",
+          "Russian": "Драма/Классика",
+          "Armenian": "Դրամա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Cherry Orchard",
+          "Russian": "Вишнёвый сад",
+          "Armenian": "Բալենու այգին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Drama/Classic",
+          "Russian": "Драма/Классика",
+          "Armenian": "Դրամա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Three Sisters",
+          "Russian": "Три сестры",
+          "Armenian": "Երեք քույրերը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Drama/Classic",
+          "Russian": "Драма/Классика",
+          "Armenian": "Դրամա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Uncle Vanya",
+          "Russian": "Дядя Ваня",
+          "Armenian": "Քեռի Վանյա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Drama/Classic",
+          "Russian": "Драма/Классика",
+          "Armenian": "Դրամա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Seagull",
+          "Russian": "Чайка",
+          "Armenian": "Ճայը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Nikolai Gogol",
+        "Russian": "Николай Гоголь",
+        "Armenian": "Նիկոլայ Գոգոլ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Satire",
+          "Russian": "Проза/Сатира",
+          "Armenian": "Արձակ/Երգիծանք"
+        },
+        "Title": {
+          "English": "Dead Souls",
+          "Russian": "Мёртвые души",
+          "Armenian": "Մեռած հոգիներ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Overcoat",
+          "Russian": "Шинель",
+          "Armenian": "Շինելը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Satire",
+          "Russian": "Проза/Сатира",
+          "Armenian": "Արձակ/Երգիծանք"
+        },
+        "Title": {
+          "English": "Taras Bulba",
+          "Russian": "Тарас Бульба",
+          "Armenian": "Տարաս Բուլբա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Satire",
+          "Russian": "Проза/Сатира",
+          "Armenian": "Արձակ/Երգիծանք"
+        },
+        "Title": {
+          "English": "Diary of a Madman",
+          "Russian": "Записки сумасшедшего",
+          "Armenian": "Խելագարի օրագիրը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Ivan Turgenev",
+        "Russian": "Иван Тургенев",
+        "Armenian": "Իվան Տուրգենև"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Fathers and Sons",
+          "Russian": "Отцы и дети",
+          "Armenian": "Հայրեր և որդիներ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "A Month in the Country",
+          "Russian": "Месяц в деревне",
+          "Armenian": "Մեկ ամիս գյուղում"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Smoke",
+          "Russian": "Дым",
+          "Armenian": "Ծուխ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "On the Eve",
+          "Russian": "Накануне",
+          "Armenian": "Նախօրեին"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Boris Pasternak",
+        "Russian": "Борис Пастернак",
+        "Armenian": "Բորիս Պաստեռնակ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "Doctor Zhivago",
+          "Russian": "Доктор Живаго",
+          "Armenian": "Բժիշկ Ժիվագո"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "My Sister, Life",
+          "Russian": "Сестра моя — жизнь",
+          "Armenian": "Քույրս՝ կյանքը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Alexander Pushkin",
+        "Russian": "Александр Пушкин",
+        "Armenian": "Ալեքսանդր Պուշկին"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Eugene Onegin",
+          "Russian": "Евгений Онегин",
+          "Armenian": "Եվգենի Օնեգին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Captain's Daughter",
+          "Russian": "Капитанская дочка",
+          "Armenian": "Կապիտանի դուստրը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Boris Godunov",
+          "Russian": "Борис Годунов",
+          "Armenian": "Բորիս Գոդունով"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Bronze Horseman",
+          "Russian": "Медный всадник",
+          "Armenian": "Պղնձե հեծյալը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Mikhail Zoshchenko",
+        "Russian": "Михаил Зощенко",
+        "Armenian": "Միխայիլ Զոշչենկո"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Satire",
+          "Russian": "Проза/Сатира",
+          "Armenian": "Արձակ/Երգիծանք"
+        },
+        "Title": {
+          "English": "The Blue Book",
+          "Russian": "Голубая книга",
+          "Armenian": "Կապույտ գիրքը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Satire",
+          "Russian": "Проза/Сатира",
+          "Armenian": "Արձակ/Երգիծանք"
+        },
+        "Title": {
+          "English": "Before Sunrise",
+          "Russian": "Перед восходом солнца",
+          "Armenian": "Արևածագից առաջ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Nadine Gordimer",
+        "Russian": "Надин Гордимер",
+        "Armenian": "Նադին Գորդիմեր"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Political",
+          "Russian": "Проза/Политическая проза",
+          "Armenian": "Արձակ/Քաղաքական արձակ"
+        },
+        "Title": {
+          "English": "July's People",
+          "Russian": "Люди Джулая",
+          "Armenian": "Ջուլայի մարդիկ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Conservationist",
+          "Russian": "Хранитель природы",
+          "Armenian": "Բնության պահապանը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Political",
+          "Russian": "Проза/Политическая проза",
+          "Armenian": "Արձակ/Քաղաքական արձակ"
+        },
+        "Title": {
+          "English": "A Sport of Nature",
+          "Russian": "Игра природы",
+          "Armenian": "Բնության խաղը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Kenzaburo Oe",
+        "Russian": "Кэндзабуро Оэ",
+        "Armenian": "Քենձաբուրո Օէ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Contemporary",
+          "Russian": "Проза/Современная проза",
+          "Armenian": "Արձակ/Ժամանակակից արձակ"
+        },
+        "Title": {
+          "English": "A Personal Matter",
+          "Russian": "Личный опыт",
+          "Armenian": "Անձնական փորձը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Contemporary",
+          "Russian": "Проза/Современная проза",
+          "Armenian": "Արձակ/Ժամանակակից արձակ"
+        },
+        "Title": {
+          "English": "The Silent Cry",
+          "Russian": "Запоздалый юноша",
+          "Armenian": "Ուշացած երիտասարդը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Contemporary",
+          "Russian": "Проза/Современная проза",
+          "Armenian": "Արձակ/Ժամանակակից արձակ"
+        },
+        "Title": {
+          "English": "Teach Us to Outgrow Our Madness",
+          "Russian": "Научите нас перерасти наше безумие",
+          "Armenian": "Սովորեցրե՛ք մեզ հաղթահարել մեր խելագարությունը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Contemporary",
+          "Russian": "Проза/Современная проза",
+          "Armenian": "Արձակ/Ժամանակակից արձակ"
+        },
+        "Title": {
+          "English": "A Quiet Life",
+          "Russian": "Тихая жизнь",
+          "Armenian": "Խաղաղ կյանք"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Lao She",
+        "Russian": "Лао Шэ",
+        "Armenian": "Լաո Շե"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Rickshaw Boy",
+          "Russian": "Записки о кошачьем городе",
+          "Armenian": "Ռիկշայի տղան"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Teahouse",
+          "Russian": "Чайная",
+          "Armenian": "Թեյարանը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Cat Country",
+          "Russian": "Страна кошек",
+          "Armenian": "Կատուների երկիրը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Jorge Luis Borges",
+        "Russian": "Хорхе Луис Борхес",
+        "Armenian": "Խորխե Լուիս Բորխես"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Philosophical",
+          "Russian": "Проза/Философская проза",
+          "Armenian": "Արձակ/Փիլիսոփայական արձակ"
+        },
+        "Title": {
+          "English": "Ficciones",
+          "Russian": "Вымыслы",
+          "Armenian": "Հնարանքներ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Short Stories",
+          "Russian": "Проза/Рассказы",
+          "Armenian": "Արձակ/Պատմվածքներ"
+        },
+        "Title": {
+          "English": "The Aleph",
+          "Russian": "Алеф",
+          "Armenian": "Ալեֆը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Philosophical",
+          "Russian": "Проза/Философская проза",
+          "Armenian": "Արձակ/Փիլիսոփայական արձակ"
+        },
+        "Title": {
+          "English": "The Book of Imaginary Beings",
+          "Russian": "Книга вымышленных существ",
+          "Armenian": "Երևակայական արարածների գիրքը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Philosophical",
+          "Russian": "Проза/Философская проза",
+          "Armenian": "Արձակ/Փիլիսոփայական արձակ"
+        },
+        "Title": {
+          "English": "The Garden of Forking Paths",
+          "Russian": "Сад расходящихся тропок",
+          "Armenian": "Ճյուղավորվող արահետների այգին"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Hovhannes Tumanyan",
+        "Russian": "Ованес Туманян",
+        "Armenian": "Հովհաննես Թումանյան"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Poetry/Folk Tale",
+          "Russian": "Поэзия/Народная сказка",
+          "Armenian": "Պոեզիա/Ժողովրդական հեքիաթ"
+        },
+        "Title": {
+          "English": "Anush",
+          "Russian": "Ануш",
+          "Armenian": "Անուշ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Children's Literature/Fairy Tale",
+          "Russian": "Детская литература/Волшебная сказка",
+          "Armenian": "Մանկական գրականություն/Հեքիաթ"
+        },
+        "Title": {
+          "English": "The Dog and the Cat",
+          "Russian": "Пёс и кот",
+          "Armenian": "Շունն ու կատուն"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Poetry/Folk Tale",
+          "Russian": "Поэзия/Народная сказка",
+          "Armenian": "Պոեզիա/Ժողովրդական հեքիաթ"
+        },
+        "Title": {
+          "English": "The Capture of Tmkaberd",
+          "Russian": "Взятие крепости Тмкаберд",
+          "Armenian": "Թմկաբերդի գրավումը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Yeghishe Charents",
+        "Russian": "Егише Чаренц",
+        "Armenian": "Եղիշե Չարենց"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "I Love the Sun-Sweet Taste of Armenia",
+          "Russian": "Я люблю солнечный вкус Армении",
+          "Armenian": "Ես իմ անուշ Հայաստանի"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Avetik Isahakyan",
+        "Russian": "Аветик Исаакян",
+        "Armenian": "Ավետիք Իսահակյան"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Abu-Lala Mahari",
+          "Russian": "Абу-Лала Махари",
+          "Armenian": "Աբու-Լալա Մահարի"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Philosophical",
+          "Russian": "Проза/Философская проза",
+          "Armenian": "Արձակ/Փիլիսոփայական արձակ"
+        },
+        "Title": {
+          "English": "The Old Man's Heart",
+          "Russian": "Сердце старика",
+          "Armenian": "Ծերունու սիրտը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Paruyr Sevak",
+        "Russian": "Паруйр Севак",
+        "Armenian": "Պարույր Սևակ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Unsilenceable Belfry",
+          "Russian": "Неумолкаемая колокольня",
+          "Armenian": "Անլռելի զանգակատուն"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Let There Be Light",
+          "Russian": "Да будет свет",
+          "Armenian": "Եղիցի լույս"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Derenik Demirchyan",
+        "Russian": "Дереник Демирчян",
+        "Armenian": "Դերենիկ Դեմիրճյան"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "Vardanank",
+          "Russian": "Вардананк",
+          "Armenian": "Վարդանանք"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Raffi",
+        "Russian": "Раффи",
+        "Armenian": "Ռաֆֆի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Fool",
+          "Russian": "Хент",
+          "Armenian": "Խենթը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Diary of a Cross-Stealer",
+          "Russian": "Дневник крестокрада",
+          "Armenian": "Խաչագողի հիշատակարանը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "Samvel",
+          "Russian": "Самвел",
+          "Armenian": "Սամվել"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "The Golden Rooster",
+          "Russian": "Золотой петух",
+          "Armenian": "Ոսկե աքաղաղը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Khachatur Abovian",
+        "Russian": "Хачатур Абовян",
+        "Armenian": "Խաչատուր Աբովյան"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Wounds of Armenia",
+          "Russian": "Раны Армении",
+          "Armenian": "Վերք Հայաստանի"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Gurgen Mahari",
+        "Russian": "Гурген Махари",
+        "Armenian": "Գուրգեն Մահարի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Burning Gardens",
+          "Russian": "Горящие сады",
+          "Armenian": "Այրվող այգեստաններ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Levon Shant",
+        "Russian": "Левон Шант",
+        "Armenian": "Լևոն Շանթ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Drama/Classic",
+          "Russian": "Драма/Классика",
+          "Armenian": "Դրամա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Ancient Gods",
+          "Russian": "Древние боги",
+          "Armenian": "Հին աստվածներ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Vahan Teryan",
+        "Russian": "Ваан Терян",
+        "Armenian": "Վահան Տերյան"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Dreams at Dusk",
+          "Russian": "В сумерках",
+          "Armenian": "Մթնշաղի անուրջներ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Hrant Matevosyan",
+        "Russian": "Грант Матевосян",
+        "Armenian": "Հրանտ Մաթևոսյան"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Contemporary",
+          "Russian": "Проза/Современная проза",
+          "Armenian": "Արձակ/Ժամանակակից արձակ"
+        },
+        "Title": {
+          "English": "We Are, Our Mountains",
+          "Russian": "Мы и наши горы",
+          "Armenian": "Մենք ենք, մեր սարերը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Stepan Zoryan",
+        "Russian": "Степан Зорян",
+        "Armenian": "Ստեփան Զորյան"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Historical",
+          "Russian": "Проза/Исторический роман",
+          "Armenian": "Արձակ/Պատմական վեպ"
+        },
+        "Title": {
+          "English": "King Pap",
+          "Russian": "Царь Пап",
+          "Armenian": "Պապ թագավոր"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Nar-Dos",
+        "Russian": "Нар-Дос",
+        "Armenian": "Նար-Դոս"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Killed Pigeon",
+          "Russian": "Убитый голубь",
+          "Armenian": "Սպանված աղավնին"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Struggle",
+          "Russian": "Борьба",
+          "Armenian": "Պայքար"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Aksel Bakunts",
+        "Russian": "Аксель Бакунц",
+        "Armenian": "Աքսել Բակունց"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Dark Valley",
+          "Russian": "Темная долина",
+          "Armenian": "Մթնաձոր"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Hovhannes Shiraz",
+        "Russian": "Ованес Шираз",
+        "Armenian": "Հովհաննես Շիրազ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Poetry/Classic",
+          "Russian": "Поэзия/Классика",
+          "Armenian": "Պոեզիա/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Armenian Dante-esque",
+          "Russian": "Армянский Данте",
+          "Armenian": "Հայոց դանթեականը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Maxim Gorky",
+        "Russian": "Максим Горький",
+        "Armenian": "Մաքսիմ Գորկի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Mother",
+          "Russian": "Мать",
+          "Armenian": "Մայրը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Memoir",
+          "Russian": "Проза/Мемуары",
+          "Armenian": "Արձակ/Հուշագրություն"
+        },
+        "Title": {
+          "English": "Childhood",
+          "Russian": "Детство",
+          "Armenian": "Մանկություն"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "The Lower Depths",
+          "Russian": "На дне",
+          "Armenian": "На дне"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "J. K. Rowling",
+        "Russian": "Джоан Роулинг",
+        "Armenian": "Ջոան Ռոուլինգ"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fantasy",
+          "Russian": "Фэнтези",
+          "Armenian": "Ֆենթըզի"
+        },
+        "Title": {
+          "English": "Harry Potter and the Philosopher's Stone",
+          "Russian": "Гарри Поттер и философский камень",
+          "Armenian": "Հարրի Փոթերը և փիլիսոփայական քարը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy",
+          "Russian": "Фэнтези",
+          "Armenian": "Ֆենթըզի"
+        },
+        "Title": {
+          "English": "Harry Potter and the Chamber of Secrets",
+          "Russian": "Гарри Поттер и Тайная комната",
+          "Armenian": "Հարրի Փոթերը և գաղտնիքների սենյակը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fantasy",
+          "Russian": "Фэнтези",
+          "Armenian": "Ֆենթըզի"
+        },
+        "Title": {
+          "English": "Harry Potter and the Prisoner of Azkaban",
+          "Russian": "Гарри Поттер и узник Азкабана",
+          "Armenian": "Հարրի Փոթերը և Ազկաբանի բանտարկյալը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Gabriel Garcia Marquez",
+        "Russian": "Габриэль Гарсиа Маркес",
+        "Armenian": "Գաբրիել Գարսիա Մարկես"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Magical Realism",
+          "Russian": "Проза/Магический реализм",
+          "Armenian": "Արձակ/Կախարդական ռեալիզմ"
+        },
+        "Title": {
+          "English": "One Hundred Years of Solitude",
+          "Russian": "Сто лет одиночества",
+          "Armenian": "Հարյուր տարվա մենություն"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Haruki Murakami",
+        "Russian": "Харуки Мураками",
+        "Armenian": "Հարուկի Մուրակամի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction",
+          "Russian": "Проза",
+          "Armenian": "Արձակ"
+        },
+        "Title": {
+          "English": "Norwegian Wood",
+          "Russian": "Норвежский лес",
+          "Armenian": "Նորվեգական անտառ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction",
+          "Russian": "Проза",
+          "Armenian": "Արձակ"
+        },
+        "Title": {
+          "English": "Kafka on the Shore",
+          "Russian": "Кафка на пляже",
+          "Armenian": "Կաֆկան ծովափին"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Chinua Achebe",
+        "Russian": "Чинуа Ачебе",
+        "Armenian": "Չինուա Աչեբե"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Classic",
+          "Russian": "Проза/Классика",
+          "Armenian": "Արձակ/Դասական գրականություն"
+        },
+        "Title": {
+          "English": "Things Fall Apart",
+          "Russian": "И пришло разрушение",
+          "Armenian": "Եվ փլուզվեց ամեն ինչ"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Paulo Coelho",
+        "Russian": "Пауло Коэльо",
+        "Armenian": "Պաուլու Կոելյու"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Philosophical",
+          "Russian": "Проза/Философская проза",
+          "Armenian": "Արձակ/Փիլիսոփայական արձակ"
+        },
+        "Title": {
+          "English": "The Alchemist",
+          "Russian": "Алхимик",
+          "Armenian": "Ալքիմիկոսը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Philosophical",
+          "Russian": "Проза/Философская проза",
+          "Armenian": "Արձակ/Փիլիսոփայական արձակ"
+        },
+        "Title": {
+          "English": "Brida",
+          "Russian": "Брида",
+          "Armenian": "Բրիդա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Philosophical",
+          "Russian": "Проза/Философская проза",
+          "Armenian": "Արձակ/Փիլիսոփայական արձակ"
+        },
+        "Title": {
+          "English": "The Pilgrimage",
+          "Russian": "Дневник мага",
+          "Armenian": "Ուխտագնացությունը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Isabel Allende",
+        "Russian": "Исабель Альенде",
+        "Armenian": "Իզաբել Ալյենդե"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Magical Realism",
+          "Russian": "Проза/Магический реализм",
+          "Armenian": "Արձակ/Կախարդական ռեալիզմ"
+        },
+        "Title": {
+          "English": "The House of the Spirits",
+          "Russian": "Дом духов",
+          "Armenian": "Հոգիների տունը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Magical Realism",
+          "Russian": "Проза/Магический реализм",
+          "Armenian": "Արձակ/Կախարդական ռեալիզմ"
+        },
+        "Title": {
+          "English": "Eva Luna",
+          "Russian": "Эва Луна",
+          "Armenian": "Էվա Լունա"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Magical Realism",
+          "Russian": "Проза/Магический реализм",
+          "Armenian": "Արձակ/Կախարդական ռեալիզմ"
+        },
+        "Title": {
+          "English": "Daughter of Fortune",
+          "Russian": "Дочь фортуны",
+          "Armenian": "Բախտի դուստրը"
+        }
+      }
+    ]
+  },
+  {
+    "Author": {
+      "FullName": {
+        "English": "Khaled Hosseini",
+        "Russian": "Халед Хоссейни",
+        "Armenian": "Խալեդ Հոսեյնի"
+      }
+    },
+    "Books": [
+      {
+        "Genre": {
+          "English": "Fiction/Drama",
+          "Russian": "Проза/Драма",
+          "Armenian": "Արձակ/Դրամա"
+        },
+        "Title": {
+          "English": "The Kite Runner",
+          "Russian": "Бегущий за ветром",
+          "Armenian": "Օդապարուկ թռցնողը"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Drama",
+          "Russian": "Проза/Драма",
+          "Armenian": "Արձակ/Դրամա"
+        },
+        "Title": {
+          "English": "A Thousand Splendid Suns",
+          "Russian": "Тысяча сияющих солнц",
+          "Armenian": "Հազար փայլող արևներ"
+        }
+      },
+      {
+        "Genre": {
+          "English": "Fiction/Drama",
+          "Russian": "Проза/Драма",
+          "Armenian": "Արձակ/Դրամա"
+        },
+        "Title": {
+          "English": "And the Mountains Echoed",
+          "Russian": "И эхо летит по горам",
+          "Armenian": "Եվ արձագանքը թռչում է լեռներով"
+        }
+      }
+    ]
+  }
+]

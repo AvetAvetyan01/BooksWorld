@@ -1,0 +1,82 @@
+[
+  {
+    "name": {
+      "Armenian" : "Մեր Մասին",
+      "English" : "About Us",
+      "Russian" : "О Нас"
+    },
+    "url": "about"
+  },
+  {
+    "name": {
+      "Armenian" : "Կոնտակտներ",
+      "English" : "Contacts",
+      "Russian" : "Контакты"
+    },
+    "url": "contacts"
+  },
+  {
+    "name": {
+      "Armenian" : "Մեր Տեղորոշումները",
+      "English" : "Our Locations",
+      "Russian" : "Наши Локации"
+    },
+    "url": "locations"
+  },
+  {
+    "name": {
+      "Armenian" : "Հետադարձ Կապ",
+      "English" : "Feedback",
+      "Russian" : "Обратная Связь"
+    },
+    "url": "feedback"
+  },
+  {
+    "name": {
+      "Armenian" : "Կարիերա",
+      "English" : "Careers",
+      "Russian" : "Кариера"
+    },
+    "url": "privacy"
+  },
+  {
+    "name": {
+      "Armenian" : "Գաղտնիություն",
+      "English" : "Privacy",
+      "Russian" : "Конфиденцеалность"
+    },
+    "url": "careers"
+  },
+  {
+    "name": {
+      "Armenian" : "Բլոգներ",
+      "English" : "Blogs",
+      "Russian" : "Блоги"
+    },
+    "url": "blogs"
+  },
+  {
+    "name": {
+      "Armenian" : "Նվեր Քարտեր",
+      "English" : "Gift Cards",
+      "Russian" : "Подарочние Карты"
+    },
+    "url": "gifts"
+  },
+  {
+    "name": {
+      "Armenian" : "Գործընկերներ",
+      "English" : "Partnership",
+      "Russian" : "Партнерства"
+    },
+    "url": "partnership"
+  },
+  {
+    "name": {
+      "Armenian" : "ՀՏՀ",
+      "English" : "FAQ",
+      "Russian" : "ЧЗВ"
+    },
+    "url": "faq"
+  }
+]

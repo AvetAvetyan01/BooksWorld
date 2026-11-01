@@ -1,0 +1,31 @@
+.horizontal-menu {
+  min-width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 15px;  
+  border: 1px solid var(--neutral-700);
+  border-radius: 30px;
+  // overflow: hidden;
+
+  li {}
+  
+  a {
+    display: block;
+    padding: 10px 15px;
+    border-radius: 40px;
+    color: var(--text-title);
+    font-family: var(--poshFont);
+    font-weight: 750;
+    font-size: var(--fs-3);
+    transition: 0.3s;
+    outline: none;    
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    
+    &:is(:hover, :focus) {
+      background: var(--secondary);
+      color: var(--on-secondary); 
+    }
+  }
+}

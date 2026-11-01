@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "icon" : "fa-solid fa-thumbs-up",
+    "value": "highRated",
+    "name" : {
+      "Armenian" : "Բարձր Գնահատված",
+      "English" : "High Rated",
+      "Russian" : "Высоко Оценен" 
+    } 
+  },
+  {
+    "id": 2,
+    "icon" : "fa-solid fa-percent",
+    "value": "discounted",
+    "name" : {
+      "Armenian" : "Զեղճված",
+      "English" : "Discounted",
+      "Russian" : "Скидкой" 
+    }
+  },
+  {
+    "id": 3,
+    "icon" : "fa-solid fa-arrow-down-short-wide",
+    "value": "byAscending",
+    "name" : {
+      "Armenian" : "Աճման Կարգով",
+      "English" : "By Ascending",
+      "Russian" : "По Возрастанию" 
+    } 
+  }
+]

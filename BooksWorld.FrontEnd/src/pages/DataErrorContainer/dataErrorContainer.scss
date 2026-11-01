@@ -1,0 +1,29 @@
+.error-container {
+  width: fit-content;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  row-gap: 10px;
+  margin: 0 auto;
+  
+  & > * {
+    margin: 0 auto;
+  }
+  .message {
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+    background: var(--blue-500-10);
+    color: var(--primary);
+    padding: 20px 50px;
+    border-radius: 50px;
+    
+    .text {
+      font-size: var(--fs-2);
+      pointer-events: none;      
+    }
+    i {
+      font-size: var(--fs-4);
+    }
+  }
+}

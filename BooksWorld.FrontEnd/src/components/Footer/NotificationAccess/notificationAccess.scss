@@ -1,0 +1,43 @@
+.notification-access {
+  max-width: 400px;
+  row-gap: 15px;
+  display: grid;
+
+  .input-space {
+    display: flex;
+    
+    input {
+      width: 85%;
+      padding: 10px 15px;
+      border-right: none;
+      border-radius: 10px 0 0 10px;
+      outline: none;
+      border: 2px solid var(--on-surface-2);
+      background: var(--on-surface-2);
+      color: var(--black);
+      font-size: var(--fs-1);
+
+      @media (max-width: 600px) { font-size: var(--fs-2); }
+    }
+    button {
+      padding: 0 20px;
+      background: var(--primary);
+      color: var(--on-primary);
+      border: 3px solid var(--on-surface-2);
+      border-left: none;
+      font-size: var(--fs-2);
+      transition: 0.3s;
+      border-radius: 0 10px 10px 0;
+      cursor: pointer;
+
+      &:hover {
+        background: var(--primary-hover);
+      }
+    }
+  }
+  .info {
+    font-weight: 400;
+    font-size: var(--fs-1);
+    color: var(--neutral-500);
+  }
+}

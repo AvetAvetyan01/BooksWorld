@@ -1,0 +1,72 @@
+[
+  {
+    "id" : 1,
+    "name" : {
+      "Armenian" : "Սիրվածներ",
+      "English" : "Likeds",
+      "Russian" : "Любимые"
+    },
+    "icon" : "fa-solid fa-heart",
+    "url" : "/likeds"
+  },
+  {
+    "id" : 2,
+    "name" : {
+      "Armenian" : "Զամբյուղ",
+      "English" : "Cart",
+      "Russian" : "Корзина"
+    },
+    "icon" : "fa-solid fa-cart-shopping",
+    "url" : "/cart"
+  },
+  {
+    "id" : 3,
+    "name" : {
+      "Armenian" : "Գնումներ",
+      "English" : "Shoppings",
+      "Russian" : "Полупки"
+    },
+    "icon" : "fa-solid fa-basket-shopping",
+    "url" : "/shoppings"
+  },
+  {
+    "id" : 4,
+    "name" : {
+      "Armenian" : "Կարգավորումներ",
+      "English" : "Settings",
+      "Russian" : "Настройки"
+    },
+    "icon" : "fa-solid fa-gear",
+    "url" : ""
+  },
+  {
+    "id" : 5,
+    "name" : {
+      "Armenian" : "Հաղորդագրություններ",
+      "English" : "Notifications",
+      "Russian" : "Уведомления"
+    },
+    "icon" : "fa-solid fa-bell",
+    "url" : ""
+  },
+  {
+    "id" : 6,
+    "name" : {
+      "Armenian" : "Իմ Կարծիքները",
+      "English" : "My Reviews",
+      "Russian" : "Мои Отзивы"
+    },
+    "icon" : "fa-solid fa-comment fa-flip-horizontal",
+    "url" : ""
+  },
+  {
+    "id" : 7,
+    "name" : {
+      "Armenian" : "Դուրս Գալ",
+      "English" : "Log Out",
+      "Russian" : "Выйти"
+    },
+    "icon" : "fa-solid fa-arrow-right-from-bracket",
+    "url" : ""
+  }
+]

@@ -1,0 +1,20 @@
+.sm-menu {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 15px;
+
+  .sm-icons {
+    display: flex;
+    gap: 10px 20px;
+    flex-wrap: wrap;
+
+    li {
+
+      i {
+        color: var(--on-surface-2);
+        font-size: 2.5rem;
+        cursor: pointer;
+      }
+    }
+  }
+}

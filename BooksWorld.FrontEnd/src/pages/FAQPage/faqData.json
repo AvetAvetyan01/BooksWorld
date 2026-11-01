@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "question": {
+      "English": "Do you offer international shipping?",
+      "Russian": "Предлагаете ли вы международную доставку?",
+      "Armenian": "Առաջարկու՞մ եք միջազգային առաքում։"
+    },
+    "answer": {
+      "English": "Yes, we ship to most countries worldwide. Shipping costs and delivery times vary by location.",
+      "Russian": "Да, мы отправляем в большинство стран. Стоимость и сроки доставки зависят от местоположения.",
+      "Armenian": "Այո, մենք ուղարկում ենք գրեթե բոլոր երկրներ։ Առաքման արժեքներն ու ժամկետները կախված են վայրից։"
+    }
+  },
+  {
+    "id": 2,
+    "question": {
+      "English": "What payment methods do you accept?",
+      "Russian": "Какие способы оплаты вы принимаете?",
+      "Armenian": "Ինչ վճարային մեթոդներ եք ընդունում։"
+    },
+    "answer": {
+      "English": "We accept credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers.",
+      "Russian": "Мы принимаем кредитные карты (Visa, MasterCard, American Express), PayPal и банковские переводы.",
+      "Armenian": "Մենք ընդունում ենք բանկային քարտեր (Visa, MasterCard, American Express), PayPal և բանկային փոխանցումներ։"
+    }
+  },
+  {
+    "id": 3,
+    "question": {
+      "English": "How can I track my order?",
+      "Russian": "Как я могу отслеживать мой заказ?",
+      "Armenian": "Ինչպե՞ս կարող եմ հետևել իմ պատվերին։"
+    },
+    "answer": {
+      "English": "Once your order ships, you'll receive a tracking number via email to monitor your package's journey.",
+      "Russian": "После отправки заказа вы получите номер для отслеживания по электронной почте, чтобы отслеживать статус посылки.",
+      "Armenian": "Պատվերը առաքվելուն պես էլ․ փոստով կստանաք հետևման համար նամակ՝ tracking-համարով։"
+    }
+  },
+  {
+    "id": 4,
+    "question": {
+      "English": "Do you offer e-books?",
+      "Russian": "Предлагаете ли вы электронные книги?",
+      "Armenian": "Առաջարկու՞մ եք էլեկտրոնային գրքեր։"
+    },
+    "answer": {
+      "English": "Yes, we have a wide selection of e-books available in various formats including PDF, EPUB, and MOBI.",
+      "Russian": "Да, у нас широкий выбор электронных книг в форматах PDF, EPUB и MOBI.",
+      "Armenian": "Այո, ունենք լայն ընտրանի էլեկտրոնային գրքեր՝ PDF, EPUB և MOBI ձևաչափերով։"
+    }
+  },
+  {
+    "id": 5,
+    "question": {
+      "English": "What is your return policy?",
+      "Russian": "Какова ваша политика возврата?",
+      "Armenian": "Ինչ է ձեր վերադարձման քաղաքականությունը։"
+    },
+    "answer": {
+      "English": "Books can be returned within 30 days of purchase if they're in original condition. Please include your order number.",
+      "Russian": "Книги можно вернуть в течение 30 дней после покупки при сохранении первоначального состояния. Укажите номер заказа.",
+      "Armenian": "Գրքերը կարող են վերադարձվել՝ գնումից հետո 30 օրվա ընթացքում՝ ոչ վնասված սկզբնական վիճակում։ Խնդրում ենք նշել պատվերի համարը։"
+    }
+  },
+  {
+    "id": 6,
+    "question": {
+      "English": "Do you have a loyalty program?",
+      "Russian": "У вас есть программа лояльности?",
+      "Armenian": "Առկա՞ է հավատարմության ծրագիր։"
+    },
+    "answer": {
+      "English": "Yes, our rewards program gives you points for every purchase, which can be redeemed for discounts on future orders.",
+      "Russian": "Да, наша программа вознаграждений начисляет баллы за каждую покупку, которые можно обменять на скидки при последующих заказах.",
+      "Armenian": "Այո, մեր պարգևատրման ծրագիրը տալիս է միավորներ յուրաքանչյուր գնման համար, որոնք կարելի է փոխարկել զեղչերի համար։"
+    }
+  },
+  {
+    "id": 7,
+    "question": {
+      "English": "Can I pre-order upcoming releases?",
+      "Russian": "Могу ли я оформить предзаказ на будущие релизы?",
+      "Armenian": "Կարո՞ղ եմ նախապես պատվիրել առաջիկա թողարկումները։"
+    },
+    "answer": {
+      "English": "Yes, you can pre-order books before their release date. Payment is processed when the book ships.",
+      "Russian": "Да, вы можете оформить предзаказ до даты релиза. Оплата списывается при отправке книги.",
+      "Armenian": "Այո, կարող եք նախապես պատվիրել գրքերը մինչեւ թողարկման օրը։ Վճարումը իրականացվում է գիրքը ուղարկելիս։"
+    }
+  },
+  {
+    "id": 8,
+    "question": {
+      "English": "Do you sell used books?",
+      "Russian": "Вы продаете подержанные книги?",
+      "Armenian": "Վաճառում եք օգտագործված գրքեր։"
+    },
+    "answer": {
+      "English": "Yes, we offer a selection of used books in good condition at discounted prices.",
+      "Russian": "Да, у нас есть подборка подержанных книг в хорошем состоянии по сниженным ценам.",
+      "Armenian": "Այո, առաջարկում ենք օգտագործված գրքերի ընտրանի լավ վիճակում՝ զեղչված գներով։"
+    }
+  },
+  {
+    "id": 9,
+    "question": {
+      "English": "How long does shipping usually take?",
+      "Russian": "Сколько обычно занимает доставка?",
+      "Armenian": "Սովորաբար քանի՞ օր է տևում առաքումը։"
+    },
+    "answer": {
+      "English": "Domestic orders typically arrive within 3-5 business days. International shipping can take 7-14 business days.",
+      "Russian": "Внутренние заказы обычно прибывают в течение 3–5 рабочих дней. Международная доставка может занять 7–14 рабочих дней.",
+      "Armenian": "Տեղական պատվերները սովորաբար հասնում են 3–5 աշխատանքային օրվա ընթացքում. միջազգային առաքումը կարող է տեւել 7–14 աշխատանքային օր։"
+    }
+  },
+  {
+    "id": 10,
+    "question": {
+      "English": "Do you price match?",
+      "Russian": "Вы сравниваете цены с другими ритейлерами?",
+      "Armenian": "Կատարո՞ւմ եք գների համապատասխանություն (price match)։"
+    },
+    "answer": {
+      "English": "Yes, we match prices from major online retailers for identical items in stock.",
+      "Russian": "Да, мы сравниваем цены с крупными онлайн-ритейлерами для идентичных товаров в наличии.",
+      "Armenian": "Այո, մենք համընկեցնում ենք գները մեծ առցանց վաճառողների հետ նույնական ապրանքների համար։"
+    }
+  }
+]

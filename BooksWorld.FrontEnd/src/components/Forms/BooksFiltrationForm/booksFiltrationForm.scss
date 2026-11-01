@@ -1,0 +1,37 @@
+.books-filtration-form {
+  width: 330px;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  padding: 20px 30px;
+  background: var(--bg);
+  border: 1px solid var(--neutral-600);
+  border-radius: 30px;
+  transition: 0.3s;
+  
+  @media (max-width: 330px) { width: 100%; }
+  
+  &.modal {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    translate: 100%;
+    border-radius: 0;
+    border: none; 
+    border-left: 1px solid var(--neutral-600);
+    visibility: hidden;
+    opacity: 0;  
+    overflow-y: scroll;
+    overflow-x: hidden;
+    will-change: transform;  
+  }
+  &.active {
+    translate: 0;
+    visibility: visible;
+    opacity: 1;
+  }
+  .checkbox-menu {}
+  .toggles-menu {}
+}

@@ -1,0 +1,23 @@
+.dropdown-field {
+  // display: flex;
+  // align-items: center;
+  // gap: 10px 20px;
+  display: grid;
+  row-gap: 5px;
+  
+  .title {
+    font-size: var(--fs-2);
+    font-weight: 900;
+    color: var(--neutral-800);
+  }
+  .dropdown-menu {
+
+    button {
+      padding: 10px;
+    }
+    .option { 
+
+      i { font-size: 1rem; }
+    }
+  }
+} 

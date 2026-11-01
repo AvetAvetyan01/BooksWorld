@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "value": "armenian",
+    "image": "/images/flags/armenia.png",
+    "name" : {
+      "Armenian" : "Հայերեն",
+      "English" : "Armenian",
+      "Russian" : "Армянский"
+    }
+  },
+  {
+    "id": 2,
+    "value": "english",
+    "image": "/images/flags/uk.png",
+    "name" : {
+      "Armenian" : "Անգլերեն",
+      "English" : "English",
+      "Russian" : "Английский"
+    }
+  },
+  {
+    "id": 3,
+    "value": "russian",
+    "image": "/images/flags/russia.png",
+    "name" : {
+      "Armenian" : "Ռուսերեն",
+      "English" : "Russian",
+      "Russian" : "Русский"
+    }
+  },
+  { 
+    "id": 4,
+    "value": "frence",
+    "image": "/images/flags/france.png",
+    "name" : {
+      "Armenian" : "Ֆրանսերեն",
+      "English" : "Frence",
+      "Russian" : "Французкий"
+    }
+  },
+  {
+    "id": 5,
+    "value": "german",
+    "image": "/images/flags/germany.png",
+    "name" : {
+      "Armenian" : "Գերմաներեն",
+      "English" : "German",
+      "Russian" : "Немецкий"
+    }
+  },
+  {
+    "id": 6,
+    "value": "italian",
+    "image": "/images/flags/italy.png",
+    "name" : {
+      "Armenian" : "Իտալերեն",
+      "English" : "Italian",
+      "Russian" : "Италянский"
+    }
+  }
+]

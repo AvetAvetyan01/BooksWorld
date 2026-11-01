@@ -1,0 +1,72 @@
+.toggles-menu {
+  display: grid;
+  row-gap: 10px;
+}
+.toggle-switch {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 10px;
+  transition: 0.3s;
+  
+  .name-container {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    color: var(--primary);
+    background: var(--primary);
+    color: var(--on-primary);
+    font-size: var(--fs-2);
+
+    i {
+    }
+    .name {
+      font-weight: 600;
+      text-transform: capitalize;
+      cursor: default;
+    }
+
+    @media (max-width: 600px) { font-size: var(--fs-3); }
+  }
+  [type="checkbox"] {
+    appearance: none;
+    position: relative;
+    display: flex;
+    align-items: center;
+    min-width: 60px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 20px;
+    background: var(--neutral-500-20);
+    border: none; 
+    border: 1px solid var(--neutral-600);
+    transition: 0.3s;
+    cursor: pointer;
+    
+    &:hover {
+      border-color: var(--primary);
+    }
+    &:checked {
+      background: var(--blue-500-10);
+      border: 1px solid var(--primary);
+
+      &::after {
+        transform: translate(70%,0);
+        left: auto;
+        background: var(--primary);
+      }
+    }
+    &::after {
+      position: absolute;
+      content: "";
+      transform: translate(-70%,0);
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: var(--neutral-600);
+      transition: 0.3s;
+    }
+  }
+}

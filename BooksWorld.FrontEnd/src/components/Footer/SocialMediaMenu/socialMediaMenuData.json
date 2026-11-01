@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "fa-brands fa-square-instagram",
+    "url": ""
+  },
+  {
+    "icon": "fa-brands fa-square-facebook",
+    "url": ""
+  },
+  {
+    "icon": "fa-brands fa-square-x-twitter",
+    "url": ""
+  },
+  {
+    "icon": "fa-brands fa-square-youtube",
+    "url": ""
+  },
+  {
+    "icon": "fa-brands fa-square-twitter",
+    "url": ""
+  },
+  {
+    "icon": "fa-brands fa-square-whatsapp",
+    "url": ""
+  }
+]

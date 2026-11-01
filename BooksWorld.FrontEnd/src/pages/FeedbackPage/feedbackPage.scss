@@ -1,0 +1,36 @@
+.feedback-page {
+  padding: 3vw 6vw;
+}
+.feedback-form {
+  width: min(700px, 90%);
+  display: grid;
+  row-gap: 1.5vw;
+  margin: 0 auto;
+  color: var(--text);
+  
+  .title {
+    margin: 0 auto;
+    font-size: var(--fs-5);
+  }
+  .info {
+    font-size: 13px;
+    color: var(--text);
+  }
+  button {
+    margin: 0 auto;
+    font-size: var(--fs-2);
+    padding: 0.8vw 3vw;
+    color: var(--primary);
+    border: 2px solid var(--primary);
+    background: transparent;
+    
+    &:hover {
+      color: var(--on-primary);
+      border: 2px solid var(--primary);
+      background: var(--primary);
+    }
+    &:active {
+      scale: 0.95;
+    }
+  }
+}

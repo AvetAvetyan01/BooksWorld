@@ -1,0 +1,16 @@
+.dashboard-page {
+  padding: 20px;
+
+  h1{
+    margin-bottom: 12px;
+  }
+  .log-out-button {
+    margin-top: 20px;
+    background: var(--primary);
+    color: var(--on-primary);
+    transition: 0.3s;
+    padding: 10px 20px;
+    
+    &:hover { background: var(--primary-hover); }
+  }
+}

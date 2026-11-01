@@ -1,0 +1,21 @@
+.footer-menu {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: space-between;
+  column-gap: 30px;
+  row-gap: 10px;
+
+  li {
+    width: fit-content;
+    font-weight: 500;
+    // font-size: var(--fs-2);
+    font-size: var(--fs-2);
+    color: var(--on-surface-2);
+    cursor: pointer;
+
+
+    a { color: var(--on-surface-2); }
+
+    &:hover { text-decoration: underline; }
+  }
+}

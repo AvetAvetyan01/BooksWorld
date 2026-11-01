@@ -1,0 +1,37 @@
+.subbooks-config-section {
+  display: grid;
+  row-gap: 15px;
+
+  .header {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+
+    .title {
+      color: var(--text-title);
+    }
+    .create-button {
+      padding: 10px 15px;
+      font-size: var(--fs-2);
+      border: 2px solid var(--primary);
+      color: var(--primary);
+      background: transparent;
+      column-gap: 5px;
+      transition: 0.3s;
+
+      &:hover {
+        background: var(--primary);
+        color: var(--on-primary);
+      }
+      &:active {
+        scale: 0.95;
+      }
+    }
+  }
+  .subbooks {
+
+    .subbook {
+      --subbook-width: 300px;
+    }
+  }
+}

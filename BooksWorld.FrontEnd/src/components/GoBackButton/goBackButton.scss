@@ -1,0 +1,24 @@
+.go-back-button {
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  padding: 10px 15px;
+  color: var(--on-secondary);
+  background: var(--secondary);
+  border-radius: 10px;
+  font-size: var(--fs-3);
+  border: 1px solid transparent;
+  transition: 0.3s;
+  outline: none;
+
+  &:hover {
+    border-color: var(--secondary-border);
+  }
+  &:active {
+    scale: 0.9;
+  }
+  &:focus {
+    border-color: var(--secondary-hover);
+  }
+}

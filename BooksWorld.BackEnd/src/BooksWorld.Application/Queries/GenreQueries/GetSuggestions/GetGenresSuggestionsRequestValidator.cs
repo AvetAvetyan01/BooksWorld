@@ -1,0 +1,1 @@
+namespace BooksWorld.Application.Queries.GenreQueries.GetSuggestions;

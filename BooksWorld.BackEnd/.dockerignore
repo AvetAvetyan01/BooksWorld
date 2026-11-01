@@ -1,0 +1,36 @@
+# Source control and local tooling
+.git/
+.gitignore
+.vs/
+.vscode/
+
+# Build and test output
+**/bin/
+**/obj/
+TestResults/
+**/TestResults/
+BenchmarkDotNet.Artifacts/
+
+# Visual Studio and .NET user files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local packages and temporary files
+packages/
+*.nupkg
+*.snupkg
+*.tmp
+*.temp
+*.log
+
+# Local environment files and secrets
+# ----------------- until deploy ----------------------
+# .env
+# .env.*
+# !.env.example
+
+# Documentation is not required for the image build
+*.md
+

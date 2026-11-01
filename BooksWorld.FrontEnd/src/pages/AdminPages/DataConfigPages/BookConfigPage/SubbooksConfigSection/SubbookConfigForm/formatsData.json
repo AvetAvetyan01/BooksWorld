@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "value": "Paper",
+    "icon": "fa-solid fa-book-open",
+    "name" : {
+      "Armenian" : "Թղթե",
+      "English" : "Paper",
+      "Russian" : "Бумажный"
+    }
+  },
+  {
+    "id": 2,
+    "value": "Audio",
+    "icon": "fa-solid fa-headphones",
+    "name" : {
+      "Armenian" : "Աուդիո",
+      "English" : "Audio",
+      "Russian" : "Аудио"
+    }
+  },
+  {
+    "id": 3,
+    "value": "Electronic",
+    "icon": "fa-regular fa-file-lines",
+    "name" : {
+      "Armenian" : "Էլեկտրական",
+      "English" : "Electronic",
+      "Russian" : "Електронний"
+    }
+  }
+] 

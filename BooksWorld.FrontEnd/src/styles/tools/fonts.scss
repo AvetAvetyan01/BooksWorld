@@ -1,0 +1,142 @@
+﻿@font-face {
+  font-family: "f12";
+  src: url("/fonts/Noto_Serif/NotoSerif-VariableFont_wdth,wght.ttf");
+}
+@font-face {
+  font-family: "f1"; 
+  src: url("/fonts/Bainsley/Bainsley_Bold.otf");
+  src: url("/fonts/Bainsley/Bainsley_Bold_Italic.otf");
+  src: url("/fonts/Bainsley/Bainsley_Roman.otf");
+}
+@font-face {
+  font-family: "f2"; 
+  src: url("/fonts/Kelvinch/Kelvinch-Bold.otf");
+  src: url("/fonts/Kelvinch/Kelvinch-BoldItalic.otf");
+  src: url("/fonts/Kelvinch/Kelvinch-Italic.otf");
+  src: url("/fonts/Kelvinch/Kelvinch-Roman.otf");
+}
+@font-face {
+  font-family: "f3"; 
+  src: url("/fonts/Kelvinch/Kelvinch-Italic.otf");
+}
+@font-face {
+  font-family: "f4";  
+  src: url("/fonts/Oldtimer/Oldtimer-Regular.otf");
+}
+@font-face {
+  font-family: "f5"; 
+  src: url("/fonts/Sylfaen/sylfaen.ttf");
+}
+@font-face {
+  font-family: "f6";  
+  src: url("/fonts/Tex Gyre Termes/texgyretermes_regular.ttf");
+}
+@font-face {
+  font-family: "f7";
+  src: url("/fonts/Amris/amrys-light.otf");
+}
+@font-face {
+  font-family: "f8";
+  src: url("/fonts/GHEA Grapalat/gheagrapalat.otf");
+}
+@font-face {
+  font-family: "f8";
+  src: url("/fonts/LT Superior/LT Superior/LTSuperior-Medium.otf");
+}
+@font-face {
+  font-family: "f9";
+  src: url("/fonts/POE Vetica UI/poeveticaui.otf");
+}
+@font-face {
+  font-family: "f10";
+  src: url("/fonts/WeblySleek UI/weblysleekuil.ttf");
+}
+@font-face {
+  font-family: "f11";
+  src: url("/fonts/Xarrovv/Xarrovv.otf");
+}
+@font-face {
+  font-family: "f12";
+  src: url("/fonts/WeblySleek UI/weblysleekuisb.ttf");
+}
+@font-face {
+  font-family: "f13";
+  src: url("/fonts/Google Sans/GoogleSans-VariableFont_GRAD,opsz,wght.ttf");
+}
+
+:root {
+  --standartFont: "f13";
+  --poshFont: "f6";
+  --italicFont: "f3";
+
+  --font-scale: 1;
+
+  [data-language="Armenian"] {
+    --font-scale: 0.95;
+    --font-scale: 2;
+  }
+  [data-language="Russian"] {
+    --font-scale: 1.05;
+  }
+  [data-language="English"] {
+    // --font-scale: 1.05;
+  }
+  
+  // --fs-1: calc(clamp(14px, 1.0vw, 16px) * var(--font-scale));
+  --fs-1: calc(clamp(16px, 1.0vw, 13px) * var(--font-scale));
+  --fs-2: calc(clamp(16px, 1.1vw, 18px) * var(--font-scale));
+  --fs-3: calc(clamp(18px, 1.2vw, 22px) * var(--font-scale));
+  --fs-4: calc(clamp(22px, 1.4vw, 24px) * var(--font-scale));
+  --fs-5: calc(clamp(24px, 1.6vw, 28px) * var(--font-scale));
+  --fs-6: calc(clamp(30px, 1.7vw, 34px) * var(--font-scale));
+  --fs-7: calc(clamp(34px, 1.8vw, 38px) * var(--font-scale));
+
+  @media  (max-width: 400px) {
+    --fs-1: calc(clamp(9px,  2.5vw, 10px) * var(--font-scale));
+    --fs-2: calc(clamp(11px, 3.0vw, 12px) * var(--font-scale));
+    --fs-3: calc(clamp(14px, 4.0vw, 16px) * var(--font-scale));
+    --fs-4: calc(clamp(16px, 5.0vw, 20px) * var(--font-scale));
+    --fs-5: calc(clamp(20px, 5.5vw, 22px) * var(--font-scale));
+    --fs-6: calc(clamp(22px, 6.0vw, 24px) * var(--font-scale));
+    --fs-7: calc(clamp(24px, 7.0vw, 28px) * var(--font-scale));
+  }
+  @media (min-width: 400px) and (max-width: 800px) {
+    --fs-1: calc(clamp(12px,   1.75vw, 13.5px) * var(--font-scale));
+    --fs-2: calc(clamp(13.5px, 2.25vw, 15px) * var(--font-scale));
+    --fs-3: calc(clamp(15px,   2.75vw, 16.5px) * var(--font-scale));
+    --fs-4: calc(clamp(16.5px, 3.00vw, 20px) * var(--font-scale));
+    --fs-5: calc(clamp(20px,   3.25vw,  24px) * var(--font-scale));
+    --fs-6: calc(clamp(24px,   3.50vw,  28px) * var(--font-scale));
+    --fs-7: calc(clamp(28px,   4.00vw,  32px) * var(--font-scale));
+  }
+  @media (min-width: 800px) and (max-width: 1200px) {
+    --fs-1: calc(clamp(13px, 1.5vw, 14px) * var(--font-scale));
+    --fs-2: calc(clamp(14px, 1.8vw, 16px) * var(--font-scale));
+    --fs-3: calc(clamp(16px, 2.1vw, 20px) * var(--font-scale));
+    --fs-4: calc(clamp(20px, 2.4vw, 22px) * var(--font-scale));
+    --fs-5: calc(clamp(22px, 2.7vw, 24px) * var(--font-scale));
+    --fs-6: calc(clamp(26px, 3.0vw, 30px) * var(--font-scale));
+    --fs-7: calc(clamp(30px, 3.3vw, 34px) * var(--font-scale));
+  }
+  @media (min-width: 1200px) and (max-width: 1600px) {
+    --fs-1: calc(clamp(14px, 1.00vw, 16px) * var(--font-scale));
+    --fs-2: calc(clamp(16px, 1.15vw, 18px) * var(--font-scale));
+    --fs-3: calc(clamp(18px, 1.30vw, 22px) * var(--font-scale));
+    --fs-4: calc(clamp(22px, 1.45vw, 24px) * var(--font-scale));
+    --fs-5: calc(clamp(24px, 1.60vw, 28px) * var(--font-scale));
+    --fs-6: calc(clamp(30px, 1.80vw, 34px) * var(--font-scale));
+    --fs-7: calc(clamp(34px, 2.00vw, 38px) * var(--font-scale));
+  }
+  // @media (max-width: 2000px) {
+  //   --fs-1: calc(clamp(14px, 1.0vw, 16px) * var(--font-scale));
+  //   --fs-2: calc(clamp(16px, 1.1vw, 18px) * var(--font-scale));
+  //   --fs-3: calc(clamp(18px, 1.2vw, 22px) * var(--font-scale));
+  //   --fs-4: calc(clamp(22px, 1.6vw, 24px) * var(--font-scale));
+  //   --fs-5: calc(clamp(24px, 1.4vw, 28px) * var(--font-scale));
+  //   --fs-6: calc(clamp(30px, 1vw, 34px) * var(--font-scale));
+  //   --fs-7: calc(clamp(34px, 1.8vw, 38px) * var(--font-scale));
+  //   // --fs-: px;
+  //   // --fs-: vw;
+  //   // --fs-: px;
+  // }
+}

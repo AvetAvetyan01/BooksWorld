@@ -1,0 +1,104 @@
+.reviews-section {
+  max-width: 100%;
+  display: grid;
+  row-gap: 30px;
+
+  .header {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px 20px;
+
+    @media (max-width: 600px) {
+      .title { width: 100%; }
+    }
+    a,
+    button {
+      display: flex;
+      align-items: center;
+      column-gap: 10px;
+      padding: 10px 15px;
+      border-radius: 10px;
+      background: var(--secondary);
+      color: var(--on-secondary);
+      border: 1px solid transparent;
+      transition: 0.3s;
+      
+      &:hover {
+        border-color: var(--primary);
+      }
+      &:active {
+        scale: 0.9;
+      }
+      i { 
+        font-size: 1.25rem;
+        pointer-events: none;
+      }
+      p {
+        width: fit-content;
+        font-weight: 600;
+        font-size: var(--fs-1);
+        pointer-events: none;
+      }
+      @media (max-width: 400px) {
+        padding: 5px 15px;
+
+        p { font-size: var(--fs-2); }
+      }
+    }
+  }
+  .reviews {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;  
+
+    @media (max-width: 800px) { gap: 15px; }
+  }
+  .error-message {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    color: var(--text);
+
+    i {
+      font-size: 1.25rem;
+    }
+    p {
+      font-size: var(--fs-2);
+      font-weight: 300;
+    }
+  }
+  .pagination-buttons {
+    display: flex;
+    column-gap: 20px;
+    
+    button {
+      width: fit-content;
+      flex-shrink: 0;
+      border-radius: 20px;
+      background: var(--secondary);
+      color: var(--on-secondary);
+      text-align: center;
+      padding: 10px 20px;
+      font-size: var(--fs-3);
+      letter-spacing: 1px;
+      transition: 0.3s;
+      border: 1px solid transparent;
+      cursor: pointer;
+      
+      &:disabled {
+        background: var(--disabled-bg);
+        color: var(--disabled-text);
+      }
+      &:hover { 
+        border-color: var(--primary);
+      }
+    }
+  } 
+  @media (max-width: 600px) {
+    
+    .reviews {
+      grid-template-columns: 1fr;
+    }
+  }
+}

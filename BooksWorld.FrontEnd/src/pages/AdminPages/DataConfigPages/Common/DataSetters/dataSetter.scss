@@ -1,0 +1,42 @@
+.data-setters {
+  display: flex;
+  gap: 15px 50px;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+.data-setter {
+  display: grid;
+  row-gap: 5px;
+
+  .title {
+    font-weight: 700;
+    font-size: var(--fs-3);
+    color: var(--text-title);
+  }
+  .id {
+  }
+  .name {
+  }
+  .search {
+    margin: 0;
+    height: 50px;
+    display: flex;
+    justify-content: start;     
+
+    .input-list {
+      max-width: 300px;
+      border-radius: 0 15px 15px 0;
+
+      input {
+        border-radius: 0 15px 15px 0;
+      }
+      .matcheds-list {
+        width: calc(100% - 10px);
+      }
+    }
+  }
+  .error {
+    color: var(--danger);
+    font-size: var(--fs-1);
+  }
+}
