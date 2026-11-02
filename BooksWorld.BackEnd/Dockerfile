@@ -5,7 +5,8 @@ WORKDIR /src
 
 COPY . .
 
-RUN dotnet publish -c Release -o /src/publish
+# RUN dotnet publish -c Release -o /src/publish
+RUN dotnet publish -c Release src/BooksWorld.API/BooksWorld.API.csproj -o /src/publish
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 

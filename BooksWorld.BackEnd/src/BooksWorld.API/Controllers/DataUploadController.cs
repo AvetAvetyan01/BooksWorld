@@ -181,40 +181,40 @@ public class DataUploadController(
 
           book.Subbooks.Add(subbook);
 
-          var stripeProduct = await _stripeClient.V1.Products.CreateAsync(new ProductCreateOptions
-          {
-            Active = true,
-            Name = book.Title_EN,
-            Description = $"{book.Author.FullName_EN} - {subbook.Format}",
-          });
+          // var stripeProduct = await _stripeClient.V1.Products.CreateAsync(new ProductCreateOptions
+          // {
+          //   Active = true,
+          //   Name = book.Title_EN,
+          //   Description = $"{book.Author.FullName_EN} - {subbook.Format}",
+          // });
 
-          var stripePrice = await _stripeClient.V1.Prices.CreateAsync(new ()
-          {
-            Product = stripeProduct.Id,
-            Currency = "AMD",
-            UnitAmount = (long)subbook.Price * 100,
-          });
+          // var stripePrice = await _stripeClient.V1.Prices.CreateAsync(new ()
+          // {
+          //   Product = stripeProduct.Id,
+          //   Currency = "AMD",
+          //   UnitAmount = (long)subbook.Price * 100,
+          // });
 
-          subbook.StripeProductId = stripeProduct.Id;
-          subbook.StripePriceId = stripePrice.Id;
+          // subbook.StripeProductId = stripeProduct.Id;
+          // subbook.StripePriceId = stripePrice.Id;
         }
 
         if (_faker.Random.Bool(0.4f))
         {
           var discountPercent = _faker.PickRandomParam(10, 20, 30);
 
-          var coupon = await _stripeClient.V1.Coupons.CreateAsync(
-            new CouponCreateOptions
-            {
-              Name = $"Coupon: {book.Title_EN}",
-              Duration = "forever", // DurationInMonths
-              PercentOff = discountPercent,
-              AppliesTo = new CouponAppliesToOptions
-                { Products = [..book.Subbooks.Select(sb => sb.StripeProductId)] },
-            });
+          // var coupon = await _stripeClient.V1.Coupons.CreateAsync(
+          //   new CouponCreateOptions
+          //   {
+          //     Name = $"Coupon: {book.Title_EN}",
+          //     Duration = "forever", // DurationInMonths
+          //     PercentOff = discountPercent,
+          //     AppliesTo = new CouponAppliesToOptions
+          //       { Products = [..book.Subbooks.Select(sb => sb.StripeProductId)] },
+          //   });
 
-          foreach(var subbook in book.Subbooks) 
-            subbook.StripeCouponId = coupon.Id;
+          // foreach(var subbook in book.Subbooks) 
+          //   subbook.StripeCouponId = coupon.Id;
 
           book.DiscountPercent = discountPercent;
 
