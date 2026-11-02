@@ -16,18 +16,6 @@ services:
       timeout: 5s
       start_period: 10s
 
-  migration:
-    build: 
-      context: .
-      dockerfile: ./docker/migration/Dockerfile
-    profiles:
-      - db_migration
-    env_file:
-      - ./BooksWorld.BackEnd/.env
-    depends_on:
-      db:
-        condition: service_healthy
-
   checkout-webhook-listener:
     image: stripe/stripe-cli
     command: 
@@ -35,7 +23,7 @@ services:
       - --api-key 
       - ${StripeOptions__SecretKey} 
       - --forward-to 
-      - http://backend:8080/api/checkout/webhook
+      - ${StripeOptions__CheckoutWebhookUrl}
       - --events 
       - checkout.session.completed,checkout.session.async_payment_succeeded
     profiles:
