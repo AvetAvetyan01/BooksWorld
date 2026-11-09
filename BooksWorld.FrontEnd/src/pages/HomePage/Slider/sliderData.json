@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "url" : "/books",
+    "title": {
+      "English": "Discover a world of new stories",
+      "Russian": "Открой мир новых историй",
+      "Armenian": "Բացահայտեք նոր պատմությունների աշխարհը"
+    },
+    "imagePath": "/images/slider/1.jpg",
+    "description": {
+      "English": "Every book is a new journey, a source of fresh emotions, and a chance for unexpected discoveries. Find a work that speaks to you, and let a great story sweep you away from the very first pages.",
+      "Russian": "Каждая книга — это новое путешествие, новые эмоции и неожиданные открытия. Найди произведение по душе и позволь хорошей истории увлечь тебя с первых страниц.",
+      "Armenian": "Յուրաքանչյուր գիրք նոր ճանապարհորդություն է, նոր հույզեր և անսպասելի հայտնագործություններ։ Գտեք մի գիրք, որը սիրում եք, և թույլ տվեք, որ լավ պատմությունը գրավի ձեզ առաջին իսկ էջից։" 
+    }
+  },
+  {
+    "id": 2,
+    "url" : "/books?formats=audio",
+    "title": {
+      "English": "Listen. Imagine. Immerse yourself.",
+      "Russian": "Слушай. Представляй. Погружайся.",
+      "Armenian": "Լսեք։ Պատկերացրեք։ Սուզվեք դրա մեջ։"
+    },
+    "imagePath": "/images/slider/2.jpg",
+    "description": {
+      "English": "Immerse yourself in captivating stories while you go about your daily routine. Listen to your favorite authors on the go, out for a walk, or at home—and discover stories in an entirely new way. ",
+      "Russian": "Погрузись в захватывающие сюжеты, пока занимаешься привычными делами. Слушай любимых авторов в дороге, на прогулке или дома и открывай для себя истории совершенно по-новому.",
+      "Armenian": "Ընկղմվեք գրավիչ պատմությունների մեջ՝ ձեր առօրյա գործերով զբաղվելիս։ Լսեք ձեր սիրելի հեղինակներին ճանապարհին, զբոսանքի ժամանակ կամ տանը և բացահայտեք պատմությունները բոլորովին նոր ձևով։"
+    }
+  },
+  {
+    "id": 3,
+    "url" : "/books?formats=electronic",
+    "title": {  
+      "English": "Your library is always at your fingertips",
+      "Russian": "Твоя библиотека всегда под рукой",
+      "Armenian": "Ձեր գրադարանը միշտ ձեռքի տակ է"
+    },
+    "imagePath": "/images/slider/3.jpg",
+    "description": {
+      "English": "Thousands of pages of inspiration can fit into a single compact device. Choose e-books, save your favorite works, and enjoy reading at home, while traveling, or during a break in your day.",
+      "Russian": "Тысячи страниц вдохновения могут поместиться в одном компактном устройстве. Выбирай электронные издания, сохраняй любимые произведения и наслаждайся чтением дома, в путешествии или в перерыве между делами.",
+      "Armenian": "Հազարավոր ոգեշնչող էջեր կարող են տեղավորվել մեկ կոմպակտ սարքի մեջ: Ընտրեք էլեկտրոնային գրքեր, պահպանեք ձեր նախընտրածները և վայելեք ընթերցանությունը տանը, ճանապարհորդելիս կամ ընդմիջման ժամանակ:"
+    }
+  },
+  {
+    "id": 4,
+    "url" : "/books?formats=paper",
+    "title": {
+      "English": "Stories you’ll want to keep close by",
+      "Russian": "Истории, которые хочется держать рядом",
+      "Armenian": "Պատմություններ, որոնք ուզում եք մոտ պահել"
+    },
+    "imagePath": "/images/slider/4.jpg",
+    "description": {
+      "English": "Feel the rustle of the pages, breathe in the scent of a new book, and discover works you’ll want to return to again and again. Build your own home library and collect stories that will stay with you for years to come.",
+      "Russian": "Почувствуй шелест страниц, вдохни аромат новой книги и найди произведения, к которым захочется возвращаться снова. Создавай собственную домашнюю библиотеку и собирай истории, которые останутся с тобой на долгие годы.",
+      "Armenian": "Զգացեք էջերի շրշյունը, շնչեք նոր գրքի բույրը և գտեք ստեղծագործություններ, որոնց կցանկանաք վերադառնալ կրկին ու կրկին: Ստեղծեք ձեր սեփական տնային գրադարանը և հավաքեք պատմություններ, որոնք կմնան ձեզ հետ տարիներ շարունակ:"
+    }
+  }
+]

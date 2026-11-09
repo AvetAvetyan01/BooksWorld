@@ -1,0 +1,66 @@
+.subbook-form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  max-width: 650px;
+  min-width: 550px;
+  padding: 30px 50px;
+  background: var(--bg);
+  border: 1px solid var(--neutral-600);
+  border-radius: 20px;
+  display: grid;
+  row-gap: 15px;
+
+  & > .title {
+    font-size: var(--fs-3);
+    text-align: center;
+  }
+  .dropdowns {
+    display: flex;
+    column-gap: 30px;
+    margin: 0 auto;
+
+    .title {
+      text-align: center;
+    }
+    .dropdown-menu button {
+      height: 50px;
+    }
+  }
+  .buttons {
+    display: grid;
+    justify-content: center;
+    row-gap: 10px;
+
+    button {
+      margin: 0 auto;
+      padding: 10px 60px;
+      font-size: var(--fs-2);
+      font-weight: 700;
+      border-radius: 25px;
+
+      &:active { scale: 0.95; }
+    }
+    .create, .edit {
+      border: 2px solid var(--primary);
+      background: var(--bg);
+      color: var(--primary);
+
+      &:hover {
+        background: var(--primary);
+        color: var(--on-primary);
+      }
+    }
+    .delete {
+      color: var(--danger);
+      border: 2px solid var(--danger);
+      background: none;
+
+      &:hover {
+        background: var(--danger);
+        color: var(--white);
+      }
+    }
+  }
+}

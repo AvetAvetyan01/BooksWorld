@@ -1,0 +1,373 @@
+{
+  "header" : {
+    "logo" : "Գրքերի Աշխարհ",
+    "search" : {
+      "input-placeholder" : {
+        "Genre-Id" : "Որոնել Ժանրը ըստ ID-ի",
+        "Genre-Name" : "Որոնել Ժանրը ըստ անվան",
+        "Book-Id" : "Որոնել գիրք ըստ ID-ի",
+        "Book-Title" : "Որոնել գիրք ըստ վերնագրի",
+        "Book-ISBN" : "Որոնել գիրք ըստ ISBN-ի",
+        "Author-Id" : "Որոնել հեղինակին ըստ ID-ի",
+        "Author-FullName" : "Որոնել գիրք ըստ անվան",
+        "Order-Id" : "Որոնել պատվերւ ըստ ID-ի",
+        "Order-UserId" : "Որոնել պատվերւ ըստ Օգտատիրոջ ID-ի"
+      },
+      "button" : "Որոնել"
+    },
+    "buttons" : {
+      "login" : "Մուտք",
+      "signin" : "Գրանցվել" 
+    }
+  },
+  "config-header" : {
+    "create-button" : "Ստեղծել",
+    "edit-button" : "Փոփոխել",
+    "delete-button" : "Հեռացնել"
+  },
+  "footer" : {
+    "menu" : {
+      "About Us" : "Մեր Մասին",
+      "Contacts" : "Հաղորդակցություններ",
+      "Our Locations" : "Մեր Տեղորոշումները",
+      "Feedback" : "Հետադարձ Կապ",
+      "Careers" : "Կարիերա",
+      "Privacy" : "Գաղտնիություն",
+      "Blogs" : "Բլոգներ",
+      "Gift Cards" : "Նվեր Քարտեր",
+      "Partnership" : "Համագործակցություն",
+      "FAQ" : "ՀՏՀ"
+    },
+    "notification-access" : {
+      "title" : "Մնացեք տեղեկացված",
+      "input-placeholder" : "Էլ․ Հասցե",
+      "info" : "Մուտքագրեք ձեր էլեկտրոնային փոստի հասցեն՝ BooksWorld-ի առաջարկներն ու թարմացումները ստանալու համար"
+    },
+    "sm-menu" : {
+      "title" : "Մենք Սոքիալական Ցանցերում"
+    }
+  },
+  "bottom-navigation" : {
+    "buttons" : {
+      "likeds" : "սիրվածներ",
+      "home" : "գլխավոր",
+      "cart" : "զամբյուղ",
+      "profile" : "պրոֆիլ",
+      "tops" : "լավագույնները",
+      "books" : "գրքեր",
+      "menu" : "մենյու"
+    }
+  },
+  "empty-popup" : {
+    "home-button" : "Անցնել գլխավոր էջ"
+  },
+  "format" : {
+    "Audio" : "Աուդիո",
+    "Paper" : "Թղթե",
+    "Electronic" : "Էլեկտրական"
+  },
+  "language" : {
+    "Armenian" : "Հայերեն",
+    "English" : "Անգլերեն",
+    "Russian" : "Ռուսերեն",
+    "Frence" : "Ֆրանսերեն",
+    "German" : "Գերմաներեն",
+    "Italian" : "Իտալերեն"
+  },
+  "search-info" : {
+    "description" : "Գտնված ըստ"
+  },
+  "form-fields" : {
+    "phone" : "Հեռախոսահամար",
+    "email" : "Էլ․ Հասցե",
+    "name" : "Անուն",
+    "message" : "Հաղորդագրություն",
+    "password" : "Գաղտնաբառ",
+    "remember-me" : "Հիշել ինձ",
+    "file" : {
+      "name" : "Ֆայլ",
+      "button-text" : "Ընտրել ֆայլ",
+      "no-file-chosen" : "Չկա ընտրված ֆայլ"
+    },
+    "errors" : {
+      "required" : "'{{fieldName}}' դաշտը պարտադիր է լրացնել"
+
+    }
+  },
+  "login-form" : {
+    "title" : "Մուտք",
+    "button-text" : "Ուղարկել"
+  },
+  "reg-form" : {
+    "title" : "Գրանցվել",
+    "button-text" : "Ուղարկել",
+    "permission-aggree" : "Համաձայնվել մեր Գաղտնիության Քաղաքականության հետ"
+  },
+  "review-form" : {
+    "input-placeholder" : "Գրեք Ձեր Կարծիքը",
+    "comment" : "Մեկնաբանություն",
+    "my-review" : "Իմ Կարծիքը",
+    "leave-review" : "Թողնել Կարծիք",
+    "change-review" : "Փոփոխել Կարծիքը",
+    "delete-review" : "Հեռացնել Կարծիքը"
+  },
+  "models" : {
+    "common" : {
+      "id" : "ID"
+    },
+    "genre" : {
+      "model-name" : "Ժանր",
+      "name" : "Անուն",
+      "base-genre" : "Հիմքային Ժանր"
+    },
+    "author" : {
+      "model-name" : "Հեղինակ",
+      "fullname" : "Լրիվ Անուն"
+    }
+  },
+  "pages" : {
+    "home" : {
+      "titles" : {
+        "popular-books" : "Հայտնի Գրքեր",
+        "popular-genres" : "Հայտնի Ժանրեր",
+        "newest-books" : "Նոր Գրքեր",
+        "bestsallers" : "Բեստսելլերներ",
+        "popular-authors" : "Հայտնի Հեղինակներ"
+      }
+    },
+    "book" : {
+      "preview" : "Նախադիտում",
+      "buttons" : {
+        "like" : "Ավելացնել Սիրվածներին",
+        "unlike" : "Հեռացնել Սիրվածներից",
+        "add-to-cart" : "Ավելացնել Զամբյուղի Մեջ",
+        "remove-from-cart" : "Հեռացնել Զամբյուղի Միջից",
+        "read-online" : "Կարդալ Օնլայն",
+        "listen-online" : "Լսել Օնլայն",
+        "view-all-reviews" : "Տեսնել Բոլոր Կարծիքները",
+        "leave-review" : "Թողնել Կարծիք",
+        "change-review" : "Փոփոխել Կարծիքը"
+      },
+      "titles" : {
+        "details" : "Մանրամասներ",
+        "reviews" : "Կարծիքներ",
+        "description" : "Նկարագրություն",
+        "recommended-books" : "Խորհուրդ Տրվող Գրքեր"
+      },
+      "details" : {
+        "genre" : "Ժանր",
+        "year" : "Տարի",
+        "format" : "Ձևաչափ",
+        "publisher" : "Հրատարակիչ",
+        "language" : "Լեզու",
+        "pages-count" : "Էջերի Քանակը",
+        "reader" : "Կարդացող",
+        "duration" : "Տևողություն"
+      }
+    },
+    "books" : {
+      "genres-menu" : {
+        "button" : {
+          "open" : "Տեսնել Մնացածը",
+          "close" : "Թաքցնել"
+        }
+      },
+      "titles" : {
+        "header" : "Ֆիլտր",
+        "formats" : "Ձևաչափեր",
+        "languages" : "Լեզուներ"
+      },
+      "filter-button" : "Ֆիլտր",
+      "reset-button" : "Մաքրել Ֆիլտրը",
+      "loading-message" : "Գրքերը որոնվում են",
+      "empty-message" : "Որոնման պարամետրերին համապատասխանող տվյալներ չկան"
+    },
+    "profile" : {
+    },
+    "author" : {
+      "titles" : {
+        "authoral-books" : "Հեղինակային Գրքեր"
+      }
+    },
+    "authors" : {
+      "loading-message" : "Հեղինակները որոնվում են",
+      "empty-message" : "Հեղինակները գտնաված չեն"
+    },
+    "genres" : {
+      "loading-message" : "Ժանրերը որոնվում են",
+      "empty-message" : "Ժանրերը գտնված չեն"
+    },
+    "reviews" : {
+      "title" : "Գրքի Կարծիքները",
+      "rates" : "Գնահատում",
+      "empty-popup" : {
+        "title" : "Այս գրքի վերաբերյալ կարծիքներ չկան",
+        "description" : "Դուք կարող եք թողնել ձեր կարծիքն այս գրքի վերաբերյալ"
+      }
+    },
+    "searcheds" : {
+      "title" : {
+        "books" : "Գտնված գրքերը ըստ",
+        "authors" : "Գնտված հեղինակները ըստ"
+      }
+    },
+    "about" : {
+      "titles" : {
+      "about-us" : "Մեր Մասին",
+      "our-locations" : "Մեր Տեղորոշումները",
+      "gallery" : "Պատկերներ"
+      },
+      "description" : "Books World-ը գրքի սիրահարների համար պրեմիե վայր է: Մեր հիմնադրից ի վեր, մենք նվիրված ենք ընթերցողներին միացնել այն պատմություններ, գիտելիքներ և ոգեշարժ բովանդակության հետ, որոնք նրանք փնտրում են: Մեր հետուքային ընտրված հավաքածուն, որը ընդգրկում է բազմաթիվ ժանրեր, լեզուներ և ձևաչափեր՝ դասական թղթե գրքերից մինչ էլեկտրական գրքեր և աուդիոգրքեր, ապահովում է, որ յուրաքանչյուր ընթերցողի համար կա ինչ-որ բան: Մեր գրքերի հանդեպ կրքոտ թիմը անհընդհատ աշխատում է ձեզ ներկայացնել վերջին բեսթսելլերներ, թաքնված գուշակներ և հավիտենական դասականներ: Books World-ում մենք հավատում ենք ընթերցման փոխակերպիչ ուժին և նվիրված ենք ընթերցողների կենդանի համայնքի կազմակերպմանը ամբողջ աշխարհում:"
+    },
+    "faq" : {
+      "title" : "Հաճախ Տրվող Հարցեր"
+    },
+    "cart" : {
+      "title" : "Զամբյուղ",
+      "items" : "Գրքեր",
+      "loading-message" : "Գրքերը որոնվում են",
+      "empty-popup" : {
+        "title" : "Ձեր զամբյուղը ներկայումս դատարկ է",
+        "description" : "Նայեք գլխավոր էջին՝ մենք այնտեղ հավաքել ենք գրքեր, որոնք կարող եք ցանկանալ գնել"
+      },
+      "order-form" : {
+        "set-delivery-address" : "Փոփոխել Առաքման Հասցեն",
+        "order-button" : "Պատվիրել",
+        "aggreement-text" : "Համաձայն եմ Գաղտնիության Քաղաքականության հետ",
+        "details" : {
+          "totaly" : "Ընդհանուր",
+          "discounts" : "Զեղջեր",
+          "address" : "Հասցե"
+        },
+        "warnings" : {
+          "valid-address" : "Մուտքագրեք առաքման հասցեն",
+          "agree-privacy-policy" : "Համաձայնվեք մեր Գաղտնիության Քաղաքականության հետ" 
+        }
+      }
+    },
+    "shoppings" : {
+      "title" : "Գնումներ",
+      "empty-popup" : {
+        "title" : "Դուք չունեք գնված գրքեր",
+        "description" : "Նայեք գլխավոր էջին՝ մենք այնտեղ հավաքել ենք գրքեր, որոնք կարող են ձեզ դուր գալ"
+      },
+      "loading-message" : "Գնումները որոնվում են"
+    },
+    "likeds" : {
+      "title" : "Սիրված Գրքեր",
+      "empty-popup" : {
+        "title" : "Դուք չունեք սիրված գրքեր",
+        "description" : "Նայեք գլխավոր էջին՝ մենք այնտեղ հավաքել ենք գրքեր, որոնք կարող են ձեզ դուր գալ"
+      },
+      "loading-message" : "Սիրված գրքերը որոնվում են"
+    },
+    "not-found" : {
+      "title" : "էջը գտնված չէ",
+      "description" : "Էջը, որին փորձում եք մուտք գործել, գոյություն չունի կամ տեղափոխվել է",
+      "button-text" : "Ետ Գնալ"
+    },
+    "tables-page" : {
+      "create-button" : "Ստեղծել"
+    },
+    "books-table" : {
+      "table-columns" : {
+        "id" : "ID",
+        "title" : "Վերնագիր",
+        "author" : "Հեղինակ",
+        "rating" : "Վարկանիշ",
+        "formats" : "Ձևաչափեր",
+        "languages" : "Լեզուներ",
+        "discount" : "Զեղչ"
+      },
+      "subbooks-table" : {
+        "id" : "ID",
+        "publisher" : "Հրատարակիչ",
+        "year" : "Տարի",
+        "price" : "Գին (AMD)",
+        "format" : "Ձևաչափ",
+        "language" : "Լեզու"
+      }
+    },
+    "authors-table" : {
+      "table-columns" : {
+        "id" : "ID",
+        "fullname" : "Լրիվ Անուն"
+      }
+    },
+    "genres-table" : {
+      "table-columns" : {
+        "id" : "ID",
+        "name" : "Անուն"
+      }
+    },
+    "order" : {
+      "fields" : {
+        "id" : "ID",
+        "user-id" : "Օգտատիրոջ ID",
+        "status" : "Կարգավիճակ",
+        "total-amount" : "Ընդհանուր Գումար",
+        "shipping-address" : "Առաքման Հասցե",
+        "created-at" : "Ստեղծման Ամսաթիվը",
+        "checkout-session-id" : "Վճարման Գործընթացի ID"
+      }
+    },
+    "order-item" : {
+      "table-title" : "Պատվերի Տարրեր",
+      "fields" : {
+        "id" : "ID",
+        "order-id" : "Պատվերի ID",
+        "book-id" : "Գրքի ID",
+        "subbook-id" : "Ենթագրքի ID",
+        "format" : "Ձևաչափ",
+        "quantity" : "Քանակություն",
+        "unit-price" : "Մեկ Միավորի Գինը",
+        "subtotal" : "Միջանկյալ Գումար",
+        "coupon-id" : "Զեղչի ID",
+        "price-id" : "Գնի ID"
+      }
+    },
+    "book-config" : {
+      "title_am" : "Հայերեն Վերնագիր",
+      "title_en" : "Անգլերեն Վերնագիր",
+      "title_ru" : "Ռուսերեն Վերնագիր",
+      "image" : "Նկար",
+      "discount-percent" : "Զեղչի Տեկոսը",
+      "discount-deadline" : "Զեղչի Վերջնաժամկետը",
+      "description_am" : "Հայերեն Նկարագրություն",
+      "description_en" : "Անգլերեն Նկարագրություն",
+      "description_ru" : "Ռուսերեն Նկարագրություն"
+    },
+    "subbook-config" : {
+      "title" : "Ենթագրքեր",
+      "create-button" : "Ստեղծել",
+      "edit-button" : "Փոփոխել",
+      "delete-button" : "Հեռացնել",
+      "publisher" : "Հրատարակիչ",
+      "year" : "Տարի",
+      "format" : "Ձևաչափ",
+      "language" : "Լեզու",
+      "file" : "Ֆայլ",
+      "introduction-file" : "Ներածական Ֆայլ",
+      "price" : "Գին (AMD)",
+      "duration" : "Տևողություն",
+      "reader" : "Կարդացող",
+      "pages-count" : "Էջերի Քանակը",
+      "quantity" : "Քանակություն"
+    },
+    "author-config" : {
+      "fullname_am" : "Հայերեն Լրիվ Անուն",
+      "fullname_en" : "Անգլերեն Լրիվ Անուն",
+      "fullname_ru" : "Ռուսերեն Լրիվ Անուն",
+      "image" : "Նկար",
+      "autobiographical_am" : "Հայերեն Ինքնակենսագրական",
+      "autobiographical_en" : "Անգլերեն Ինքնակենսագրական",
+      "autobiographical_ru" : "Ռուսերեն Ինքնակենսագրական"
+    },
+    "genre-config" : {
+      "name_am" : "Հայերեն Անուն",
+      "name_en" : "Անգլերեն Անուն",
+      "name_ru" : "Ռուսերեն Անուն",
+      "base-genre-id" : "Հիմքային Ժանրի ID"
+    }
+  }
+}

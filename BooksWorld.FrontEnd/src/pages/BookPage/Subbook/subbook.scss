@@ -1,0 +1,138 @@
+:root {
+  --subbook-width: 235px;
+  --subbook-height: 150px;
+
+  @media (max-width: 600px) {
+    --subbook-width: 210px;
+    --subbook-height: 120px;
+  }
+}
+.subbooks {  
+  width: 100%;
+  display: flex;
+  flex-shrink: 0;
+  column-gap: 15px;
+  padding: 0 10px 15px 0;
+  overflow: auto;
+
+  &::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+    border-radius: 10px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: var(--primary);
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  &::-webkit-scrollbar-track {
+    background: var(--blue-500-10);
+  }
+}
+.subbook {
+  flex-shrink: 0;
+  position: relative;
+  width: var(--subbook-width);
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  gap: 15px 0;
+  padding: 10px 20px;
+  border-radius: 15px;
+  border: 2px solid var(--neutral-600);
+  transition: 0.5s;
+  // overflow: hidden;
+  will-change: transform;
+  cursor: pointer;
+
+  * {
+    pointer-events: none;
+    user-select: none;
+  }
+  &:hover {
+    border-color: var(--primary);
+  }
+  &:active {
+    scale: 0.95;
+    background: var(--primary-20);
+  }
+  &.selected {
+    border-color: var(--primary);
+    box-shadow: 
+      5px 5px 0 var(--primary);
+      // 0 -10px 0 var(--primary);
+
+    &::after { opacity: 1; }
+  }
+  .publisher {
+    width: 90%;
+    font-weight: 700;
+    font-size: var(--fs-1);
+    color: var(--text-title);
+  }
+  .info-list {
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px 5px;
+    color: var(--text);
+    font-size: var(--fs-1);
+
+    .format {}
+    .language {}
+    .year {}
+    
+    .info {
+      display: flex;
+      align-items: center;
+      column-gap: 10px;
+
+      img { 
+        width: 20px;
+        height: 20px;
+        border-radius: 50px;
+        border: 1px solid var(--neutral-900);
+      }
+      i { 
+        width: 20px;
+        height: 20px;
+        font-size: var(--fs-2);
+        display: grid;
+        place-items: center;
+        color: var(--neutral-800);
+      }
+    }
+    @media (max-width: 400px) { font-size: var(--fs-2); }
+  }
+  .price {
+    display: flex;
+    column-gap: 10px;
+    font-weight: 700;
+    font-size: var(--fs-2);
+
+    .current {
+      color: var(--text-title);
+    }
+    .previous {
+      position: relative;
+      color: var(--text-secondary);
+      font-weight: 500;
+
+      &::after {
+        content: '';
+        position: absolute;
+        top: 45%;
+        left: -5%;
+        width: 110%;
+        height: 3px;
+        background: var(--neutral-900);
+      }
+    }
+    .discounted {
+      color: var(--red-500);
+    }
+  }
+  @media (max-width: 800px) {
+  }
+}

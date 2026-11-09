@@ -1,0 +1,28 @@
+.order-page {
+  display: grid;
+  row-gap: 1.5vw;
+  
+  .order-info-list {
+    border: 1px solid var(--neutral-900);
+    border-radius: 1vw;
+    padding: 1vw;
+
+    li {
+      display: flex;
+      flex-direction: column;
+      padding: 0.5vw;
+      word-break: break-all;
+      display: flex;
+      
+      p {
+        color: var(--text);
+
+        &:first-child {
+          font-weight: 900;
+        }
+        &:last-child {
+        }
+      }
+    }
+  }
+}

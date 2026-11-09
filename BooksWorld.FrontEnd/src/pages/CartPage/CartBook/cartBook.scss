@@ -1,0 +1,160 @@
+.cart-books {
+  display: grid;
+  row-gap: 20px;
+}
+.cart-book {
+  display: grid;
+  grid-template-columns: auto 3fr 1fr;
+  column-gap: 20px;
+  row-gap: 10px;
+  
+  @media (max-width: 500px) { 
+    grid-template-columns: auto 1fr; 
+    column-gap: 15px;
+  }
+  .link {
+    position: relative;
+
+    img { 
+      width: 100px;
+      height: 150px;
+      border-radius: 10px;
+      pointer-events: none;
+      border: 1px double var(--neutral-700);
+    }
+    .discount-percent {
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      color: var(--white);
+      font-size: var(--fs-1);
+      font-weight: 700;
+      text-shadow: 0 0 10px var(--black);
+
+      @media (max-width: 600px) { font-size: var(--fs-2); }
+    }
+  }
+  .details-and-actions {
+    display: grid;
+    align-content: space-between;
+    row-gap: 10px;
+    padding: 5px 0;
+
+    @media (max-width: 800px) {
+      align-content: start;
+      row-gap: 15px;
+      height: 100%;
+    }
+    .title {
+      width: fit-content;
+      font-family: var(--poshFont);
+      color: var(--text-title);
+      font-size: var(--fs-3);
+      width: fit-content;
+
+      &:hover { text-decoration: underline; }
+
+      @media (max-width: 400px) { font-size: var(--fs-2); }
+    }
+    .details-list {
+      color: var(--text-secondary);
+      font-size: var(--fs-1);
+      cursor: default;
+    }
+    .action-buttons {
+      display: flex;
+      align-items: center;
+      column-gap: 15px;
+      color: var(--text-secondary);
+      
+      i {
+        font-size: min(20px, var(--fs-4));
+        transition: 0.3s;
+        cursor: pointer;
+        
+        &:hover {
+          color: var(--neutral-900);
+        }
+        &.liked {
+          color: var(--red-500);
+        }
+      }
+    }
+  }
+  .price-counter-container {
+    display: flex;
+    flex-direction: column;
+
+    .cart-book-counter {
+      margin: auto auto;
+  
+      .count {
+        font-size: var(--fs-3);
+      }
+      i {
+        font-size: var(--fs-1);
+      }
+    }
+    .price {
+      display: grid;
+      row-gap: 5px;
+      font-size: var(--fs-2);
+      margin: auto auto;
+      text-align: center;
+      cursor: default;
+      
+      & > * {
+        margin: 0 auto;
+      }
+      .discount {
+        display: flex;
+        align-items: center;
+        width: fit-content;
+        column-gap: 5px;
+        font-size: var(--fs-1);
+        padding: 5px 10px;
+        border-radius: 25px;
+        background: var(--primary);
+        color: var(--on-primary);
+        cursor: default;
+  
+        i {
+        }
+        p {
+          font-weight: 600;
+          font-family: Arial, Helvetica, sans-serif;
+        }
+      }
+      .current {
+        color: var(--neutral-900);
+        font-weight: 700;
+      }
+      .previous {
+        position: relative;
+        color: var(--text-secondary);
+        font-weight: 500;
+  
+        &::after {
+          content: '';
+          position: absolute;
+          top: 45%;
+          left: -5%;
+          width: 110%;
+          height: 2px;
+          background: var(--neutral-800);
+        }
+      }
+    }
+    @media (max-width: 500px) {
+      grid-column: 1 / -1;
+      flex-direction: row;
+      column-gap: 15px;
+
+      .price {
+        width: 100px;
+        margin: 0;
+      }
+      .cart-book-counter { margin: 0; }
+    }
+  }
+}

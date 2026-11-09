@@ -1,0 +1,44 @@
+.genres-presentation-list {  
+  display: flex;
+  gap: 1vw;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  .genre {
+    text-align: center;
+    padding: 0.5vw 2vw;
+    border-radius: 30px;
+    border: 1px solid var(--primary);
+    transition: 0.4s;
+    cursor: default;
+    
+    a { 
+      letter-spacing: 2px;
+      transition: 0.4s;
+      // font-weight: 800;
+      font-size: var(--fs-5);
+      font-family: var(--italicFont);
+      color: var(--primary);
+    }
+    
+    &:hover {
+      background: var(--primary);
+      cursor: pointer;
+
+      a{ color: var(--on-primary); }
+    }
+  }
+  
+  @media (max-width: 1000px) {
+    .genre { font-size: var(--fs-4); }
+  }
+  @media (max-width: 600px) {
+    // grid-template-columns: repeat(2, 1fr);
+    gap: 1.5vw;
+
+    .genre { 
+      padding: 1vw 2.5vw;
+      font-size: var(--fs-3); 
+    }
+  }
+}

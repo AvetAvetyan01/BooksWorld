@@ -1,0 +1,26 @@
+.books-filter-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 10px;
+
+  .title {
+    font-weight: 600;
+    font-family: var(--poshFont);
+    font-size: var(--fs-5);
+    color: var(--text-title);
+    letter-spacing: 2px;
+    cursor: default;
+
+  }
+  .close-button {
+    cursor: pointer;
+    font-size: 30px;
+    color: var(--neutral-900);
+    transition: 0.3s;
+
+    &:hover {
+      color: var(--primary);
+    }
+  }
+}

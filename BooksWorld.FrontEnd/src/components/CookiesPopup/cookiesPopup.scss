@@ -1,0 +1,67 @@
+.cookies-popup {
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  column-gap: 25px;
+  padding: 20px 40px;
+  border-radius: 20px;
+  background: var(--bg);
+  border: 1px solid var(--neutral-900);
+  z-index: 5;
+
+  img {
+    width: 100px;
+    pointer-events: none;
+    user-select: none;
+  }
+  .content {
+    display: grid;
+    row-gap: 10px;
+    width: 400px;
+    color: var(--text);
+    cursor: default;
+
+    .title {
+      font-size: var(--fs-3);
+      font-weight: 700;
+    }
+    .text {
+      font-size: var(--fs-1);
+      word-wrap: normal;
+      word-break: normal;
+    }
+  }
+  .buttons {
+    display: grid;
+    row-gap: 10px;
+
+    a, button {
+      width: 100%;
+      padding: 5px 30px;
+      font-size: var(--fs-2);
+      border-radius: 5px;
+      background: transparent;
+      text-align: center;
+      font-weight: 600;
+      color: var(--text);
+      border: 1px solid var(--neutral-900);
+      transition: 0.3s;
+
+      &:hover {
+        background: var(--neutral-500-20);
+      }
+      &:first-child {
+        background: var(--primary);
+        color: var(--on-primary);
+        border: none;
+
+        &:hover {
+          background: var(--primary-hover);
+        }
+      }
+    }
+  }
+}

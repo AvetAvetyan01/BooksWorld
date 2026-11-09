@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "city": {
+      "English": "Yerevan",
+      "Russian": "Ереван",
+      "Armenian": "Երևան"
+    },
+    "address": {
+      "English": "Moskovyan 28",
+      "Russian": "Московян 28",
+      "Armenian": "Մոսկովյան 28"
+    },
+    "imagePath": "/images/wings/1.jpg"
+  },
+  {
+    "id": 2,
+    "city": {
+      "English": "Yerevan",
+      "Russian": "Ереван",
+      "Armenian": "Երևան"
+    },
+    "address": {
+      "English": "40 Mesrop Mashtots Avenue",
+      "Russian": "пр. Месропа Маштоца, 40",
+      "Armenian": "Մեսրոպ Մաշտոց պող., 40"
+    },
+    "imagePath": "/images/wings/2.jpg"
+  },
+  {
+    "id": 3,
+    "city": {
+      "English": "Yerevan",
+      "Russian": "Ереван",
+      "Armenian": "Երևան"
+    },
+    "address": {
+      "English": "49/2 Komitas Avenue",
+      "Russian": "пр. Комитаса, 49/2",
+      "Armenian": "Կոմիտասի պող., 49/2"
+    },
+    "imagePath": "/images/wings/3.jpg"
+  },
+  {
+    "id": 4,
+    "city": {
+      "English": "Yerevan",
+      "Russian": "Ереван",
+      "Armenian": "Երևան"
+    },
+    "address": {
+      "English": "Republican 22",
+      "Russian": "Республиканская 22",
+      "Armenian": "Հանրապետական 22"
+    },
+    "imagePath": "/images/wings/4.jpg"
+  }
+]

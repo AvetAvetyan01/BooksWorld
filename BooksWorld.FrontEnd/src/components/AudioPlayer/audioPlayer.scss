@@ -1,0 +1,113 @@
+.audio-preview {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  width: calc(100% - 10vw);
+  // width: 90%;
+  padding: 2vw;
+  background: var(--bg);
+  border: 1px solid var(--neutral-900);
+  border-radius: 20px;
+
+  @media (max-width: 800px) { padding: 5vw 3vw; }
+  @media (max-width: 500px) { padding: 5vw 4vw; } 
+  @media (max-width: 350px) { padding: 5vw 5vw; }
+}
+.audio-player {
+  display: grid;
+  row-gap: 1.5vw;
+  color: var(--text);
+
+  @media (max-width: 600px) { row-gap: 3vw; }
+  
+  .range-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 1vw;
+
+    .times {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+
+      .time {
+        font-size: var(--fs-2);
+  
+        @media (max-width: 600px) { font-size: var(--fs-2); }
+      }
+    }
+    input[type="range"] {
+      width: 100%;
+      accent-color: var(--primary);
+      outline: none;
+    }
+  }
+  .actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    column-gap: 1.5vw;
+    row-gap: 3.5vw;
+
+    @media (max-width: 400px) { justify-content: center; }
+
+    .time-actions {
+      display: flex;
+      align-items: center;
+      column-gap: 1vw;
+
+      @media (max-width: 400px) { column-gap: 2vw; }
+
+      button {
+        padding: 0.7vw 1vw;
+        border: 2px solid var(--primary);
+        background: transparent;
+        color: var(--primary);
+        border-radius: 30px;
+        transition: 0.3s;
+        column-gap: 0.5vw;
+
+        &:hover {
+          color: var(--on-primary);
+          background: var(--primary);
+        }
+        &:active {
+          scale: 0.95;
+        }
+        p { font-size: var(--fs-1); }
+        i { font-size: var(--fs-2); }
+        
+        @media (max-width: 800px) {
+          column-gap: 1vw;
+          padding: 1.5vw 2vw;
+        }
+        @media (max-width: 400px) {
+          column-gap: 1.5vw;
+          padding: 3vw 4vw;
+
+          p { font-size: var(--fs-2); }
+        }
+      }
+    }
+  }
+  .volume-actions {
+    display: flex;
+    align-items: center;
+    column-gap: 1vw;
+
+    @media (max-width: 800px) { column-gap: 2vw; }
+    @media (max-width: 400px) { column-gap: 3vw; }
+
+    i {
+      color: var(--neutral-800);
+      font-size: var(--fs-2); 
+    }
+    input[type="range"] {
+      accent-color: var(--primary);
+      height: 3px;
+    }
+  }
+}

@@ -1,0 +1,124 @@
+﻿@use "../../styles/tools/fonts.scss" as *;
+
+header {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  display: grid;
+  row-gap: 10px;
+  margin: 0 auto;
+  padding-top: 10px;
+  z-index: 3;
+  box-shadow: 0 5px 10px var(--bg);
+  backdrop-filter: blur(10px);
+  background: var(--bg);
+  
+  & > * {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .navigation { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 30px;
+    
+    .right-side {
+      flex: 1;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      column-gap: 15px;
+      
+      & > * { height: 45px; }
+
+      .button-t1 {
+        width: 45px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: var(--primary);
+        color: var(--on-primary);
+        border-radius: 10px;
+
+        i { font-size: var(--fs-4); }
+      }
+      .button-t2 {
+        display: flex;
+        column-gap: 10px;
+        font-weight: 700;
+        font-size: var(--fs-2);
+        color: var(--primary);
+        border: 2px solid var(--primary);
+        border-radius: 10px;
+        font-family: var(--standartFont);
+        padding: 10px;
+        
+        &:hover {
+          background: var(--primary);
+          color: var(--on-primary);
+        }
+        p { margin: auto 0; }
+      }
+      .indicator {
+        position: absolute;
+        top: -5px;
+        right: -10px;
+        width: 25px;
+        height: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        line-height: 0.5;
+        font-size: var(--fs-1);
+        font-weight: 800;
+        border-radius: 50%;
+        border: 2px solid var(--on-primary);
+        background: var(--primary);
+        color: var(--on-primary);
+        pointer-events: none;
+        filter: drop-shadow(0 0 1px var(--neutral-700));
+        
+        &.hidden { display: none; }
+      }
+    }
+  }
+  
+  @media (max-width: 600px) {
+    position: relative;
+    
+    .navigation {
+      
+      .logo { margin: 0 auto;  }
+      .right-side { display: none; }
+    }
+  }
+  @media (max-width: 900px) {
+
+    .navigation {
+      
+      .right-side {
+        
+        .dropdown-menu { display: none; }
+        .d-l-button { display: none; }
+      } 
+    }
+  }
+  @media (min-width: 1301px) {
+
+    .navigation {
+
+      .right-side {
+
+        .menu-button { display: none; }
+      }
+    }
+  }
+  @media (max-width: 1300px) {
+    padding: 10px 0;
+
+    .search { display: none; }
+    .horizontal-menu { display: none; }
+  }
+}

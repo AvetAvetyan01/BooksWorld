@@ -1,0 +1,21 @@
+[
+  {
+    "id" : 1,
+    "value": "Rating",
+    "name" : {
+      "Armenian" : "Տեսակավորել ըստ Վարկանիշի",
+      "English" : "Sort by Rating",
+      "Russian" : "Сортировать по Рейтингу"
+    } 
+  },
+  {
+    "id" : 2,
+    "value": "Newest",
+    
+    "name" : {
+      "Armenian" : "Տեսակավորել ըստ Նորի",
+      "English" : "Sort by Newest",
+      "Russian" : "Сортировать по Новому"
+    }
+  }
+]

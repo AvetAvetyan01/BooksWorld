@@ -1,0 +1,19 @@
+.checkbox-menu {
+  display: grid;
+  row-gap: 15px;
+
+  .title {
+    font-family: var(--poshFont);
+    font-size: var(--fs-3);
+    font-weight: 600;
+    color: var(--text-title);
+    text-transform: capitalize;
+    cursor: default;
+
+    @media (max-width: 400px) { font-size: var(--fs-4); }
+  }
+  .menu {
+    display: grid;
+    row-gap: 10px;
+  }
+}

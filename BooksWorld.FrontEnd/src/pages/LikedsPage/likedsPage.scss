@@ -1,0 +1,41 @@
+.likeds-page {
+  width: 90%;
+  margin: 0 auto;
+  padding: 10px 0 40px 0;
+  display: grid;
+  row-gap: 40px;  
+
+  & > .title {
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+    background: linear-gradient(45deg, var(--primary), var(--primary-active));
+    color: var(--white);    
+    border-radius: 20px;
+    padding: 20px 30px;
+
+    h2 {
+      font-size: var(--fs-5);
+      font-family: var(--poshFont);
+      font-weight: 800;
+    }
+    i {
+      font-size: var(--fs-5);
+    }
+  }
+  .error {
+  }
+  .loader-container {
+  }
+  
+  @media (max-width: 800px) {
+    padding: 0 0 20px 0;
+    row-gap: 20px;
+
+    & > .title { 
+      padding: 10px 20px;
+      border-radius: 10px;
+    }
+  }
+}

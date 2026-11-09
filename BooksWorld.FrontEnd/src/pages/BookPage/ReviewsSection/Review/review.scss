@@ -1,0 +1,32 @@
+.review {
+  display: grid;
+  row-gap: 15px;
+  align-content: baseline;
+
+  .info {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+
+    .username {
+      font-size: var(--fs-3);
+      font-family: var(--poshFont);
+      font-weight: 500;
+      color: var(--text);
+      cursor: default;
+    }
+  }
+  .comment {
+    font-weight: 400;
+    font-size: var(--fs-2);
+    color: var(--text-title);
+    font-family: var(--italicFont);
+    cursor: default;
+  }
+  @media (max-width: 600px) {
+    
+    .info {
+      column-gap: 10px;
+    }
+  }
+}

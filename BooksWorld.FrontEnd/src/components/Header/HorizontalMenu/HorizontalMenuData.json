@@ -1,0 +1,82 @@
+[
+  {
+    "name": {
+      "Armenian" : "Գրքեր",
+      "English" : "Books",
+      "Russian" : "Книги"
+    },
+    "url": "books"
+  },
+  {
+    "name": {
+      "Armenian" : "Ժանրեր",
+      "English" : "Genres",
+      "Russian" : "Жанры"
+    },
+    "url": "genre/1"
+  },
+  {
+    "name": {
+      "Armenian" : "Հեղինակներ",
+      "English" : "Authors",
+      "Russian" : "Авторы"
+    },
+    "url": "authors/1"
+  },
+  {
+    "name": {
+      "Armenian" : "Լավագույն",
+      "English" : "Top",
+      "Russian" : "Топ"
+    },
+    "url": ""
+  },
+  {
+    "name": {
+      "Armenian" : "Բեսթսելերներ",
+      "English" : "Bestsallers",
+      "Russian" : "Бестселлеры"
+    },
+    "url": ""
+  },
+  {
+    "name": {
+      "Armenian" : "Հավաքածուներ",
+      "English" : "Collections",
+      "Russian" : "Коллекцы"
+    },
+    "url": ""
+  },
+  {
+    "name": {
+      "Armenian" : "Իրադարձություննր",
+      "English" : "Events",
+      "Russian" : "Событьия"
+    },
+    "url": ""
+  },
+  {
+    "name": {
+      "Armenian" : "Բլոգներ",
+      "English" : "Blogs",
+      "Russian" : "Блоги"
+    },
+    "url": ""
+  },
+  {
+    "name": {
+      "Armenian" : "Մեր Մասին",
+      "English" : "About Us",
+      "Russian" : "О Нас"
+    },
+    "url": "about"
+  },
+  {
+    "name": {
+      "Armenian" : "Ավելին",
+      "English" : "More",
+      "Russian" : "Больше"
+    },
+    "url": "about"
+  }
+]

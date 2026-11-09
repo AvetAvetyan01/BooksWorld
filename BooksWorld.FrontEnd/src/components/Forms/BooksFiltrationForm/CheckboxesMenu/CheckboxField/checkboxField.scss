@@ -1,0 +1,39 @@
+.checkbox-field {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 10px;
+
+  .value {
+    width: 80%;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 10px;
+    cursor: default;
+
+    p {
+      font-size: var(--fs-2);
+      color: var(--text);
+      text-transform: capitalize;
+
+      @media (max-width: 400px) { font-size: var(--fs-3); }
+    }
+
+    i,img {
+      width: 28px;
+      height: 100%;
+      text-align: center;
+      pointer-events: none;
+    }
+    i { 
+      font-size: 1.3rem;
+      color: var(--primary);
+    }
+    img {
+      object-fit: cover;
+    }
+  }
+}

@@ -1,0 +1,10 @@
+.ui-app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  flex: 1;
+  background: var(--bg); 
+
+  &.open-modal { overflow: hidden; }
+}

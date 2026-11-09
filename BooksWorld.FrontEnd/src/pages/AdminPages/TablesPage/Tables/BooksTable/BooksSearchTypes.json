@@ -1,0 +1,29 @@
+[
+  {
+    "id" : 1,
+    "value" : "Book-Id",
+    "name" : {
+      "Armenian" : "ID",
+      "Russian" : "ID",
+      "English" : "ID"
+    }
+  },
+  {
+    "id" : 2,
+    "value" : "Book-Title",
+    "name" : {
+      "Armenian" : "Վերնագիր",
+      "Russian" : "Заголовок",
+      "English" : "Title"
+    }
+  },
+  {
+    "id" : 3,
+    "value" : "Book-ISBN",
+    "name" : {
+      "Armenian" : "ISBN",
+      "Russian" : "ISBN",
+      "English" : "ISBN"
+    }
+  }
+]

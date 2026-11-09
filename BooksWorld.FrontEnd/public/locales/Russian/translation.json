@@ -1,0 +1,358 @@
+{
+  "header" : {
+    "logo" : "Мир Книг",
+    "search" : {
+      "input-placeholder" : {
+        "Book-Id" : "Искать книгу по ID",
+        "Book-Title" : "Искать книгу по заголовку",
+        "Book-ISBN" : "Искать книгу по ISBN-у",
+        "Author-Id" : "Искать автора по ID",
+        "Author-FullName" : "Искать автора по имени",
+        "Genre-Id" : "Искать жанр по ID",
+        "Genre-Name" : "Искать жанр по имени",
+        "Order-Id" : "Искать заказ по ID",
+        "Order-UserId" : "Искать заказ по ID Пользователя"
+      },
+      "button" : "Поиск"
+    },
+    "buttons" : {
+      "login" : "Вход",
+      "signin" : "Регистрация" 
+    }
+  },
+  "config-header" : {
+    "create-button" : "Создать",
+    "edit-button" : "Изменить",
+    "delete-button" : "Удалить"
+  },
+  "footer" : {
+    "notification-access" : {
+      "title" : "Будьте в курсе событий",
+      "input-placeholder" : "Адрес Електронной Почты",
+      "info" : "Укажите свой адрес электронной почты, чтобы получать предложения и обновления от BooksWorld"
+    },
+    "sm-menu" : {
+      "title" : "Мы в социальных сетях"
+    }
+  },
+  "bottom-navigation" : {
+    "buttons" : {
+      "likeds" : "любимые",
+      "home" : "главный",
+      "cart" : "корзина",
+      "profile" : "профил",
+      "tops" : "лучшие",
+      "books" : "книги",
+      "menu" : "меню"
+    }
+  },
+  "empty-popup" : {
+    "home-button" : "Перейти на главную страницу"
+  },
+  "format" : {
+    "Audio" : "Аудио",
+    "Paper" : "Бумажная",
+    "Electronic" : "Електронная"
+  },
+  "language" : {
+    "Armenian" : "Армянский",
+    "English" : "Англиский",
+    "Frence" : "Французкий",
+    "Russian" : "Русский",
+    "German" : "Немецкий",
+    "Italian" : "Италиянский"
+  },
+  "search-info" : {
+    "description" : "Найдено по"
+  },
+  "form-fields" : {
+    "phone" : "Моб. Номер",
+    "email" : "Ел. Адрес",
+    "name" : "Имя",
+    "message" : "Сообщение",
+    "password" : "Пароль",
+    "remember-me" : "Запомнить Меня",
+    "file" : {
+      "name" : "Файл",
+      "button-text" : "Выберите файл",
+      "no-file-chosen" : "Файл не выбран"
+    },
+    "errors" : {
+      "required" : "Поле '{{fieldName}}' необходимо заполнить"
+    }
+  },
+  "review-form" : {
+    "input-placeholder" : "Пишитье Ваш Отзыв",
+    "comment" : "Комментарий",
+    "my-review" : "Мой Отзыв",
+    "leave-review" : "Оставить Отзыв",
+    "change-review" : "Изменить Отзив",
+    "delete-review" : "Удалить Отзив"
+  },  
+  "login-form" : {
+    "title" : "Вход",
+    "button-text" : "Отправить"
+  },
+  "reg-form" : {
+    "title" : "Зарегистрироватся",
+    "button-text" : "Отправить", 
+    "permission-aggree" : "Соглашатся с нашей Политикой Конфиденцеалностьи"
+  },
+  "models" : {
+    "common" : {
+      "id" : "ID"
+    },
+    "genre" : {
+      "model-name" : "Жанр",
+      "name" : "Имя",
+      "base-genre" : "Базовый Жанр"
+    },
+    "author" : {
+      "model-name" : "Автор",
+      "fullname" : "Полное Имя"
+    }
+  },
+  "pages" : {
+    "home" : {
+      "titles" : {
+        "popular-books" : "Популярные Книги",
+        "popular-genres" : "Популярные Жанры",
+        "newest-books" : "Новые Книги",
+        "bestsallers" : "Бестселлер Книги",
+        "popular-authors" : "Популярные Авторы"
+      }
+    },
+    "book" : {
+      "preview" : "Предпросмотр",
+      "buttons" : {
+        "like" : "Добавить в Любимые",
+        "unlike" : "Удалить из Любимых",
+        "add-to-cart" : "Добавить в Корзину",
+        "remove-from-cart" : "Удалить из Карзины",
+        "read-online" : "Читать Онлайн",
+        "listen-online" : "Слушать Онлайн",
+        "view-all-reviews" : "Смотреть Все Отзивы"
+      },
+      "titles" : {
+        "details" : "Детальи",
+        "reviews" : "Отзивы",
+        "description" : "Описание",
+        "recommended-books" : "Рекомендуемые Книги"
+      },
+      "details" : {
+        "genre" : "Жанр",
+        "year" : "Год",
+        "format" : "Формат",
+        "publisher" : "Издатель",
+        "language" : "Язык",
+        "pages-count" : "Количевство Страниц",
+        "reader" : "Читатель",
+        "duration" : "Пордалжителность"
+      }
+    },
+    "books" : {
+      "genres-menu" : {
+        "button" : {
+          "open" : "видеть остальное",
+          "close" : "скрыть"
+        }
+      },
+      "titles" : {
+        "header" : "Филтр",
+        "formats" : "Форматы",
+        "languages" : "Языки"
+      },
+      "filter-button" : "Филтр",
+      "reset-button" : "Стереть Филтр",
+      "loading-message" : "Книги находятся в поиске",
+      "empty-message" : "Данные, соответствующие параметрам поиска, отсутствуют."
+    },
+    "profile" : {
+    },
+    "author" : {
+      "titles" : {
+        "authoral-books" : "Авторские Книги"
+      }
+    },
+    "authors" : {
+      "loading-message" : "Автори находятся в поиске",
+      "empty-message" : "Автори не найтены"
+    },
+    "genres" : {
+      "loading-message" : "Жанры находятся в поиске",
+      "empty-message" : "Жанры не найтены"
+    },
+    "reviews" : {
+      "title" : "Отзивы Книги",
+      "rates" : "Оценк",
+      "empty-popup" : {
+        "title" : "На эту книгу нет отзывов",
+        "description" : "Вы можете оставить своё мнение об этой книге"
+      }
+    },
+    "searcheds" : {
+      "title" : {
+        "books" : "Найденные книги по",
+        "authors" : "Найденные авторы по"
+      }
+    },
+    "about" : {
+      "titles" : {
+      "about-us" : "О Нас",
+      "our-locations" : "Наши Местоположения",
+      "gallery" : "Галерея"
+      },
+      "description" : "Books World - ваш главный пункт назначения для любителей книг во всем мире. С момента нашего основания мы стремимся соединять читателей с историями, знаниями и вдохновением, которые они ищут. Благодаря нашей тщательно подобранной коллекции, охватывающей несколько жанров, языков и форматов — от классических печатных книг до цифровых электронных книг и аудиокниг — мы гарантируем, что найдется что-то для каждого читателя. Наша команда увлеченных книголюбов работает неустанно, чтобы принести вам последние бестселлеры, скрытые жемчужины и вечные классики. В Books World мы верим в преобразующую силу чтения и стремимся развивать активное сообщество читателей во всем мире."
+    },
+    "faq" : {
+      "title" : "Часто Задаваемые Вопросы"
+    },
+    "cart" : {
+      "title" : "Корзина",
+      "items" : "Книги",
+      "loading-message" : "Книги находятся в поиске",
+      "empty-popup" : {
+        "title" : "Ваша корзина в данный момент пуста",
+        "description" : "Загляните на главную страницу — там мы собрали книги, которые вы, возможно, захотите купить"
+      },
+      "order-form" : {
+        "set-delivery-address" : "Изменить Адрес Доставки",
+        "order-button" : "Заказать",
+        "aggreement-text" : "Согласень с Политикой Конфиденцеалности",
+        "details" : {
+          "totaly" : "Суммарно",
+          "discounts" : "Скидки",
+          "address" : "Адрес"
+        },
+        "warnings" : {
+          "valid-address" : "Введите адрес доставки",
+          "agree-privacy-policy" : "Согласитесь с нашей Политикой Конфиденциальности" 
+        }
+      }
+    },
+    "shoppings" : {
+      "title" : "Покупки",
+      "empty-popup" : {
+        "title" : "Вы не имеейте купленных книг",
+        "description" : "Загляните на главную страницу — там мы собрали книги, которые могут вам понравиться"
+      },
+      "loading-message" : "Покупки находятся в поиске"
+    },
+    "likeds" : {
+      "title" : "Любимые Книги",
+      "empty-popup" : {
+        "title" : "Вы не имеейте люмимых книг",
+        "description" : "Загляните на главную страницу — там мы собрали книги, которые могут вам понравиться"
+      },
+      "loading-message" : "Люмимые книги находятся в поиске"
+    },
+    "not-found" : {
+      "title" : "Страница не найдена",
+      "description" : "Страница, к которой вы пытаетесь получить доступ, не существует или была перемещена",
+      "button-text" : "Назад"
+    },
+    "books-table" : {
+      "table-columns" : {
+        "id" : "ID",
+        "title" : "Заголовок",
+        "author" : "Автор",
+        "rating" : "Рейтинг",
+        "formats" : "Формати",
+        "languages" : "Язики",
+        "discount" : "Скидка"
+      },
+      "subbooks-table" : {
+        "id" : "ID",
+        "publisher" : "Издатель",
+        "year" : "Год",
+        "price" : "Цена (AMD)",
+        "format" : "Формат",
+        "language" : "Язык"
+      }
+    },
+    "tables-page" : {
+      "create-button" : "Создать"
+    },
+    "authors-table" : {
+      "table-columns" : {
+        "id" : "ID",
+        "fullname" : "Полное Имя"
+      }
+    },
+    "genres-table" : {
+      "table-columns" : {
+        "id" : "ID",
+        "name" : "Имя"
+      }
+    },
+    "order" : {
+      "fields" : {
+        "id" : "ID",
+        "user-id" : "ID Пользователя",
+        "status" : "Статус",
+        "total-amount" : "Общая Сумма",
+        "shipping-address" : "Адрес Доставки",
+        "created-at" : "Дата Создания",
+        "checkout-session-id" : "ID Сеанса Оформления Заказа"
+      }
+    },
+    "order-item" : {
+      "table-title" : "Товары Заказа",
+      "fields" : {
+        "id" : "ID",
+        "order-id" : "ID Заказа",
+        "book-id" : "ID Книги",
+        "subbook-id" : "ID Подкниги",
+        "format" : "Формат",
+        "quantity" : "Количевство",
+        "unit-price" : "Цена за Единицу",
+        "subtotal" : "Промежуточный Итог",
+        "coupon-id" : "ID Купона",
+        "price-id" : "ID Цены"
+      }
+    },
+    "book-config" : {
+      "title_am" : "Армянский Заголовок",
+      "title_en" : "Англиский Заголовок",
+      "title_ru" : "Русский Заголовок",
+      "image" : "Картинка",
+      "discount-percent" : "Процент Скидки",
+      "discount-deadline" : "Предельный Срок Скидки",
+      "description_am" : "Армянское Описание",
+      "description_en" : "Англиское Описание",
+      "description_ru" : "Русское Описание"
+    },
+    "subbook-config" : {
+      "title" : "Подкниги",
+      "create-button" : "Создать",
+      "edit-button" : "Изменить",
+      "delete-button" : "Удалить",
+      "publisher" : "Издатель",
+      "year" : "Год",
+      "format" : "Формат",
+      "language" : "Язык",
+      "file" : "Файл",
+      "introduction-file" : "Вводный Файл",
+      "price" : "Цена (AMD)",
+      "duration" : "Пордалжителность",
+      "reader" : "Читатель",
+      "pages-count" : "Количевство Страниц",
+      "quantity" : "Количевство"
+    },
+    "author-config" : {
+      "fullname_am" : "Армянское Полное Имя",
+      "fullname_en" : "Англиское Полное Имя", 
+      "fullname_ru" : "Русское Полное Имя",
+      "image" : "Картинка",
+      "autobiographical_am" : "Армянская Автобиография",
+      "autobiographical_en" : "Англиская Автобиография",
+      "autobiographical_ru" : "Русская Автобиография"
+    },
+    "genre-config" : {
+      "name_am" : "Армянское Имя",
+      "name_en" : "Англиское Имя",
+      "name_ru" : "Русское Имя",
+      "base-genre-id" : "ID Базового Жанра"
+    }
+  }
+}

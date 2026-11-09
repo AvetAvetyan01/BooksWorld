@@ -1,0 +1,42 @@
+[
+  {
+    "id" : 1,
+    "url" : "/home",
+    "icon" : "fa-solid fa-house",
+    "name" : {
+      "Armenian" : "Գլխավոր",
+      "English" : "Home",
+      "Russian" : "Главный"
+    }
+  },
+  {
+    "id" : 2,
+    "url" : "/likeds",
+    "icon" : "fa-regular fa-heart",
+    "name" : {
+      "Armenian" : "Սիրվածներ",
+      "English" : "Liked",
+      "Russian" : "Понравившиеся"
+    }
+  },
+  {
+    "id" : 3,
+    "url" : "/cart",
+    "icon" : "fa-solid fa-cart-shopping",
+    "name" : {
+      "Armenian" : "Զամբյուղ",
+      "English" : "Cart",
+      "Russian" : "Корзина"
+    }
+  },
+  {
+    "id" : 4,
+    "url" : "/profile",
+    "icon" : "fa-regular fa-user",
+    "name" : {
+      "Armenian" : "Պրոֆիլ",
+      "English" : "Profile",
+      "Russian" : "Профиль"
+    }
+  }
+]

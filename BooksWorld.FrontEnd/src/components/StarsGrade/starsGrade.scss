@@ -1,0 +1,22 @@
+.stars-grade {
+  display: flex;
+  align-items: center;
+  column-gap: 1px;
+
+  i {
+    font-size: 16px;
+    
+    &.active {
+      color: var(--primary);
+    }
+    &.passive {
+      color: var(--neutral-600);
+    }
+  }
+  @media (max-width: 600px) {
+
+    i {
+      font-size: 12px;
+    }
+  }
+}

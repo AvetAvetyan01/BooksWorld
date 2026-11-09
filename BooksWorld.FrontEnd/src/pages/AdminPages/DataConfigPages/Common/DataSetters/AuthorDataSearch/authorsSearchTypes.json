@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 1,
+    "value" : "Author-Id",
+    "name" : {
+      "Armenian" : "ID",
+      "English" : "ID",
+      "Russian" : "ID"
+    }
+  },
+  {
+    "id" : 2,
+    "value" : "Author-FullName",
+    "name" : {
+      "Armenian" : "Անուն",
+      "English" : "Name",
+      "Russian" : "Имя"
+    }
+  }
+]

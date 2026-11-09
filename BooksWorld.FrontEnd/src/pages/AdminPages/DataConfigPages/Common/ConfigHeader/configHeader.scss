@@ -1,0 +1,47 @@
+.config-header {
+  display: flex;
+  align-items: center;
+  column-gap: 15px;
+
+  .go-back-button {
+  }
+  .id {
+    color: var(--text-title);
+    font-size: var(--fs-4);
+  }
+  .buttons {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+
+    button {
+      padding: 10px 40px;
+      font-size: var(--fs-2);
+      font-weight: 700;
+      border-radius: 25px;
+
+      &:active { scale: 0.95; }
+    }
+    .create, .edit {
+      border: 2px solid var(--primary);
+      background: var(--bg);
+      color: var(--primary);
+
+      &:hover {
+        background: var(--primary);
+        color: var(--on-primary);
+      }
+    }
+    .delete {
+      color: var(--danger);
+      border: 2px solid var(--danger);
+      background: none;
+
+      &:hover {
+        background: var(--danger);
+        color: var(--white);
+      }
+    }
+  }
+}

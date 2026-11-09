@@ -1,0 +1,42 @@
+.reg-form {
+  display: grid;
+  row-gap: 25px;
+  padding: 40px;
+  padding-top: 30px;
+  box-sizing: content-box;
+  border-radius: 20px;
+  background: var(--bg);
+  
+  @media (max-width: 400px) {
+    width: 70%;
+    padding: 40px 20px;
+  }
+  .form-title {
+    text-align: center;
+    font-size: var(--fs-3);
+    font-weight: 800;
+    color: var(--text-title);
+    cursor: default;
+  }
+  .error-response {
+    color: var(--danger);
+    font-size: 3vw;
+    font-weight: 600;
+  }
+  button {
+    width: fit-content;
+    background: var(--primary);
+    padding: 10px 30px;
+    margin: 0 auto;
+    border-radius: 10px;
+    font-size: var(--fs-2);
+    font-weight: 700;
+    transition: 0.3s;
+    color: var(--on-primary);
+
+    &:active {
+      scale: 0.95;
+      background: var(--primary-active);
+    }
+  }
+}

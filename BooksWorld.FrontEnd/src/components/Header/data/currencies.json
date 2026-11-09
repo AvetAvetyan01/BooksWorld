@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "value": "AMD",
+    "icon" : "fa-solid fa-ruble-sign fa-flip-horizontal"
+  },
+  {
+    "id": 2,
+    "value": "USD",
+    "icon" : "fa-solid fa-dollar-sign"
+  },
+  {
+    "id": 3,
+    "value": "RUB",
+    "icon" : "fa-solid fa-ruble-sign"
+  }
+]

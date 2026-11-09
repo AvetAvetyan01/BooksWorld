@@ -1,0 +1,372 @@
+{
+  "header" : {
+    "logo" : "Books World",
+    "search" : {
+      "input-placeholder" : {
+        "Book-Id" : "Search book by ID",
+        "Book-Title" : "Search book by title",
+        "Book-ISBN" : "Search book by ISBN",
+        "Author-Id" : "Search author by ID",
+        "Author-FullName" : "Search author by name",
+        "Genre-Id" : "Search genre by ID",
+        "Genre-Name" : "Search genre by name",
+        "Order-Id" : "Search order by ID",
+        "Order-UserId" : "Search order User ID"
+      },
+      "button" : "Search"
+    },
+    "buttons" : {
+      "login" : "log in",
+      "signin" : "sign in" 
+    }
+  },
+  "config-header" : {
+    "create-button" : "Create",
+    "edit-button" : "Edit",
+    "delete-button" : "Delete"
+  },
+  "footer" : {
+    "menu" : {
+      "About Us" : "About Us",
+      "Contacts" : "Contacts",
+      "Our Locations" : "Our Locations",
+      "Feedback" : "Feedback",
+      "Careers" : "Careers",
+      "Privacy" : "Privacy",
+      "Blogs" : "Blogs",
+      "Gift Cards" : "Gift Cards",
+      "Partnership" : "Partnership",
+      "FAQ" : "FAQ"
+    },
+    "notification-access" : {
+      "title" : "Stay In The Know",
+      "input-placeholder" : "Email Address",
+      "info" : "Submit your email address to receive BooksWorld offers & updates"
+    },
+    "sm-menu" : {
+      "title" : "We In Social Media"
+    }
+  },
+  "bottom-navigation" : {
+    "buttons" : {
+      "likeds" : "likeds",
+      "home" : "home",
+      "cart" : "cart",
+      "profile" : "profile",
+      "tops" : "tops",  
+      "books" : "books",
+      "menu" : "menu"
+    }
+  },
+  "empty-popup" : {
+    "home-button" : "Go to the home page"
+  },
+  "format" : {
+    "Audio" : "Audio",
+    "Paper" : "Paper",
+    "Electronic" : "EBook"
+  },
+  "language" : {
+    "Armenian" : "Armenian",
+    "English" : "English",
+    "Russian" : "Russian",
+    "German" : "German",
+    "Italian" : "Italian",
+    "Frence" : "Frence"
+  },
+  "search-info" : {
+    "description" : "Found by"
+  },
+  "form-fields" : {
+    "phone" : "Phone",
+    "email" : "Email",
+    "name" : "Name",
+    "message" : "Message",
+    "password" : "Password",    
+    "remember-me" : "Remember Me",
+    "file" : {
+      "name" : "File",
+      "button-text" : "Choose file",
+      "no-file-chosen" : "No file chosen"
+    },
+    "errors" : {
+      "required" : "The '{{fieldName}}' field must be filled in"
+    }
+  },
+  "login-form" : {
+    "title" : "Log In",
+    "button-text" : "Submit" 
+  },
+  "reg-form" : {
+    "title" : "Sign In",
+    "button-text" : "Submit",
+    "permission-aggree" : "Agree with our Privacy Policy"
+  },
+  "review-form" : {
+    "input-placeholder" : "Write Your Review",
+    "comment" : "Comment",
+    "my-review" : "My Review",
+    "leave-review" : "Leave Review",
+    "change-review" : "Change Review",
+    "delete-review" : "Delete Review"
+  },
+  "models" : {
+    "common" : {
+      "id" : "ID"
+    },
+    "genre" : {
+      "model-name" : "Genre",
+      "name" : "Name",
+      "base-genre" : "Base Genre"
+    },
+    "author" : {
+      "model-name" : "Author",
+      "fullname" : "Full Name"
+    }
+  },
+  "pages" : {
+    "home" : {
+      "titles" : {
+        "popular-books" : "Popular Books",
+        "popular-genres" : "Popular Genres",
+        "newest-books" : "Newest Books",
+        "bestsallers" : "Bestsaller Books",
+        "popular-authors" : "Popular Authors"
+      }
+    },
+    "book" : {
+      "preview" : "Preview",
+      "buttons" : {
+        "like" : "Add to Likeds",
+        "unlike" : "Remove from Likeds",
+        "add-to-cart" : "Add to Cart",
+        "remove-from-cart" : "Remove from Cart",
+        "read-online" : "Read Online",
+        "listen-online" : "Listen Online",
+        "view-all-reviews" : "View All Reviews",
+        "leave-review" : "Leave Review",
+        "change-review" : "Change Review"
+      },
+      "titles" : {
+        "details" : "Details",
+        "reviews" : "Reviews",
+        "description" : "Description",
+        "recommended-books" : "Recomended Books"
+      },
+      "details" : {
+        "genre" : "Genre",
+        "year" : "Year",
+        "format" : "Format",
+        "publisher" : "Publisher",
+        "language" : "Language",
+        "pages-count" : "Pages Count",
+        "reader" : "Reader",
+        "duration" : "Duration"
+      }
+    },
+    "books" : {
+      "genres-menu" : {
+        "button" : {
+          "open" : "see rest",
+          "close" : "hide"
+        }
+      },
+      "titles" : {
+        "header" : "Filter",
+        "formats" : "Formats",
+        "languages" : "Languages"
+      },
+      "filter-button" : "Filter",
+      "reset-button" : "Clear Filter",
+      "loading-message" : "Books are being searched",
+      "empty-message" : "There are no data that meet the search parameters"
+    },
+    "profile" : {
+    },
+    "author" : {
+      "titles" : {
+        "authoral-books" : "Authoral Books"
+      }
+    },
+    "authors" : {
+      "loading-message" : "Authors are being searched",
+      "empty-message" : "Authors not found"
+    },
+    "genres" : {
+      "loading-message" : "Genres are being searched",
+      "empty-message" : "Genres not found"
+    },
+    "reviews" : {
+      "title" : "Reviews of book",
+      "rates" : "Rates",
+      "empty-popup" : {
+        "title" : "There are no reviews for this book",
+        "description" : "You can leave your opinion about this book"
+      }
+    },
+    "searcheds" : {
+      "title" : {
+        "books" : "Founded books by",
+        "authors" : "Founded authors by"
+      }
+    },
+    "about" : {
+      "titles" : {
+      "about-us" : "About Us",
+      "our-locations" : "Our Locations",
+      "gallery" : "Gallery"
+      },
+      "description" : "Books World is your premier destination for book lovers everywhere. Since our founding, we've been committed to connecting readers with the stories, knowledge, and inspiration they seek. With our carefully curated selection spanning multiple genres, languages, and formats—from classic paperbacks to digital eBooks and audiobooks—we ensure there's something for every reader. Our team of passionate book enthusiasts works tirelessly to bring you the latest bestsellers, hidden gems, and timeless classics. At Books World, we believe in the transformative power of reading and are dedicated to fostering a vibrant community of readers worldwide."
+    },
+    "faq" : {
+      "title" : "Frequently Asked Questions"
+    },
+    "cart" : {
+      "title" : "Cart",
+      "items" : "Books",
+      "loading-message" : "books are being searched",
+      "empty-popup" : {
+        "title" : "Your cart is currently empty",
+        "description" : "Take a look at the main page - we've collected books there that you might want to buy"
+      },
+      "order-form" : {
+        "set-delivery-address" : "Set Delivery Address",
+        "order-button" : "Order",
+        "aggreement-text" : "Aggree with Privacy Policy",      
+        "details" : {
+          "discounts" : "Discounts",
+          "totaly" : "Totaly",
+          "address" : "Address"
+        },
+        "warnings" : {
+          "valid-address" : "Enter delivery address",
+          "agree-privacy-policy" : "Agree to our Privacy Policy" 
+        }
+      }
+    },
+    "shoppings" : {
+      "title" : "Shoppings",
+      "empty-popup" : {
+        "title" : "Your don't have bought books",
+        "description" : "Take a look at the main page - we've collected books there that you might like"
+      },
+      "loading-message" : "Shoppings are being searched"
+    },
+    "likeds" : {
+      "title" : "Liked Books",
+      "empty-popup" : {
+        "title" : "Your don't have liked books",
+        "description" : "Take a look at the main page - we've collected books there that you might like"
+      },
+      "loading-message" : "Liked books are being searched"
+    },
+    "not-found" : {
+      "title" : "Page not found",
+      "description" : "This page you are trying to access doesn't exist or has been moved",
+      "button-text" : "Go Back"
+    },
+    "tables-page" : {
+      "create-button" : "Create"
+    },
+    "books-table" : {
+      "table-columns" : {
+        "id" : "ID",
+        "title" : "Title",
+        "author" : "Author",
+        "rating" : "Rating",
+        "formats" : "Formats",
+        "languages" : "Languages",
+        "discount" : "Discount"
+      },
+      "subbooks-table" : {
+        "id" : "ID",
+        "publisher" : "Publisher",
+        "year" : "Year",
+        "price" : "Price (AMD)",
+        "format" : "Format",
+        "language" : "Language"
+      }
+    },
+    "authors-table" : {
+      "table-columns" : {
+        "id" : "ID",
+        "fullname" : "Full Name"
+      }
+    },
+    "genres-table" : {
+      "table-columns" : {
+        "id" : "ID",
+        "name" : "Name"
+      }
+    },
+    "order" : {
+      "fields" : {
+        "id" : "ID",
+        "user-id" : "User ID",
+        "status" : "Status",
+        "total-amount" : "Total Amount",
+        "shipping-address" : "Shipping Address",
+        "created-at" : "Created At",
+        "checkout-session-id" : "Checkout Session ID"
+      }
+    },
+    "order-item" : {
+      "table-title" : "Order Items",
+      "fields" : {
+        "id" : "ID",
+        "order-id" : "Order ID",
+        "book-id" : "Book ID",
+        "subbook-id" : "Subbook ID",
+        "format" : "Format",
+        "quantity" : "Quantity",
+        "unit-price" : "Unit Price",
+        "subtotal" : "Subtotal",
+        "coupon-id" : "Coupon ID",
+        "price-id" : "Price ID"
+      }
+    },
+    "book-config" : {
+      "title_am" : "Armenian Title",
+      "title_en" : "English Title",
+      "title_ru" : "Russian Title",
+      "image" : "Image",
+      "discount-percent" : "Discount Percent",
+      "discount-deadline" : "Discount Deadline",
+      "description_am" : "Armenian Description",
+      "description_en" : "English Description",
+      "description_ru" : "Russian Description"
+    },
+    "subbook-config" : {
+      "title" : "Subbooks",
+      "create-button" : "Create",
+      "edit-button" : "Edit",
+      "delete-button" : "Delete",
+      "publisher" : "Publisher",
+      "year" : "Year",
+      "format" : "Format",
+      "language" : "Language",
+      "file" : "File",
+      "introduction-file" : "Introduction File",
+      "price" : "Price (AMD)",
+      "duration" : "Duration",
+      "reader" : "Reader",
+      "pages-count" : "Pages Count",
+      "quantity" : "Quantity"
+    },
+    "author-config" : {
+      "fullname_am" : "Armenian Full Name",
+      "fullname_en" : "English Full Name",
+      "fullname_ru" : "Russian Full Name",
+      "image" : "Image",
+      "autobiographical_am" : "Armenian Autobiographical",
+      "autobiographical_en" : "English Autobiographical",
+      "autobiographical_ru" : "Russian Autobiographical"
+    },
+    "genre-config" : {
+      "name_am" : "Armenian Name",
+      "name_en" : "English Name",
+      "name_ru" : "Russian Name",
+      "base-genre-id" : "Base Genre Id"
+    }
+  }
+}

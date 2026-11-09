@@ -1,0 +1,82 @@
+.books-table {
+
+  tbody {
+
+    tr { height: 60px; }
+  }
+  .checkbox-column {
+  }
+  .id-column {
+    // max-width: 50px;
+    // min-width: 50px;
+    // width: 50px;
+    // background-color: blue;
+    // color: white;
+  }
+  .title-column {
+    width: 20vw;
+  }
+  .author-column {
+    width: 10vw;
+  }
+  .genre-column {
+    width: 15vw;
+  }
+  .rating-column {
+
+    .container {
+      display: flex;
+      align-items: center;
+      column-gap: 5px;
+      font-size: var(--fs-2);
+
+      i { color: var(--orange-500); }
+    }
+  }
+  .formats-column {
+
+    ul {
+      display: flex;
+      column-gap: 5px;
+  
+      li {
+        width: 30px;
+        height: 30px;
+        display: grid;
+        place-items: center;
+        background: var(--primary);
+        border-radius: 50%;
+        
+        i { color: var(--on-primary); }
+      }
+    }
+  }
+  .languages-column {
+
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+
+      li {
+        
+        .additional-count,
+        img {
+          width: 30px;
+          height: 30px;
+          border: 1px solid var(--neutral-900);
+          border-radius: 50%;
+        }
+        .additional-count {
+          display: grid;
+          place-items: center;
+          font-size: var(--fs-2);
+        }
+      }
+    }
+  }
+  .discount-column {
+    text-align: center;
+    font-size: var(--fs-2);
+  }
+}

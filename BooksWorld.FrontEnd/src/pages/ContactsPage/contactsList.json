@@ -1,0 +1,42 @@
+[
+  {
+    "url" : "https://www.instagram.com/books_world",
+    "icon" : "fa-brands fa-square-instagram",
+    "content" : "books_world"
+  },
+  {
+    "url" : "https://www.facebook.com/BooksWorld",
+    "icon" : "fa-brands fa-square-facebook",
+    "content" : "BooksWorld"
+  },
+  {
+    "url" : "https://x.com/BooksWorld",
+    "icon" : "fa-brands fa-square-x-twitter",
+    "content" : "BooksWorld"
+  },
+  {
+    "url" : "https://www.youtube.com/@books_world",
+    "icon" : "fa-brands fa-square-youtube",
+    "content" : "books_world"
+  },
+  {
+    "url" : "https://twitter.com/BooksWorld",
+    "icon" : "fa-brands fa-square-twitter",
+    "content" : "BooksWorld"
+  },
+  {
+    "url" : "",
+    "icon" : "fa-brands fa-square-whatsapp",
+    "content" : "+374 11 24 38 72"
+  },
+  {
+    "url" : "",
+    "icon" : "fa-solid fa-square-phone",
+    "content" : "+374 11 24 38 72"
+  },
+  {
+    "url" : "",
+    "icon" : "fa-solid fa-envelope",
+    "content" : "booksworld@gmail.com"
+  }
+]

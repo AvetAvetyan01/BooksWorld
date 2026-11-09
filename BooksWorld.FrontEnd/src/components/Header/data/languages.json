@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "value": "Armenian",
+    "image": "/images/flags/armenia.png",
+    "name" : {
+      "Armenian" : "Հայերեն",
+      "English" : "Armenian",
+      "Russian" : "Армянский"
+    }
+  },
+  {
+    "id": 2,
+    "value": "English",
+    "image": "/images/flags/uk.png",
+    "name" : {
+      "Armenian" : "Անգլերեն",
+      "English" : "English",
+      "Russian" : "Англиский"
+    }
+  },
+  {
+    "id": 3,
+    "value": "Russian",
+    "image": "/images/flags/russia.png",
+    "name" : {
+      "Armenian" : "Ռուսերեն",
+      "English" : "Russian",
+      "Russian" : "Русский"
+    }
+  }
+]

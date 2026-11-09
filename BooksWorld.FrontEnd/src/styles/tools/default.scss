@@ -1,0 +1,67 @@
+﻿* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  // transition: 0.3s;
+}
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+ul,
+ol,
+li {
+  list-style-type: none;
+}
+img {
+  display: block;
+}
+input, textarea {
+  outline: none;
+  font-size: 1rem;
+  font-family: var(--standartFont);
+  background: var(--bg);
+  color: var(--text);
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  appearance: none;
+}
+
+// | Тип устройства               | Примерная ширина (px) |
+// | ---------------------------- | --------------------- |
+// | Мобильные телефоны           | 320–480               |
+// | Мобильные телефоны (большие) | 481–767               |
+// | Планшеты (портрет)           | 768–1023              |
+// | Планшеты (альбом)            | 1024–1279             |
+// | Десктопы (малые)             | 1280–1439             |
+// | Десктопы (средние)           | 1440–1919             |
+// | Десктопы (большие)           | 1920+                 |
+
+html,
+body {
+  height: 100%;
+  font-family: var(--standartFont);
+  color: var(--text);
+  background: var(--bg);
+
+  // *{ border: 1px solid red !important; }
+  // *{ border: 1px solid green ; }
+}
+body {  
+  overflow-x: hidden;
+}
+.root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+main {  
+  flex: 1;
+}
+a {
+  font-family: var(--standartFont);
+  color: initial;
+  text-decoration: none;
+}
+

@@ -1,0 +1,23 @@
+.details-list {
+  display: grid;
+  row-gap: 5px;
+
+  .detail {
+    display: flex;
+    align-items: end;
+    align-items: start;
+    column-gap: 20px;
+    font-size: var(--fs-2);
+    
+    .name {
+      width: 50%;
+      color: var(--text-secondary);
+      font-weight: 600;
+    }
+    .value {
+      width: 50%;
+      color: var(--text);
+      font-weight: 300;
+    }
+  }
+}

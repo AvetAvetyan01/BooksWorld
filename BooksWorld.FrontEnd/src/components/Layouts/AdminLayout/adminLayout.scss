@@ -1,0 +1,15 @@
+.admin-app {
+  height: 100%;
+  display: flex;
+  flex: 1;  
+  // height: 100%; // suspicious
+  color: var(--text);
+}
+.admin-layout {
+  min-height: 100vh;
+  position: relative;
+  margin-left: 300px;
+  width: calc(100% - 300px);
+  padding: 20px;
+  background: var(--bg);
+}

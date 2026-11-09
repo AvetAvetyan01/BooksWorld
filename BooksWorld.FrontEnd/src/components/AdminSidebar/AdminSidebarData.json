@@ -1,0 +1,62 @@
+[
+  {
+    "id" : 1,
+    "url" : "dashboard",
+    "icon" : "fa-solid fa-grip",
+    "name" : {
+      "Armenian" : "Կառավարման վահանակ",
+      "English" : "Dashboard",
+      "Russian" : "Панель управления"
+    }
+  },
+  {
+    "id" : 2, 
+    "url" : "tables",
+    "icon" : "fa-solid fa-table-list",
+    "name" : {
+      "Armenian" : "Աղյուսակներ",
+      "English" : "Tables",
+      "Russian" : "Таблицы"
+    }
+  },
+  {
+    "id" : 3,
+    "url" : "statistics",
+    "icon" : "fa-solid fa-chart-column",
+    "name" : {
+      "Armenian" : "Վիճակագրություն",
+      "English" : "Statistics",
+      "Russian" : "Статистика"
+    }
+  },
+  {
+    "id" : 4,
+    "url" : "feedback",
+    "icon" : "fa-solid fa-headset",
+    "name" : {
+      "Armenian" : "Հետադարձ կապ",
+      "English" : "Feedback",
+      "Russian" : "Обратная связь"
+    }
+  },
+  {
+    "id" : 5,
+    "url" : "ads-config",
+    "icon" : "fa-solid fa-rectangle-ad",
+    "name" : {
+      "Armenian" : "ADS-ի Կարգավորում",
+      "English" : "ADS Configuration",
+      "Russian" : "Конфигурация ADS"
+    }
+  },
+  {
+    "id" : 6,
+    "url" : "settings",
+    "icon" : "fa-solid fa-gear",
+    "name" : {
+      "Armenian" : "Կարգավորումներ",
+      "English" : "Settings",
+      "Russian" : "Настройки"
+    }
+  }
+]

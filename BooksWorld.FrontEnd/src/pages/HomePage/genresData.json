@@ -1,0 +1,65 @@
+[
+  {
+    "id" : 2,
+    "imagePath" : "/images/genres/1.png",
+    "name" : {
+      "Armenian": "Բիզնես",
+      "English" : "Bussiness",
+      "Russian" : "Бизнес"
+    }
+  },
+  {
+    "id" : 72,
+    "imagePath" : "/images/genres/2.png",
+    "name" : {
+      "Armenian": "Դետեկտիվ",
+      "English" : "Detective",
+      "Russian" : "Детектьив"
+    }
+  },
+  {
+    "id" : 99,
+    "imagePath" : "/images/genres/3.jpeg",
+    "name" : {
+      "Armenian": "Գեղարվեստական",
+      "English" : "Fiction",
+      "Russian" : "Ходожевственный"
+    }
+  },
+  {
+    "id" : 175,
+    "imagePath" : "/images/genres/4.png",
+    "name" : {
+      "Armenian": "Պատմական",
+      "English" : "Historical",
+      "Russian" : "Историчекий"
+    }
+  },
+  {
+    "id" : 280,
+    "imagePath" : "/images/genres/5.png",
+    "name" : {
+      "Armenian": "Գրականություն",
+      "English" : "Literature",
+      "Russian" : "Литературный"
+    }
+  },
+  {
+    "id" : 393,
+    "imagePath" : "/images/genres/6.jpg",
+    "name" : {
+      "Armenian": "Ծրագրավորում",
+      "English" : "Programming",
+      "Russian" : "Программирование"
+    }
+  },
+  {
+    "id" : 487,
+    "imagePath" : "/images/genres/7.png",
+    "name" : {
+      "Armenian": "Գիտական",
+      "English" : "Since",
+      "Russian" : "Научный"
+    }
+  }
+]

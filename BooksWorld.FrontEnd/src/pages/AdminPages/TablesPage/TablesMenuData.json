@@ -1,0 +1,38 @@
+[
+  {
+    "id" : 1,
+    "name" : {
+      "Armenian" : "Գրքեր",
+      "English" : "Books",
+      "Russian" : "Книги"
+    },
+    "value" : "books"
+  },
+  {
+    "id" : 2,
+    "name" : {
+      "Armenian" : "Հեղինակներ",
+      "English" : "Authors",
+      "Russian" : "Авторы"
+    },
+    "value" : "authors"
+  },
+  {
+    "id" : 3,
+    "name" : {
+      "Armenian" : "Ժանրեր",
+      "English" : "Genres",
+      "Russian" : "Жанры"
+    },
+    "value" : "genres"
+  },
+  {
+    "id" : 4,
+    "name" : {
+      "Armenian" : "Պատվերներ",
+      "English" : "Orders",
+      "Russian" : "Заказы"
+    },
+    "value" : "orders"
+  }
+]

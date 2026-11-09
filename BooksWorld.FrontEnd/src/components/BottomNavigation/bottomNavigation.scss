@@ -1,0 +1,41 @@
+.bottom-navigation {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  display: none;
+  justify-content: space-between;
+  padding: 10px 5%;
+  border-top: 1px solid var(--neutral-500);
+  background: var(--bg);
+  z-index: 4;
+  
+  @media (max-width: 600px) {
+    display: flex;
+  }
+  li {
+    cursor: pointer;
+
+    * {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      row-gap: 5px;
+      
+      i {
+        color: var(--primary);
+        font-size: 20px;
+      }
+      p {
+        color: var(--text);
+        font-size: var(--fs-1);
+        font-weight: 500;
+      }
+      &:hover {
+      }
+    }
+    button {
+      all: unset; 
+    }
+  }
+}
